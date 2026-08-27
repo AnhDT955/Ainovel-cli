@@ -28,8 +28,8 @@ go.work.sum
 .env
 
 # Thư mục cấu hình cấp dự án (có thể chứa API key)
-.ainovel/
-config/
+#.ainovel/
+#config/
 
 # Thư mục workspace (output tiểu thuyết, không commit lên repo)
 workspace/

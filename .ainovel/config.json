@@ -1,0 +1,43 @@
+{
+  // ── Provider & model mặc định ─────────────────────────────────────────────
+  "provider": "openai",
+  "model": "gpt-5.6-luna",
+  "thinking": "low",
+  // ── Kho xác thực nhà cung cấp ─────────────────────────────────────────────
+  "providers": {
+    "openai": {
+      "type": "openai",
+      "api_key": "sk-709b0e4429f88a66-gjiazd-3e391f87",
+      "base_url": "https://rahff2y.abc-tunnel.us/v1",
+      "models": [
+        "gpt-5.6-luna"
+      ]
+    }
+  },
+  // ── Ghi đè theo vai trò ───────────────────────────────────────────────────
+  "roles": {
+    "coordinator": {
+      "provider": "openai",
+      "model": "gpt-5.6-luna"
+    },
+    "architect": {
+      "provider": "openai",
+      "model": "gpt-5.6-luna"
+    },
+    "writer": {
+      "provider": "openai",
+      "model": "gpt-5.6-luna"
+    },
+    "editor": {
+      "provider": "openai",
+      "model": "gpt-5.6-luna"
+    },
+    "extractor": {
+      "provider": "openai",
+      "model": "gpt-5.6-luna",
+      "thinking": "medium"
+    }
+  },
+  "context_window": 250000,
+  "style": "default"
+}
