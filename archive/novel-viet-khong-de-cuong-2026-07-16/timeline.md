@@ -1,0 +1,33 @@
+# Dòng thời gian
+
+- **Chương 1 [Sáng, sau cơn mưa cuối xuân]**：Tỉnh dậy sau khi xuyên qua và tiếp nhận ký ức hai đời.（Lý Xuyên）
+- **Chương 1 [Sáng muộn]**：Đối thoại trong nhà, Lý Xuyên tuyên bố không còn tìm Liễu Như Yên nữa.（Lý Xuyên、Lý Vạn Sơn、Lý Thiết）
+- **Chương 1 [Giữa buổi]**：Ba đệ tử võ quán đến thúc ép, bị Lý Xuyên đánh lui khỏi cổng nhà.（Lý Xuyên、đệ tử võ quán、Lý Vạn Sơn、Lý Thiết）
+- **Chương 1 [Trưa]**：Lý Xuyên từ chối dùng Tụ Khí Đan, để gia gia giữ lại.（Lý Xuyên、Lý Vạn Sơn）
+- **Chương 1 [Chiều]**：Hắn trở lại sân tập, kích hoạt và nhận biết Hỗn Nguyên Đạo lục.（Lý Xuyên）
+- **Chương 1 [Hoàng hôn]**：Trương Bách Xuyên đến kiểm tra, giao nhiệm vụ luyện quyền và nhắc kiểm tra gốc luyện tủy ngày mai.（Lý Xuyên、Trương Bách Xuyên）
+- **Chương 2 [rạng sáng]**：Dậy sớm luyện Quyền pháp cơ sở và nhận phản hồi độ thuần thục từ Hỗn Nguyên Đạo lục.（Lý Xuyên）
+- **Chương 2 [sáng sớm]**：Ba đệ tử võ quán tới nhà truyền lệnh, bị Lý Xuyên đánh lui.（Lý Xuyên、đệ tử võ quán、Lý Vạn Sơn、Lý Thiết）
+- **Chương 2 [sáng]**：Lý Vạn Sơn và Lý Thiết bàn về việc Lý Xuyên đi kiểm tra gốc luyện tủy.（Lý Xuyên、Lý Vạn Sơn、Lý Thiết）
+- **Chương 2 [giữa buổi]**：Lý Xuyên đến võ quán, bị khiêu khích nhưng không mắc bẫy, sau đó vào kiểm tra gốc luyện tủy.（Lý Xuyên、Triệu Phong、Liễu Như Yên、Trương Bách Xuyên）
+- **Chương 2 [giữa trưa]**：Viên ngọc kiểm tra phát hiện Lý Xuyên có Luyện Tủy chi tướng, quán chủ quyết định bồi dưỡng riêng.（Lý Xuyên、Trương Bách Xuyên、Triệu Phong、Liễu Như Yên）
+- **Chương 2 [trưa]**：Trương Bách Xuyên thông báo huyện nha sắp đến kiểm tra võ quán vì vụ dân phu bến tàu mất tích.（Lý Xuyên、Trương Bách Xuyên）
+- **Chương 3 [sáng sớm]**：Sáng sớm cày Quyền pháp cơ sở và tăng độ thuần thục.（Lý Xuyên）
+- **Chương 3 [đầu sáng]**：Quán chủ giao thêm bài đứng tấn và vận khí thô sơ, kiểm tra thái độ của Lý Xuyên.（Lý Xuyên、Trương Bách Xuyên）
+- **Chương 3 [giữa sáng]**：Học đồ báo tin thêm một phu khuân vác mất tích ở bến tàu, có vết máu trong khoang hàng.（Lý Xuyên、Trương Bách Xuyên）
+- **Chương 3 [giữa sáng]**：Triệu Phong và Liễu Như Yên xuất hiện, chèn ép bằng lời nói nhưng bị chặn lại.（Lý Xuyên、Triệu Phong、Liễu Như Yên、Trương Bách Xuyên）
+- **Chương 3 [cuối sáng]**：Một học đồ mang thẻ gỗ khắc ký hiệu sọ nứt vào luyện đường; quán chủ ra lệnh cấm tự ý rời võ quán.（Lý Xuyên、Trương Bách Xuyên）
+- **Chương 4 [sáng sớm]**：Lý Xuyên luyện quyền, đứng tấn dưới sự quan sát và chỉ điểm của Trương Bách Xuyên.（Lý Xuyên、Trương Bách Xuyên）
+- **Chương 4 [giữa buổi sáng]**：Phu tử bến tàu tới võ quán, dâng vật chứng mang ký hiệu sọ nứt và lời khai về chữ 'hàng'.（Lý Xuyên、Trương Bách Xuyên、phu tử bến tàu）
+- **Chương 4 [sau đó]**：Triệu Phong xuất hiện, tìm cách làm nhẹ chuyện bến tàu nhưng bị Trương Bách Xuyên chặn lại.（Lý Xuyên、Triệu Phong、Trương Bách Xuyên）
+- **Chương 4 [cuối chương]**：Lý Xuyên quyết định âm thầm theo dõi bến tàu và tiếp tục cày luyện.（Lý Xuyên）
+- **Chương 5 [sáng sớm]**：Cày Quyền pháp cơ sở trong sân võ quán và nhích độ thuần thục lên 33/100.（Lý Xuyên）
+- **Chương 5 [trước giờ ngọ]**：Gặp Lý Thiết ở cổng sau và giấu ý định ra bến tàu dưới danh nghĩa đi xem tình hình.（Lý Xuyên、Lý Thiết）
+- **Chương 5 [đầu giờ ngọ]**：Ở quán trà gần bến tàu, Triệu Phong xuất hiện để cảnh cáo và ngăn Lý Xuyên can dự.（Lý Xuyên、Triệu Phong）
+- **Chương 5 [giữa trưa]**：Quan phủ tuần kiểm bến tàu, bến số ba hỗn loạn, Lý Xuyên thấy người sống bị nhốt trong kho.（Lý Xuyên、Quan phủ、Hắc Cốt Bang）
+- **Chương 5 [giữa trưa]**：Lý Xuyên theo dấu sang kho tây, nghe được lời nhắc về Triệu gia và thấy dấu hiệu giam người.（Lý Xuyên、Hắc Cốt Bang、Triệu gia）
+- **Chương 5 [cuối giờ ngọ]**：Trong kho phụ, hắn phát hiện vách gỗ khắc sọ nứt cùng tên Hắc Lang, xác nhận đầu mối mới.（Lý Xuyên、Hắc Lang）
+- **Chương 6 [chiều muộn, bến tàu Thanh Hà Huyện]**：Đột nhập dãy kho phía tây và phát hiện người bị giam cùng vật chứng sọ nứt.（Lý Xuyên）
+- **Chương 6 [chiều muộn, bến tàu Thanh Hà Huyện]**：Triệu Phong xuất hiện gián tiếp ở đầu dãy kho, xác nhận có liên hệ với bến tàu.（Lý Xuyên、Triệu Phong）
+- **Chương 6 [ngay sau đó]**：Đánh lui lực lượng canh kho, giành được tờ danh sách tuyến hàng qua đêm và thẻ gỗ 'Tây hà'.（Lý Xuyên、Hắc Cốt Bang）
+- **Chương 6 [đêm xuống, bến tàu]**：Phóng hỏa cầu gỗ, dùng khói lửa che thân để rút vào bóng tối.（Lý Xuyên）

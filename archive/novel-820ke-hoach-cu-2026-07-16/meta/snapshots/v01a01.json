@@ -1,0 +1,47 @@
+[
+  {
+    "volume": 1,
+    "arc": 1,
+    "name": "Lý Xuyên",
+    "status": "An toàn tại Thanh Hà Huyện, đang trên đà mở rộng từ học đồ sang võ giả thực chiến.",
+    "power": "Từ học đồ yếu thế trở thành mầm võ giả có Hỗn Nguyên Đạo lục, cày Liệt Hổ Quyền, thổ nạp pháp, đao pháp và nhiều võ học đến mức có thể dung hợp, đặt nền cho lộ trình Bất Nhập Lưu.",
+    "motivation": "Âm thầm tích lũy thực lực để bảo vệ gia đình và cắt sạch hậu họa từ Liễu Như Yên, Triệu Phong, Hắc Cốt Bang, Huyết Liên Giáo.",
+    "relations": "Chặt đứt nghiệt duyên với Liễu Như Yên; thiết lập tín nhiệm lợi ích với Thẩm Yên Nhiên; giữ thế bảo hộ với gia gia Lý Vạn Sơn và đại bá Lý Thiết; xung đột trực diện với Triệu Phong, Hắc Lang."
+  },
+  {
+    "volume": 1,
+    "arc": 1,
+    "name": "Lý Vạn Sơn",
+    "status": "Còn sống, sức khỏe suy giảm do tuổi tác và tàn tật.",
+    "power": "Không thay đổi lớn, là trụ cột tinh thần và ký ức chiến trường.",
+    "motivation": "Dồn hết sức để nuôi cháu thành người, chấp nhận khổ cực và nhịn phần mình.",
+    "relations": "Gắn bó sâu với Lý Xuyên; được cháu bảo vệ nhiều hơn trước."
+  },
+  {
+    "volume": 1,
+    "arc": 1,
+    "name": "Lý Thiết",
+    "status": "Còn sống, từng bị Hắc Cốt Bang làm bị thương nhẹ.",
+    "power": "Không thay đổi lớn, thể hiện sức chịu đựng và sự nhẫn nại.",
+    "motivation": "Làm lụng kiếm tiền thuốc men, giữ mái nhà trước sức ép của quan phủ và hắc bang.",
+    "relations": "Gắn bó và phụ thuộc lẫn nhau với Lý Xuyên trong việc chống đỡ gia đình."
+  },
+  {
+    "volume": 1,
+    "arc": 1,
+    "name": "Thẩm Yên Nhiên",
+    "status": "An toàn, đang mở rộng mạng lưới thương hội.",
+    "power": "Trở thành đối tác ngầm biết khai thác Lý Xuyên như một lực lượng hộ hàng và xử lý bóng tối.",
+    "motivation": "Kiếm lợi ích, thông tin và tuyến hàng an toàn; đồng thời giữ quyền chủ động trong thương hội.",
+    "relations": "Thiết lập quan hệ hợp tác bí mật, tin cậy có ranh giới với Lý Xuyên."
+  },
+  {
+    "volume": 1,
+    "arc": 1,
+    "name": "Hắc Lang",
+    "status": "Còn sống nhưng thế lực suy giảm mạnh.",
+    "power": "Mạng lưới Hắc Cốt Bang bị tổn thất nặng, quyền kiểm soát suy yếu.",
+    "motivation": "Chiếm giữ địa bàn, bảo kê, buôn người và đàn áp mọi lực cản ở Thanh Hà Huyện.",
+    "relations": "Thù địch trực diện với Lý Xuyên, đụng chạm lợi ích với Triệu gia."
+  }
+]

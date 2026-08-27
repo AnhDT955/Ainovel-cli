@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Trần Lỗi",
+    "first_seen_chapter": 3,
+    "last_seen_chapter": 8,
+    "appearance_count": 5,
+    "appearance_chapters": [
+      3,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "name": "Chu Đào",
+    "first_seen_chapter": 3,
+    "last_seen_chapter": 8,
+    "appearance_count": 5,
+    "appearance_chapters": [
+      3,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "name": "Hắc Cốt Bang",
+    "first_seen_chapter": 11,
+    "last_seen_chapter": 19,
+    "appearance_count": 7,
+    "appearance_chapters": [
+      11,
+      12,
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "name": "Lục thúc",
+    "first_seen_chapter": 13,
+    "last_seen_chapter": 18,
+    "appearance_count": 4,
+    "appearance_chapters": [
+      13,
+      14,
+      15,
+      18
+    ]
+  }
+]

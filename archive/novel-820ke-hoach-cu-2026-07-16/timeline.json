@@ -1,0 +1,875 @@
+[
+  {
+    "chapter": 1,
+    "time": "Đêm mưa, đầu chương",
+    "event": "Tỉnh lại trong đau đớn sau khi xuyên qua và tiếp nhận ký ức nguyên chủ",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 1,
+    "time": "Sau khi tỉnh lại",
+    "event": "Gặp gia gia và đại bá mang bát cháo nghèo vào phòng",
+    "characters": [
+      "Lý Xuyên",
+      "Lý Vạn Sơn",
+      "Lý Thiết"
+    ]
+  },
+  {
+    "chapter": 1,
+    "time": "Cuối chương",
+    "event": "Xác lập quyết tâm mới: không lãng phí tài nguyên gia đình, ưu tiên sống sót và bảo vệ người thân",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 2,
+    "time": "Sáng sớm",
+    "event": "Lý Vạn Sơn và Lý Thiết mang cháo, thuốc vào phòng; Lý Xuyên nhận ra sự hy sinh của gia đình",
+    "characters": [
+      "Lý Xuyên",
+      "Lý Vạn Sơn",
+      "Lý Thiết"
+    ]
+  },
+  {
+    "chapter": 2,
+    "time": "Sau bữa sáng",
+    "event": "Lý Xuyên tuyên bố không tiếp tục lãng phí tài nguyên gia đình và muốn phụ việc nhà",
+    "characters": [
+      "Lý Xuyên",
+      "Lý Vạn Sơn",
+      "Lý Thiết"
+    ]
+  },
+  {
+    "chapter": 2,
+    "time": "Buổi sáng đến chiều",
+    "event": "Lý Vạn Sơn bắt Lý Xuyên đứng tấn để ép khôi phục thân thể",
+    "characters": [
+      "Lý Xuyên",
+      "Lý Vạn Sơn"
+    ]
+  },
+  {
+    "chapter": 2,
+    "time": "Giữa trưa",
+    "event": "Lý Xuyên nghe chuyện Hắc Cốt Bang ở bến tàu, ghi nhớ mầm họa ngầm của huyện",
+    "characters": [
+      "Lý Xuyên",
+      "Lý Thiết"
+    ]
+  },
+  {
+    "chapter": 2,
+    "time": "Đêm",
+    "event": "Liễu Như Yên gõ cửa gọi Lý Xuyên giữa đêm, chặn lại ở ngưỡng xung đột chương sau",
+    "characters": [
+      "Lý Xuyên",
+      "Lý Vạn Sơn",
+      "Lý Thiết",
+      "Liễu Như Yên"
+    ]
+  },
+  {
+    "chapter": 3,
+    "time": "Ban ngày, tại Liệt Hổ Võ Quán",
+    "event": "Liễu Như Yên đến sân viện xin đan dược và bị Lý Xuyên thẳng thừng từ chối, rồi công khai cắt đứt quan hệ.",
+    "characters": [
+      "Lý Xuyên",
+      "Liễu Như Yên",
+      "Trần Lỗi",
+      "Chu Đào"
+    ]
+  },
+  {
+    "chapter": 3,
+    "time": "Ngay sau đó, tại sân viện",
+    "event": "Triệu Phong xuất hiện, mượn cớ luận bàn để chèn ép, nhưng Lý Xuyên không mắc bẫy.",
+    "characters": [
+      "Lý Xuyên",
+      "Triệu Phong",
+      "học đồ võ quán"
+    ]
+  },
+  {
+    "chapter": 3,
+    "time": "Chạng vạng, trong phòng riêng",
+    "event": "Lý Xuyên trở về phòng, lật quyền phổ Liệt Hổ Quyền và cảm nhận sự rung động của kim thủ chỉ.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 4,
+    "time": "Đêm muộn, sau khi Triệu Phong rời đi",
+    "event": "Khóa cửa phòng, gọi Hỗn Nguyên Đạo lục trong ý thức và quan sát quyển tử kim lục bìa mở trang đầu",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 4,
+    "time": "Đêm muộn",
+    "event": "Bảng độ thuần thục hiện ra, ghi nhận Liệt Hổ Quyền và thổ nạp pháp cơ bản",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 4,
+    "time": "Đêm muộn",
+    "event": "Thử luyện Liệt Hổ Quyền liên tục trong phòng, xác nhận độ thuần thục tăng theo mỗi lượt",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 4,
+    "time": "Đêm muộn",
+    "event": "Chuyển sang luyện thổ nạp pháp cơ bản và nhận thấy khí huyết vận hành mượt hơn",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 4,
+    "time": "Trước lúc nghỉ đêm",
+    "event": "Phát hiện cảnh báo về khâu dung hợp nền móng và linh hồn đồng bộ quá nhanh",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 5,
+    "time": "Sáng - chiều cùng ngày",
+    "event": "Từ sáng sớm đến chiều tối, Lý Xuyên liên tục luyện Liệt Hổ Quyền trong sân sau.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 5,
+    "time": "Giữa buổi sáng",
+    "event": "Hai học đồ đi ngang châm chọc chuyện Liễu Như Yên, bị Lý Xuyên đáp trả lạnh nhạt rồi bỏ đi.",
+    "characters": [
+      "Lý Xuyên",
+      "Trần Lỗi",
+      "Chu Đào"
+    ]
+  },
+  {
+    "chapter": 5,
+    "time": "Giữa trưa - đầu chiều",
+    "event": "Hắn ăn qua loa bữa trưa, tiếp tục luyện quyền và điều tức bằng thổ nạp pháp cơ bản.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 5,
+    "time": "Hoàng hôn",
+    "event": "Trương Bách Xuyên quan sát hắn luyện cả buổi, nhắc ngày mai đối luyện phải biết nhịn để giữ mạng.",
+    "characters": [
+      "Lý Xuyên",
+      "Trương Bách Xuyên"
+    ]
+  },
+  {
+    "chapter": 5,
+    "time": "Đêm",
+    "event": "Trong phòng, Lý Xuyên kiểm tra Hỗn Nguyên Đạo lục và quyết định giữ lại một phần thực lực cho ngày mai.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 6,
+    "time": "Sáng sớm",
+    "event": "Triệu Phong bước vào sân võ quán, mượn cớ chỉ điểm để công khai gây sức ép lên Lý Xuyên.",
+    "characters": [
+      "Lý Xuyên",
+      "Triệu Phong",
+      "Trần Lỗi",
+      "Chu Đào",
+      "Trương Bách Xuyên"
+    ]
+  },
+  {
+    "chapter": 6,
+    "time": "Ngay sau đó",
+    "event": "Hai người đối luyện trước toàn bộ học đồ; Lý Xuyên cố ý chịu thiệt nhỏ để giữ bí mật thực lực.",
+    "characters": [
+      "Lý Xuyên",
+      "Triệu Phong"
+    ]
+  },
+  {
+    "chapter": 6,
+    "time": "Giữa buổi",
+    "event": "Trương Bách Xuyên can thiệp, dừng trận ở mức vừa đủ và nhắc Lý Xuyên phải biết nhịn đúng lúc.",
+    "characters": [
+      "Lý Xuyên",
+      "Trương Bách Xuyên"
+    ]
+  },
+  {
+    "chapter": 6,
+    "time": "Sau đối luyện",
+    "event": "Lý Xuyên về phòng, xử lý tụ huyết vai trái, kiểm tra độ thuần thục và củng cố kế hoạch cày luyện tiếp.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 7,
+    "time": "sáng",
+    "event": "Cày quyền và thổ nạp liên tục để hoàn thành Luyện Bì sơ bộ",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 7,
+    "time": "sáng muộn",
+    "event": "Lý Thiết mang củi đến sân, nhắc chuyện gia gia hỏi xương hầm",
+    "characters": [
+      "Lý Xuyên",
+      "Lý Thiết"
+    ]
+  },
+  {
+    "chapter": 7,
+    "time": "giữa sáng",
+    "event": "Trần Lỗi và Chu Đào đến khiêu khích nhưng bị Lý Xuyên đẩy lùi",
+    "characters": [
+      "Lý Xuyên",
+      "Trần Lỗi",
+      "Chu Đào"
+    ]
+  },
+  {
+    "chapter": 7,
+    "time": "trưa",
+    "event": "Ăn sáng đạm bạc cùng gia đình, nhận ra sự hy sinh âm thầm của người nhà",
+    "characters": [
+      "Lý Xuyên",
+      "Lý Vạn Sơn",
+      "Lý Thiết"
+    ]
+  },
+  {
+    "chapter": 7,
+    "time": "chiều",
+    "event": "Đi ra chợ hỏi thăm dấu vết tài nguyên và lần ra manh mối Liễu Như Yên đi cùng nam nhân họ Triệu",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 7,
+    "time": "xế chiều",
+    "event": "Trương Bách Xuyên nhìn ra khí huyết dày hơn và nhắc Lý Xuyên giữ chừng mực",
+    "characters": [
+      "Lý Xuyên",
+      "Trương Bách Xuyên"
+    ]
+  },
+  {
+    "chapter": 7,
+    "time": "đêm",
+    "event": "Đêm về, Lý Xuyên kiểm sổ nợ cũ và quyết ý thanh toán quá khứ",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 8,
+    "time": "Đêm",
+    "event": "Kiểm kê đồ vật nguyên chủ từng đưa cho Liễu Như Yên và bắt đầu ghép manh mối",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 8,
+    "time": "Đêm",
+    "event": "Lý Thiết trở về từ bến tàu, nhắc chuyện xương ống rẻ để ninh canh",
+    "characters": [
+      "Lý Xuyên",
+      "Lý Thiết"
+    ]
+  },
+  {
+    "chapter": 8,
+    "time": "Đêm",
+    "event": "Lập sổ nợ cũ và xác nhận Liệt Hổ Quyền viên mãn",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 8,
+    "time": "Đêm muộn",
+    "event": "Thấy người Triệu gia đi ngang đầu ngõ và rời nhà theo dấu",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 9,
+    "time": "Đêm Thanh Hà Huyện, sau khi trời tối",
+    "event": "Rời nhà theo dấu một người Triệu gia vừa xuất hiện ở đầu ngõ.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 9,
+    "time": "Đêm Thanh Hà Huyện, trên đường nam",
+    "event": "Quan sát mục tiêu đổi nhịp bước, quay đầu và đi vào khu kho bãi gần bờ sông.",
+    "characters": [
+      "Lý Xuyên",
+      "Triệu gia"
+    ]
+  },
+  {
+    "chapter": 9,
+    "time": "Đêm Thanh Hà Huyện, tại khu kho bãi",
+    "event": "Phát hiện một hẻm tối có cửa sau, hai người canh và cấu trúc đường lui ba hướng.",
+    "characters": [
+      "Lý Xuyên",
+      "Triệu gia",
+      "nhóm giao dịch bí mật"
+    ]
+  },
+  {
+    "chapter": 9,
+    "time": "Đêm Thanh Hà Huyện, ngay trong hẻm",
+    "event": "Nghe được trao đổi về lô hàng, đổi chỗ, né truy xét và 'xử lý cái đuôi'.",
+    "characters": [
+      "Lý Xuyên",
+      "Triệu gia",
+      "nhóm giao dịch bí mật"
+    ]
+  },
+  {
+    "chapter": 9,
+    "time": "Kết đêm",
+    "event": "Ghi nhớ sơ đồ hẻm, người chặn phía nam và rút lui an toàn để chuẩn bị bước kế tiếp.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 10,
+    "time": "Đêm muộn",
+    "event": "Rời khu kho bãi và chủ động vòng lại kiểm tra dấu hiệu phục kích.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 10,
+    "time": "Ngay sau đó",
+    "event": "Bị một tên đoản đao phục kích trong ngõ hẹp, phản kích và giết chết hắn.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 10,
+    "time": "Liền sau đó",
+    "event": "Tiêu diệt tiếp ba kẻ chặn hậu/chốt hẻm bằng côn ngắn, đao dài và dây xích.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 10,
+    "time": "Đêm cùng ngày",
+    "event": "Khám xét thi thể, lấy thẻ gỗ, tờ giấy và mảnh giấy ghi 'Bến Đông'.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 10,
+    "time": "Rạng sáng",
+    "event": "Trở về nhà, xác nhận Lý Thiết bị bến Đông tăng tiền bảo kê và bắt đầu bị nhắm tới.",
+    "characters": [
+      "Lý Xuyên",
+      "Lý Thiết"
+    ]
+  },
+  {
+    "chapter": 10,
+    "time": "Trước khi ngủ",
+    "event": "Đốt giấy, đặt ra nguyên tắc không lưu danh và quyết định sáng mai đến bến tàu.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 11,
+    "time": "chiều ngày hiện tại",
+    "event": "Lý Xuyên tới bến Đông, chứng kiến Hắc Cốt Bang tăng tiền bảo kê và đánh Lý Thiết",
+    "characters": [
+      "Lý Xuyên",
+      "Lý Thiết",
+      "Hắc Cốt Bang"
+    ]
+  },
+  {
+    "chapter": 11,
+    "time": "chiều tối cùng ngày",
+    "event": "Hắn quan sát kho hàng, lều canh, lối sau và các mắt xích vận chuyển bí mật của bến Đông",
+    "characters": [
+      "Lý Xuyên",
+      "Hắc Cốt Bang"
+    ]
+  },
+  {
+    "chapter": 11,
+    "time": "đêm cùng ngày",
+    "event": "Hắn đưa Lý Thiết về nhà, suy nghĩ cách cắt nguồn ép để bảo vệ gia đình",
+    "characters": [
+      "Lý Xuyên",
+      "Lý Thiết",
+      "Lý Vạn Sơn"
+    ]
+  },
+  {
+    "chapter": 11,
+    "time": "sáng hôm sau",
+    "event": "Sáng hôm sau hắn ra chợ phía nam và mua quyển Liễu Vân Đao giá rẻ",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 12,
+    "time": "Đêm",
+    "event": "Mua quyển Liễu Vân Đao tàn bản giá rẻ ở chợ phía nam",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 12,
+    "time": "Đêm khuya",
+    "event": "Luyện đao trong sân sau, cày nhập môn rồi sơ thành bằng Hỗn Nguyên Đạo lục",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 12,
+    "time": "Đêm khuya",
+    "event": "Người của Thẩm Yên Nhiên mang dược thiện và thiếp mời tới nhà",
+    "characters": [
+      "Thẩm Yên Nhiên",
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 12,
+    "time": "Cuối đêm",
+    "event": "Nhận thiếp, xác nhận sáng hôm sau phải tới võ quán xem khảo sát học đồ hộ hàng",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 12,
+    "time": "Trước khi ngủ",
+    "event": "Điều tức, chuẩn bị bước sang chương mới với thanh đao đã khác",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 13,
+    "time": "Chiều",
+    "event": "Thẩm Yên Nhiên đến võ quán, giới thiệu nhu cầu tuyển người hộ hàng và bắt đầu khảo sát thực lực học đồ.",
+    "characters": [
+      "Thẩm Yên Nhiên",
+      "Trương Bách Xuyên",
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 13,
+    "time": "Chiều muộn",
+    "event": "Lý Xuyên qua ba chiêu thử đao, thể hiện nền tảng đủ tốt để lọt vào mắt thương hội.",
+    "characters": [
+      "Lý Xuyên",
+      "Lục thúc",
+      "Thẩm Yên Nhiên"
+    ]
+  },
+  {
+    "chapter": 13,
+    "time": "Chiều muộn",
+    "event": "Thẩm Yên Nhiên ghi tên Lý Xuyên vào danh sách thử việc và hẹn gặp tại hậu viện võ quán sau ba ngày.",
+    "characters": [
+      "Lý Xuyên",
+      "Thẩm Yên Nhiên"
+    ]
+  },
+  {
+    "chapter": 13,
+    "time": "Hoàng hôn",
+    "event": "Trương Bách Xuyên nhắc nhở Lý Xuyên phải cẩn trọng vì Hắc Cốt Bang và các thế lực liên quan có thể đang theo dõi.",
+    "characters": [
+      "Lý Xuyên",
+      "Trương Bách Xuyên"
+    ]
+  },
+  {
+    "chapter": 13,
+    "time": "Tối",
+    "event": "Lý Xuyên báo tin được chọn thử việc; gia đình nhận ra một tuyến mới đã mở ra cho tương lai của nhà họ Lý.",
+    "characters": [
+      "Lý Xuyên",
+      "Lý Vạn Sơn",
+      "Lý Thiết"
+    ]
+  },
+  {
+    "chapter": 13,
+    "time": "Đêm",
+    "event": "Lý Xuyên tự xét lại lợi hại, chốt ý định đi tuyến hộ hàng để tích lũy tài nguyên và mở đường rời Thanh Hà.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 14,
+    "time": "Sáng sớm, ba ngày sau khảo sát",
+    "event": "Lý Xuyên được gọi vào hậu viện thủy tạ để gặp riêng Thẩm Yên Nhiên",
+    "characters": [
+      "Lý Xuyên",
+      "Lục thúc",
+      "Thẩm Yên Nhiên"
+    ]
+  },
+  {
+    "chapter": 14,
+    "time": "Cùng buổi sáng",
+    "event": "Hai bên trao đổi điều kiện, xác lập giao ước hộ hàng bí mật",
+    "characters": [
+      "Lý Xuyên",
+      "Thẩm Yên Nhiên"
+    ]
+  },
+  {
+    "chapter": 14,
+    "time": "Trong cuộc gặp",
+    "event": "Thẩm Yên Nhiên tiết lộ manh mối người lạ hỏi tuyến hàng ở bến Đông",
+    "characters": [
+      "Lý Xuyên",
+      "Thẩm Yên Nhiên"
+    ]
+  },
+  {
+    "chapter": 14,
+    "time": "Ngay sau khi Lý Xuyên rời hậu viện",
+    "event": "Tin báo Hắc Cốt Bang đổi ca gác và lục lọi xe hàng tại bến Đông",
+    "characters": [
+      "Lý Xuyên",
+      "Lục thúc",
+      "Thẩm Yên Nhiên"
+    ]
+  },
+  {
+    "chapter": 15,
+    "time": "Chiều mưa, trước khi trời tối",
+    "event": "Nhận tin khẩn về việc Hắc Cốt Bang chặn xe hàng và có dấu hiệu buôn người ở bến Đông.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 15,
+    "time": "Hoàng hôn trong mưa",
+    "event": "Trà trộn vào bến Đông, quan sát hiện trường và xác định kho số ba là điểm nhốt người.",
+    "characters": [
+      "Lý Xuyên",
+      "Hắc Cốt Bang"
+    ]
+  },
+  {
+    "chapter": 15,
+    "time": "Giữa cơn mưa lớn",
+    "event": "Xông vào kho số ba, chém chết đầu mục áo xám và phá đội hình truy soát.",
+    "characters": [
+      "Lý Xuyên",
+      "Hắc Cốt Bang"
+    ]
+  },
+  {
+    "chapter": 15,
+    "time": "Ngay sau giao chiến",
+    "event": "Giải cứu phu xe, thiếu niên và một phần hàng hóa, đồng thời thu mảnh thư chứa manh mối tuyến ngoài huyện.",
+    "characters": [
+      "Lý Xuyên",
+      "Vạn Kim Thương Hội"
+    ]
+  },
+  {
+    "chapter": 15,
+    "time": "Đêm khuya",
+    "event": "Nhận báo cáo từ bến tàu và ra lệnh truy tra võ quán, ngõ Tề Gia, Vạn Kim và đám học đồ.",
+    "characters": [
+      "Hắc Lang"
+    ]
+  },
+  {
+    "chapter": 16,
+    "time": "Sáng sớm",
+    "event": "Hắc Lang nhận báo cáo về đao khách lạ ở bến Đông và ra lệnh truy tra võ quán, bến tàu, tuyến hàng.",
+    "characters": [
+      "Hắc Lang",
+      "Hắc Cốt Bang"
+    ]
+  },
+  {
+    "chapter": 16,
+    "time": "Buổi sáng đến trưa",
+    "event": "Đám tay chân chia nhóm lùng sục, chặn lối, ép người khai manh mối về kho số ba và thẻ gỗ đen.",
+    "characters": [
+      "Hắc Cốt Bang",
+      "phu khuân vác bến Đông"
+    ]
+  },
+  {
+    "chapter": 16,
+    "time": "Giữa trưa",
+    "event": "Trương Bách Xuyên cảnh báo Lý Xuyên về việc Hắc Lang đã động thật và có thể sớm vòng về võ quán.",
+    "characters": [
+      "Lý Xuyên",
+      "Trương Bách Xuyên"
+    ]
+  },
+  {
+    "chapter": 16,
+    "time": "Chiều",
+    "event": "Lý Xuyên giữ vẻ bình thường trước mặt đại bá, không để gia đình biết áp lực đang tới gần.",
+    "characters": [
+      "Lý Xuyên",
+      "Lý Thiết"
+    ]
+  },
+  {
+    "chapter": 16,
+    "time": "Tối",
+    "event": "Hắn xác định kho gạo bỏ hoang phía nam bến Đông là nơi đặt bẫy và chuẩn bị chủ động phản công.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 17,
+    "time": "Tối",
+    "event": "Chuẩn bị kho gạo bỏ hoang làm trận địa phục kích với độc phấn, dây gai, dầu hỏa và điểm chặn đường lui.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 17,
+    "time": "Đêm đầu canh hai",
+    "event": "Một tổ bốn tên Hắc Cốt Bang đi vào kho và bị nhốt trong bẫy chật hẹp.",
+    "characters": [
+      "Lý Xuyên",
+      "Hắc Cốt Bang"
+    ]
+  },
+  {
+    "chapter": 17,
+    "time": "Đêm đầu canh hai",
+    "event": "Lý Xuyên ra tay giết sạch đầu mối, thu phiếu hàng và sổ tay liên quan Triệu gia.",
+    "characters": [
+      "Lý Xuyên",
+      "Hắc Cốt Bang"
+    ]
+  },
+  {
+    "chapter": 17,
+    "time": "Đêm muộn",
+    "event": "Hắn đốt kho, xóa dấu vết và rút lui qua mương cạn, trở về nhà an toàn.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 17,
+    "time": "Sáng hôm sau",
+    "event": "Sáng hôm sau, tin kho cháy và mảnh sổ dính tro lan ra, khiến Hắc Lang biết tuyến truy tra bị cắt và Triệu gia bị đặt vào tầm ngắm.",
+    "characters": [
+      "Hắc Lang",
+      "Hắc Cốt Bang",
+      "Triệu gia"
+    ]
+  },
+  {
+    "chapter": 18,
+    "time": "Sáng",
+    "event": "Sáng sớm, Lý Xuyên hỏi Lý Thiết về Triệu phủ ngoại viện và nhận được đầu mối phu khuân vác từng nghe tiếng người trong xe.",
+    "characters": [
+      "Lý Xuyên",
+      "Lý Thiết"
+    ]
+  },
+  {
+    "chapter": 18,
+    "time": "Giữa sáng",
+    "event": "Lý Xuyên tới bến Đông, gặp Lão Tưởng và xác nhận xe kín của Triệu phủ ngoại viện có liên quan đến hàng sống.",
+    "characters": [
+      "Lý Xuyên",
+      "Lão Tưởng"
+    ]
+  },
+  {
+    "chapter": 18,
+    "time": "Chiều",
+    "event": "Tại quầy trà, Thẩm Yên Nhiên cung cấp mốc giờ chuyến hàng lớn và tin Hắc Lang sẽ đích thân tới nhận sổ đen.",
+    "characters": [
+      "Lý Xuyên",
+      "Thẩm Yên Nhiên"
+    ]
+  },
+  {
+    "chapter": 18,
+    "time": "Canh ba",
+    "event": "Đêm canh ba, Lý Xuyên phục kích kho lạnh cũ ở ngõ Tề Gia, phá cuộc giao nhận giữa Hắc Cốt Bang và Triệu gia.",
+    "characters": [
+      "Lý Xuyên",
+      "Hắc Lang",
+      "Triệu phủ ngoại viện"
+    ]
+  },
+  {
+    "chapter": 18,
+    "time": "Canh ba",
+    "event": "Lý Xuyên cướp được sổ đen, khiến Hắc Lang phải chọn cứu hàng thay vì truy sát đến cùng.",
+    "characters": [
+      "Lý Xuyên",
+      "Hắc Lang"
+    ]
+  },
+  {
+    "chapter": 19,
+    "time": "Rạng sáng",
+    "event": "Phục kích đoàn xe Hắc Lang tại bến Tây trước bình minh và khai hỏa bẫy đầu tiên.",
+    "characters": [
+      "Lý Xuyên",
+      "Hắc Lang",
+      "Hắc Cốt Bang"
+    ]
+  },
+  {
+    "chapter": 19,
+    "time": "Sau giao chiến đầu",
+    "event": "Giao thủ trực diện, Hắc Lang bị áp chế và mất quyền giữ sổ đen.",
+    "characters": [
+      "Lý Xuyên",
+      "Hắc Lang"
+    ]
+  },
+  {
+    "chapter": 19,
+    "time": "Trước khi rời bến Tây",
+    "event": "Mở sổ đen, ghi nhớ manh mối Hắc Thị Thập Thượng và cửa vào cũ đổi đèn ba lần.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 19,
+    "time": "Kết cuộc",
+    "event": "Quay về cứu hàng sống và bỏ lỡ cơ hội truy đuổi Lý Xuyên.",
+    "characters": [
+      "Hắc Lang"
+    ]
+  },
+  {
+    "chapter": 20,
+    "time": "Đêm muộn, sau khi cất sổ đen",
+    "event": "Đọc sổ đen Hắc Lang và xác định đầu mối hắc thị",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 20,
+    "time": "Cùng đêm, trước khi tắt đèn",
+    "event": "Trao đổi ngắn về các chuyến hàng lạ ở bến Tây, Lý Thiết nhắc con giữ cẩn thận",
+    "characters": [
+      "Lý Xuyên",
+      "Lý Thiết"
+    ]
+  },
+  {
+    "chapter": 20,
+    "time": "Nửa đêm, tại tiểu viện võ quán",
+    "event": "Nhận tín vật đồng và nghe giải thích quy tắc mở cửa hắc thị",
+    "characters": [
+      "Lý Xuyên",
+      "Thẩm Yên Nhiên"
+    ]
+  },
+  {
+    "chapter": 20,
+    "time": "Cuối đêm",
+    "event": "Đánh dấu mục tiêu mua sắm, chuẩn bị bạc và điều tức trước khi vào hắc thị",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 21,
+    "time": "Đêm xuống",
+    "event": "Đổi đèn ba lần, mở cửa vào hắc thị dưới mái chợ cũ phía tây nam.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 21,
+    "time": "Ngay sau khi vào hầm ngầm",
+    "event": "Quan sát các giao dịch tàn khốc, chứng kiến mạng người bị định giá.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 21,
+    "time": "Giữa canh đêm",
+    "event": "Miếng đồng tín vật được kiểm tra, cho thấy tuyến Vạn Kim có ảnh hưởng sâu trong hắc thị.",
+    "characters": [
+      "Lý Xuyên",
+      "Thẩm Yên Nhiên"
+    ]
+  },
+  {
+    "chapter": 21,
+    "time": "Nửa sau chương",
+    "event": "Kiểm tra và xác nhận giá trị của các bí kíp Phàm cấp tàn khuyết.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  },
+  {
+    "chapter": 21,
+    "time": "Cuối chương",
+    "event": "Phát hiện quầy bí kíp bày đúng ba môn Phàm cấp tàn khuyết, nhưng có dấu hiệu là mồi câu.",
+    "characters": [
+      "Lý Xuyên"
+    ]
+  }
+]

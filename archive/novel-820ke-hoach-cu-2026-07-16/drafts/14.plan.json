@@ -1,0 +1,45 @@
+{
+  "chapter": 14,
+  "title": "Giao Dịch Không Tên",
+  "goal": "Thiết lập giao ước kín giữa Lý Xuyên và Thẩm Yên Nhiên: tài nguyên, tin tức, đường dây đổi lấy bảo hộ và xử lý bóng tối.",
+  "conflict": "Thỏa thuận bí mật giữa Lý Xuyên và Thẩm Yên Nhiên phải được thiết lập mà không để lộ quá nhiều thực lực, đồng thời Lý Xuyên cần giữ thế chủ động trước một thương hội đầy tính toán.",
+  "hook": "Một tín hiệu bất thường từ tuyến hàng hoặc bến tàu cho thấy Hắc Cốt Bang đã bắt đầu đánh hơi được giao dịch mới.",
+  "emotion_arc": "Từ cảnh giác và thăm dò, chuyển sang xác nhận lợi ích, rồi kết lại bằng cảm giác có thêm đường sống nhưng cũng thêm dây trói vô hình.",
+  "notes": "Bối cảnh nên đặt ở hậu viện võ quán hoặc một nơi kín đáo của Vạn Kim. Có thể cho Thẩm Yên Nhiên thử Lý Xuyên bằng một vấn đề cụ thể về tuyến hàng, để hắn cho ra phương án thực dụng. Có thể nhắc nhẹ về dược thiện, bí kíp và tin tức từ Thanh Hà ra ngoài huyện. Cần có một điều khoản bảo mật, một điều khoản ứng cứu, và một cách liên lạc kín.",
+  "contract": {
+    "required_beats": [
+      "Gặp riêng và thử nhau bằng lời",
+      "Lý Xuyên đưa ra giá trị thực của mình",
+      "Thẩm Yên Nhiên đưa ra tài nguyên và kênh tin tức",
+      "Hai bên xác lập giao ước bí mật với điều khoản rõ ràng",
+      "Kết thúc bằng một móc nguy cơ"
+    ],
+    "forbidden_moves": [
+      "Không cho Lý Xuyên lộ toàn bộ bí mật Hỗn Nguyên Đạo lục",
+      "Không để hai nhân vật thân mật quá mức hoặc sa vào tình cảm lãng mạn sớm",
+      "Không cho Thẩm Yên Nhiên trở nên ngây thơ, dễ tin",
+      "Không giải quyết dứt điểm Hắc Cốt Bang trong chương này"
+    ],
+    "continuity_checks": [
+      "Giữ quan hệ lợi ích có ranh giới giữa Lý Xuyên và Thẩm Yên Nhiên, không biến thành tình cảm mập mờ",
+      "Lý Xuyên vẫn đang ở giai đoạn Bất Nhập Lưu, chưa thể công khai vượt chuẩn quá xa",
+      "Liệt Hổ Võ Quán và tuyến hộ hàng của Vạn Kim đã được mở, chương này nên chốt bằng giao ước cụ thể",
+      "Không để Hắc Cốt Bang trực tiếp bùng nổ trong chương này; chỉ gieo cảm giác bị dòm ngó",
+      "Giữ giọng điệu lạnh, thực dụng, ít ủy mị, ưu tiên tính toán và điều khoản giao dịch"
+    ],
+    "evaluation_focus": [
+      "Tính hợp lý của giao dịch và điều khoản đôi bên",
+      "Mức độ che giấu thực lực của Lý Xuyên",
+      "Sự sắc sảo, quyết đoán của Thẩm Yên Nhiên",
+      "Nhịp chuyển từ thăm dò sang ký kết",
+      "Hook cuối chương đủ gợi tuyến hộ hàng và nguy cơ hắc bang"
+    ],
+    "emotion_target": "Căng thẳng kín, tin cậy có điều kiện",
+    "payoff_points": [
+      "Chứng minh Lý Xuyên đủ giá trị để nhận tài nguyên",
+      "Chứng minh Thẩm Yên Nhiên đủ sắc để không bị qua mặt",
+      "Chốt thỏa thuận từ lợi ích sang hợp tác lâu dài"
+    ],
+    "hook_goal": "Tạo cảm giác hợp tác vừa thành lập đã chạm vào nguy cơ thật sự."
+  }
+}

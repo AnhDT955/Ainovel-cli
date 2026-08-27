@@ -1,0 +1,46 @@
+{
+  "chapter": 9,
+  "title": "Đêm Theo Dấu",
+  "goal": "Cho Lý Xuyên lần đầu áp dụng tư duy truy dấu trong đêm: bám theo mục tiêu, ghi nhớ tuyến đường, nhận ra cách đối phương cắt đuôi và phát hiện dấu hiệu đối phương không chỉ đi giao dịch mà đang dẫn hắn vào một điểm giao hẹn nguy hiểm.",
+  "conflict": "Lý Xuyên lần theo một người Triệu gia trong đêm, nhưng nếu bám quá sát sẽ bị phát hiện; nếu buông tay, manh mối về Triệu Phong sẽ đứt. Hắn phải vừa theo dấu vừa học cách đọc đường lui, nhân chứng, dấu vết và cạm bẫy của kẻ địch.",
+  "hook": "Lý Xuyên xác định được chỗ người Triệu gia dừng lại và nghe thấy bên trong hẻm có người nhắc đến tên mình hoặc nhắc đến việc ‘xử lý cái đuôi’, buộc hắn phải quyết định ở lại theo tiếp hay rút lui đánh giá lại.",
+  "emotion_arc": "Từ căng dây thần kinh và thận trọng, chuyển sang lạnh đi khi Lý Xuyên nhận ra thế giới ngầm không chỉ có một kẻ làm ác, rồi kết bằng cảm giác chủ động nắm được con mồi nhưng đồng thời bị con mồi kéo vào ổ bẫy sâu hơn.",
+  "notes": "Chương này cần là bước chuyển từ kiểm kê và truy vết sang đối đầu ngầm. Có thể để Lý Xuyên dùng vài thủ pháp rất thực dụng: men theo mái hiên, tránh đèn, quan sát bùn trên giày, đếm nhịp dừng của người đi trước, ghi nhớ mùi dầu đèn/hương rượu. Nên cho hắn thấy một hoặc hai chi tiết về hẻm tối, kho hàng, cửa sau quán rượu, người gác cổng, rồi chốt bằng việc phát hiện đối phương cũng có khả năng truy ngược. Giữ nhịp lạnh và sắc, không cần màu mè.",
+  "contract": {
+    "required_beats": [
+      "Đêm xuống, Lý Xuyên rời nhà lặng lẽ, bám theo người Triệu gia vừa xuất hiện ở đầu ngõ.",
+      "Hắn giữ khoảng cách, dùng mái hiên, bóng tối và tiếng động phố đêm để che giấu thân phận.",
+      "Trên đường theo dấu, hắn quan sát giày, nhịp bước, nơi dừng và cách đối phương đổi hướng để kiểm tra có bị bám đuôi.",
+      "Người Triệu gia gặp một điểm hẹn ở hẻm tối hoặc kho bãi, nơi có thêm người canh và dấu hiệu giao dịch bất chính.",
+      "Lý Xuyên phát hiện điểm hẹn có đường lui, nhân chứng, và ít nhất một dấu hiệu đối phương đang cảnh giác với người theo dõi.",
+      "Cuối chương, hắn nhận ra đối phương đã bắt đầu rải bẫy hoặc nhắc đến việc xử lý cái đuôi, tạo hook cho chương 10."
+    ],
+    "forbidden_moves": [
+      "Không để Lý Xuyên ra tay giết người trong chương này",
+      "Không để hắn lộ toàn bộ thực lực",
+      "Không để manh mối Triệu gia bị giải quyết dứt điểm quá sớm",
+      "Không biến chương thành đánh nhau công khai dài dòng"
+    ],
+    "continuity_checks": [
+      "Phải tiếp nối trực tiếp từ chương 8: Lý Xuyên rời nhà theo dấu người Triệu gia trong đêm.",
+      "Giữ Lý Xuyên ở mức Bất Nhập Lưu, chưa có đột phá mới; ưu tiên quan sát, suy đoán, thử nghiệm kỹ năng theo dấu.",
+      "Không cho Triệu Phong xuất hiện trực diện nếu chưa cần; ưu tiên tay sai hoặc người làm Triệu gia để tạo manh mối.",
+      "Nhấn mạnh nguyên tắc cẩu đạo: theo dõi có tính toán, không lao đầu, luôn chuẩn bị đường rút.",
+      "Cài dấu hiệu cho chương 10: đối phương có ý định xử lý nhân chứng hoặc mai phục Lý Xuyên.",
+      "Giữ thế giới đêm Thanh Hà Huyện âm u, có hẻm, quán rượu, kho bãi, tuần tốt, dân đen và dấu giày/bùn/nước mưa."
+    ],
+    "evaluation_focus": [
+      "Theo dõi, suy luận dấu vết và logic đường lui phải hợp lý",
+      "Miêu tả hành vi của Lý Xuyên điềm tĩnh, tính toán, không anh hùng",
+      "Thiết lập xung đột mới đủ rõ để nối sang giết người diệt hậu họa ở chương 10",
+      "Đảm bảo giọng văn dark, gọn, có nhịp truy tìm và quan sát"
+    ],
+    "emotion_target": "Âm u, căng ngầm, sắc lạnh",
+    "payoff_points": [
+      "Trả lời vì sao Lý Xuyên không chỉ nhìn theo bóng người mà còn ghi nhớ đường lui và nhân chứng",
+      "Xác nhận Triệu gia đang dính đến giao dịch đen hoặc việc che giấu dấu vết",
+      "Đẩy Lý Xuyên từ tâm thế theo dõi sang tâm thế chuẩn bị diệt hậu họa"
+    ],
+    "hook_goal": "Tạo cảm giác con mồi đã sa lưới nhưng vẫn còn đường lui giả, kéo độc giả sang chương 10 với kỳ vọng xóa dấu vết và giết ngược."
+  }
+}

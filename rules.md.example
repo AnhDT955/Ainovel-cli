@@ -1,0 +1,93 @@
+---
+# ── Cách dùng tối giản ──────────────────────────────────────
+# File này trình bày «toàn bộ» các tuỳ chọn có thể cấu hình, nhưng bạn không cần dùng hết.
+# Chỉ muốn ghi sở thích? Xoá toàn bộ phần front matter (nội dung giữa hai dấu ---),
+# rồi viết thẳng phần markdown bên dưới (# Nhân vật / # Phong cách …) là được —
+# không cần định dạng, không cần YAML; biên tập viên sẽ đọc theo ngữ nghĩa.
+# Các trường có cấu trúc bên dưới là «lớp nâng cao tuỳ chọn» —
+# chỉ dùng khi cần kiểm tra cứng về «số từ / cụm từ cấm».
+# ───────────────────────────────────────────────────────────
+
+# Nhãn thể loại: hiện được truyền thẳng dưới dạng chuỗi vào working_memory.user_rules.structured.genre,
+# để LLM tham khảo khi phán đoán ngữ nghĩa sở thích. Thư viện quy tắc thể loại (assets/rules/genres/)
+# chưa mở; khi nào cần tải file nội trang theo thể loại một cách máy móc thì mới khôi phục loader hai giai đoạn.
+genre: xianxia
+
+# Số từ mỗi chương (min-max). Lệch < 20% báo warning; ≥ 20% báo error.
+chapter_words: 3000-6000
+
+# Danh sách đen ký tự/ký hiệu. Xuất hiện ≥ 1 lần là error.
+# Lưu ý: dấu gạch ngang kép tiếng Trung là hai ký tự em-dash; viết "——" để khớp cặp đôi, "—" để khớp đơn.
+forbidden_chars:
+  - "——"
+
+# Danh sách đen cụm từ cấm. Xuất hiện ≥ 1 lần là error. Checker so khớp chuỗi con theo nghĩa đen, không có ký tự đại diện:
+# chỉ điền "chuỗi cố định có độ dài xác định"; các mẫu có biến (ví dụ "không phải X mà là Y") không thể bắt bằng khớp chuỗi đen,
+# nên viết vào phần markdown bên dưới để biên tập viên phán đoán theo ngữ nghĩa.
+forbidden_phrases:
+  - "某种程度上"
+  - "值得注意的是"
+
+# Ngưỡng từ sáo rỗng: chỉ báo warning khi vượt quá N lần trong chương (không cộng dồn qua các chương).
+# Cũng hỗ trợ dạng danh sách: - 不禁  - 竟然  ← ngưỡng mặc định là 1
+fatigue_words:
+  不禁: 1
+  竟然: 1
+  仿佛: 2
+---
+
+# Phong cách
+
+- Nghiêm cấm dùng dấu gạch ngang thay dấu phẩy; trường hợp hội thoại bị ngắt giữa chừng có thể giữ lại.
+- Tránh cách diễn đạt kiểu báo cáo phân tích ("mâu thuẫn cốt lõi nằm ở…"), thay bằng hành động nhân vật và đối thoại.
+- Ưu tiên dùng cảm giác cơ thể (dạ dày co thắt, đốt ngón tay trắng bệch) thay cho nhãn cảm xúc (lo lắng, tức giận).
+
+# Nhân vật
+
+- Nhân vật chính "Lâm Trần": tính cách điềm tĩnh, kiềm chế, lạnh ngoài nóng trong; không được viết thành kiểu tsundere cũng không thành kiểu thánh mẫu.
+- Nhân vật phụ "Sư muội": có tình cảm chưa nói ra với nhân vật chính nhưng kìm nén; nói chuyện ngắn gọn, không lải nhải.
+
+# Cài đặt thế giới
+
+- Cảnh giới tu luyện: Luyện Khí → Trúc Cơ → Kim Đan → Nguyên Anh → Hóa Thần, mỗi cảnh chín tầng.
+- Linh căn chia theo ngũ hành, nhân vật chính sở hữu Hỗn Độn Linh Căn (cực kỳ hiếm).
+
+# Gợi ý ngữ nghĩa ưu tiên phần thân bài
+
+Các sở thích trong phần thân Markdown được biên tập viên phán đoán theo ngữ nghĩa khi xét duyệt, không có trường mức độ nghiêm ngặt:
+
+- **Nghiêm cấm/Không được/Tuyệt đối không** — biên tập viên có xu hướng xếp vi phạm vào mức critical, kích hoạt rewrite
+- **Tránh/Không nên** — biên tập viên có xu hướng báo error/warning
+- **Cố gắng/Tốt nhất là** — biên tập viên chỉ tham khảo như sở thích, không bắt buộc
+
+Quy tắc máy móc (front matter) được commit_chapter kiểm tra bắt buộc và trả về rule_violations;
+quy tắc ngôn ngữ tự nhiên (phần Markdown này) do editor LLM phán đoán và ánh xạ vào bảy chiều xét duyệt hiện có.
+
+# Hướng dẫn sử dụng
+
+Sao chép file này vào thư mục quy tắc cấp dự án `./.ainovel/rules/` là có hiệu lực (thư mục này phản chiếu thư mục toàn cục `~/.ainovel/rules/`, cũng đặt file `.md` tuỳ ý):
+
+```bash
+mkdir -p .ainovel/rules
+cp rules.md.example .ainovel/rules/my-rules.md
+# Chỉnh sửa .ainovel/rules/my-rules.md theo sở thích của bạn
+```
+
+Ưu tiên tải (cao → thấp) theo ba lớp:
+
+1. Bất kỳ file `.md` nào trong `./.ainovel/rules/` — **quy tắc của cuốn sách này** (gắn với thư mục làm việc hiện tại cwd, hợp nhất theo thứ tự từ điển tên file)
+2. Bất kỳ file `.md` nào trong `~/.ainovel/rules/` — **sở thích toàn cục** (dùng lại qua nhiều sách, hợp nhất theo thứ tự từ điển tên file)
+3. `assets/rules/default.md` — **mặc định tích hợp sẵn của dự án** (gồm đường cơ sở máy móc chống văn phong AI; đường cơ sở ngữ nghĩa nằm trong `assets/references/anti-ai-tone.md` tích hợp sẵn)
+
+Khi nhiều nguồn khai báo cùng một trường với giá trị khác nhau, **nguồn gần hơn được ưu tiên**; `fatigue_words` được hợp nhất theo từng từ, nếu cùng một từ được khai báo ngưỡng khác nhau ở nhiều nguồn thì ưu tiên nguồn gần hơn. Xung đột được ghi vào thông tin chẩn đoán nội bộ (không đưa vào cửa sổ ngữ cảnh của LLM, hiển thị theo yêu cầu qua bảng khởi động CLI), không chặn quá trình tải.
+
+> Chống văn phong AI chính là một ví dụ của cơ chế này: đường cơ sở tích hợp sẵn (máy móc `default.md` + ngữ nghĩa `anti-ai-tone.md`) làm nền, quy tắc `.md` của bạn xếp chồng lên trên — viết sở thích ngữ nghĩa bằng ngôn ngữ thông thường trong phần thân (đường chính), khi cần kiểm tra cứng từ cấm/số từ thì tuỳ chọn thêm front matter, có hiệu lực ngay không cần biên dịch.
+
+## Nhiều sách song song
+
+`./.ainovel/rules/` gắn với **thư mục làm việc hiện tại**, không gắn với thư mục xuất truyện:
+
+- Khuyến nghị: mỗi sách cd vào thư mục riêng rồi khởi động (`cd works/xiyou && ainovel-cli` / `cd works/honglou && ainovel-cli`) — `./.ainovel/rules/` của mỗi sách độc lập
+- Trường hợp biên: khởi động từ cùng một cwd và dùng `-o output/xiyou` / `-o output/honglou` để chuyển đổi giữa hai sách — hai sách này sẽ dùng chung một `./.ainovel/rules/`
+
+Nếu cần "cách ly nghiêm ngặt theo từng sách" mà không muốn đổi cwd, hãy đặt sở thích vào thư mục toàn cục `~/.ainovel/rules/` để tất cả các sách dùng chung một bộ sở thích người dùng.

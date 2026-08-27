@@ -1,0 +1,74 @@
+[
+  {
+    "id": "fx_ch1_001",
+    "description": "Gieo cảm giác Lý Xuyên bắt đầu quan sát thế giới bằng con mắt thực dụng, chuẩn bị cho con đường cắt đứt quan hệ với Liễu Như Yên và đối mặt Triệu Phong.",
+    "planted_at": 1,
+    "status": "advanced"
+  },
+  {
+    "id": "fx_ch1_002",
+    "description": "Gieo món nợ tình thân: tiền học võ là sự hy sinh của Lý Vạn Sơn và Lý Thiết, sẽ được trả dần bằng hành động và sức mạnh.",
+    "planted_at": 1,
+    "status": "advanced"
+  },
+  {
+    "id": "fx_ch4_001",
+    "description": "Hỗn Nguyên Đạo lục có phản ứng cảnh báo về việc linh hồn đồng bộ quá nhanh với nền móng mới hình thành.",
+    "planted_at": 4,
+    "status": "advanced"
+  },
+  {
+    "id": "fx_ch4_002",
+    "description": "Mở ra khái niệm khâu dung hợp nền móng khi Lý Xuyên đồng thời luyện Liệt Hổ Quyền và thổ nạp pháp.",
+    "planted_at": 4,
+    "status": "advanced"
+  },
+  {
+    "id": "fx_ch9_001",
+    "description": "Triệu gia và nhóm giao dịch trong hẻm đã chuẩn bị sẵn đường chặn ở phía nam để xử lý người bám đuôi.",
+    "planted_at": 9,
+    "status": "advanced"
+  },
+  {
+    "id": "fx_ch9_002",
+    "description": "Mẩu giấy bị đốt xóa dấu cho thấy có một tuyến liên lạc bí mật đang được vận hành và sẽ phải lần ngược ở chương sau.",
+    "planted_at": 9,
+    "status": "advanced"
+  },
+  {
+    "id": "fx_ch11_001",
+    "description": "Gieo manh mối tên áo xám ở bến Đông và tên họ Trịnh là các mắt xích đầu tiên của Hắc Cốt Bang mà Lý Xuyên sẽ chém trước.",
+    "planted_at": 11,
+    "status": "advanced"
+  },
+  {
+    "id": "fx_ch16_002",
+    "description": "Kho gạo bỏ hoang ở phía nam bến Đông được xác lập là địa điểm phục kích, nơi Hắc Cốt Bang sắp bị dẫn vào bẫy.",
+    "planted_at": 16,
+    "status": "advanced"
+  },
+  {
+    "id": "fx_ch17_001",
+    "description": "Sổ tay và phiếu hàng ghi 'Triệu nhị công tử cần thêm' cùng Triệu phủ ngoại viện, mở đường cho việc Triệu gia dính vào tuyến bảo kê của Hắc Cốt Bang.",
+    "planted_at": 17,
+    "status": "advanced"
+  },
+  {
+    "id": "fx_ch18_001",
+    "description": "Triệu phủ ngoại viện bắt đầu hiện lên như một điểm trung chuyển bẩn, đủ để về sau lật cả mạng lưới Triệu gia tại Thanh Hà.",
+    "planted_at": 18,
+    "status": "planted"
+  },
+  {
+    "id": "fx_ch20_001",
+    "description": "Cánh cửa hắc thị dưới mái chợ cũ phía tây nam sẽ là nơi Lý Xuyên đối diện quy tắc mua bán bằng mạng và bí mật.",
+    "planted_at": 20,
+    "status": "planted"
+  },
+  {
+    "id": "fx_ch21_001",
+    "description": "Gieo quầy bí kíp dùng tín vật đồng của tuyến Vạn Kim để kiểm tra người mua, mở đường cho việc mua ba môn Phàm cấp tàn khuyết ở chương 22.",
+    "planted_at": 21,
+    "status": "planted"
+  }
+]

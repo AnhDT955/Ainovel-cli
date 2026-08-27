@@ -1,0 +1,112 @@
+{
+  // Nhà cung cấp và model được dùng mặc định.
+  // ★ Giá trị của provider là một key trong mục providers bên dưới (đóng vai "con trỏ"), không phải tên giao thức —
+  //   khi đổi provider phải đảm bảo providers có mục cùng tên, nếu không lúc khởi động sẽ báo lỗi "chưa cấu hình thông tin xác thực".
+  //   Chuyển model qua bảng /model lúc chạy sẽ không tự ghi lại vào đây.
+  "provider": "openrouter",
+  "model": "google/gemini-2.5-flash",
+
+  // Kho thông tin xác thực nhà cung cấp. Key do người dùng tự đặt, dùng để trường provider bên trên tham chiếu.
+  // Các nhà cung cấp đã biết (openai/anthropic/gemini/openrouter/deepseek/qwen/glm/grok/mimo/ollama/bedrock)
+  // có thể bỏ qua type; proxy tùy chỉnh phải khai báo type tường minh để chỉ định giao thức API.
+  "providers": {
+    "openrouter": {
+      "api_key": "sk-or-v1-xxx",
+      "base_url": "https://openrouter.ai/api/v1",
+      // Tùy chọn. Khai báo danh sách model trong bảng /model; nếu bỏ qua sẽ dùng các model cùng nhà cung cấp đã xuất hiện trong cấu hình.
+      "models": ["google/gemini-3.0-flash", "google/gemini-3.1-pro"],
+      // Tùy chọn. Các tham số bổ sung được truyền thẳng vào mỗi yêu cầu gửi tới nhà cung cấp (tham số lấy mẫu như temperature/top_p/
+      // min_p, hoặc khóa riêng của nhà sản xuất như chat_template_kwargs để bật chế độ think của nvidia), được gộp trực tiếp vào request body.
+      // Chỉ có hiệu lực với nhà cung cấp tương thích OpenAI (openrouter/deepseek/qwen/glm/grok/ollama…);
+      // type:"openai" sẽ lọc theo danh sách tham số chính thức được cho phép. Giá trị do người dùng tự chịu trách nhiệm.
+      "extra_body": { "temperature": 0.8, "min_p": 0.05 },
+      // Tùy chọn. Cấu hình cấp nhà cung cấp, truyền thẳng xuống lớp HTTP client (không phải request body), dùng khi cần
+      // tùy chỉnh User-Agent / headers / anthropic_beta cho proxy.
+      "extra": {
+        "user_agent": "my-client/1.0",
+        "headers": { "X-Custom-Client": "my-client" }
+      }
+    },
+    "anthropic": {
+      "api_key": "sk-ant-xxx",
+      "models": ["claude-sonnet-4", "claude-opus-4"]
+    },
+    "ollama": {
+      // ollama / bedrock / proxy tùy chỉnh có type tường minh có thể bỏ qua api_key
+      // base_url cần có /v1 (endpoint tương thích OpenAI của ollama nằm ở /v1)
+      "base_url": "http://localhost:11434/v1",
+      "models": ["qwen3:14b"]
+    },
+    "my-proxy": {
+      // Proxy Anthropic tùy chỉnh. Khi proxy cần nhận diện client, dùng extra để truyền thêm
+      // user_agent / anthropic_beta / headers; base_url không cần có /v1.
+      "type": "anthropic",
+      "api_key": "sk-xxx",
+      "base_url": "https://proxy.example.com",
+      "models": ["claude-sonnet-4-6"],
+      "extra": {
+        "user_agent": "claude-code/2.1.183",
+        "anthropic_beta": "claude-code-20250219",
+        "headers": {
+          "X-Stainless-Lang": "js",
+          "X-Stainless-Package-Version": "0.94.0",
+          "X-Stainless-Runtime": "node"
+        }
+      }
+    }
+  },
+
+  // Tùy chọn. Ghi đè model mặc định theo từng vai trò; vai trò không cấu hình sẽ dùng model ở trên.
+  // Các vai trò: coordinator (Điều phối viên) / architect (Kiến trúc sư) / writer (Người viết) /
+  //             editor (Biên tập viên) / extractor (Trích xuất yêu cầu từ file .md qua lệnh /load).
+  // fallbacks sẽ được thử lần lượt khi model chính thất bại.
+  // Lưu ý: provider ở đây cũng là "con trỏ", phải trỏ đến một key tồn tại trong providers.
+  //
+  // extractor chỉ chạy MỘT lần cho mỗi cuốn sách, nhưng phải bám sát chỉ dẫn và chép chính xác
+  // danh từ riêng (kể cả dấu tiếng Việt) — model yếu sẽ tự bịa cấu trúc hoặc làm rụng dấu.
+  // Vì nó không bị gọi lặp lại như architect nên dùng model mạnh ở đây gần như không tốn thêm chi phí.
+  // Chưa cấu hình extractor thì tự lùi về architect.
+  // "roles": {
+  //   "writer": {
+  //     "provider": "anthropic",
+  //     "model": "claude-sonnet-4",
+  //     "fallbacks": [{ "provider": "openrouter", "model": "google/gemini-3.0-pro" }]
+  //   },
+  //   "architect": { "provider": "openrouter", "model": "google/gemini-3.1-pro" },
+  //   "extractor": { "provider": "openrouter", "model": "google/gemini-3.1-pro", "thinking": "medium" }
+  // },
+
+  // Phong cách viết: default / suspense / fantasy / romance / wuxia.
+  "style": "default"
+
+  // Tùy chọn. Chỉ định tường minh kích thước cửa sổ ngữ cảnh dùng để nén ngữ cảnh. Bỏ qua / 0 = tự động phân tích theo tên model
+  // (nếu có trong registry thì dùng cửa sổ thực, nếu không thì mặc định 200k). Khi đã cấu hình sẽ được ưu tiên dùng:
+  // vừa có thể chỉ định cửa sổ thực cho model tùy chỉnh không có trong registry, vừa có thể ghim cửa sổ danh nghĩa 1M
+  // xuống 300k để kích hoạt nén sớm hơn, tránh nén khi đã rơi vào vùng suy giảm chú ý.
+  // Chỉ ảnh hưởng ngưỡng nén, không thay đổi độ dài thực tế của yêu cầu API.
+  // "context_window": 300000
+
+  // Tùy chọn. Ngân sách chi phí cho một cuốn sách (thư mục output), đóng vai cầu chì khi chạy không giám sát.
+  // Chỉ kích hoạt khi book_usd > 0. Khi chi phí tích lũy đạt warn_ratio thì cảnh báo nhưng không dừng;
+  // khi đạt 100% sẽ dừng nhẹ nhàng sau khi agent phụ hiện tại hoàn thành nhiệm vụ
+  // (hard_stop=true thì dừng ngay khi vượt ngưỡng). Sau khi dừng, tăng book_usd lên là có thể chạy tiếp.
+  // Lưu ý: với model tùy chỉnh mà registry không có giá và nhà cung cấp không tự báo cost, ngân sách sẽ không có tác dụng.
+  // "budget": {
+  //   "book_usd": 50,
+  //   "warn_ratio": 0.8,
+  //   "hard_stop": false
+  // },
+
+  // Tùy chọn. Thông báo khi chạy không giám sát, mặc định bật (thông báo desktop qua osascript trên macOS / notify-send trên Linux).
+  // Khi cấu hình command sẽ chuyển sang dùng lệnh tùy chỉnh (thông báo điện thoại dùng mục này):
+  // các trường được truyền qua biến môi trường $NOTIFY_TITLE / $NOTIFY_BODY / $NOTIFY_KIND / $NOTIFY_LEVEL,
+  // đồng thời toàn bộ JSON được ghi vào stdin.
+  // events lọc tùy chọn: run_end (hoàn thành/dừng) / repeat (lệnh lặp lại, nghi chạy vòng rỗng) / budget (ngân sách).
+  // "notify": {
+  //   "enabled": true,
+  //   // Tiêu đề/nội dung có tiếng Việt và khoảng trắng, phải truyền qua --data-urlencode, không được ghép vào URL path hoặc HTTP header.
+  //   // Bark (iOS):         "command": "curl -s --data-urlencode \"title=$NOTIFY_TITLE\" --data-urlencode \"body=$NOTIFY_BODY\" https://api.day.app/<key>"
+  //   // ntfy (iOS/Android): "command": "curl -s -G --data-urlencode \"title=$NOTIFY_TITLE\" --data-urlencode \"message=$NOTIFY_BODY\" ntfy.sh/<topic>/publish"
+  //   "events": ["run_end", "repeat", "budget"]
+  // }
+}

@@ -1,0 +1,46 @@
+{
+  "chapter": 12,
+  "title": "Đao Pháp Rẻ Tiền",
+  "goal": "Mua được Liễu Vân Đao, dùng Hỗn Nguyên Đạo lục cày đao pháp đến nhập môn/tiểu thành ban đầu, kiểm nghiệm cảm giác chiến đấu và chuẩn bị lưỡi đao đầu tiên cho phản kích Hắc Cốt Bang.",
+  "conflict": "Lý Xuyên cần chọn một môn đao pháp rẻ tiền nhưng không được để lộ việc hắn mua để cày nhanh; đồng thời phải xác nhận môn đao này thật sự đủ nền cho phản kích Hắc Cốt Bang chứ không phải đồ bỏ.",
+  "hook": "Khi Lý Xuyên đang luyện đao trong sân sau, một người từ Vạn Kim Thương Hội hoặc liên quan tới Thẩm Yên Nhiên chuẩn bị ghé võ quán, khiến hắn buộc phải thu đao sớm để giữ bí mật.",
+  "emotion_arc": "Từ quyết tâm nén lửa sau khi mua đao cũ, sang cảm giác thực lực tăng rất nhanh, rồi chốt ở sự bình tĩnh lạnh lùng khi phát hiện lưỡi đao mới đủ dùng để giết người.",
+  "notes": "Dùng món đao cũ nát, rẻ tiền để nhấn mạnh cẩu đạo và tầm nhìn của Lý Xuyên. Có thể xen các nhát chém, tư thế cơ bản, cảm giác khí huyết chuyển động, bảng độ thuần thục nhảy nhanh nhờ Hỗn Nguyên Đạo lục. Kết thúc bằng dấu hiệu có khách lạ tới võ quán hoặc thư tín từ Vạn Kim.",
+  "contract": {
+    "required_beats": [
+      "Sau khi mua đao, Lý Xuyên kiểm tra quyển sách và xác nhận phần thiếu sót không ảnh hưởng nền tảng",
+      "Hắn tìm nơi kín đáo luyện lần đầu, thử bộ khung đao pháp và cảm nhận độ khớp với thân thể",
+      "Hỗn Nguyên Đạo lục phản ứng, độ thuần thục tăng nhanh nhưng không phi lý",
+      "Hắn điều chỉnh nhịp thở, bước chân, cổ tay để đao pháp dần có sát khí",
+      "Cuối chương có tín hiệu ngoại lực kéo hắn quay lại võ quán hoặc một mối liên hệ mới"
+    ],
+    "forbidden_moves": [
+      "Không để Lý Xuyên công khai đi mua đao bằng biểu hiện bất thường",
+      "Không cho hắn trực tiếp đánh lớn với Hắc Cốt Bang trong chương này",
+      "Không làm xuất hiện nhân vật mới không cần thiết",
+      "Không cho đao pháp ngay lập tức hóa cảnh; chỉ tới nhập môn nhanh rồi tiến lên có nền tảng"
+    ],
+    "continuity_checks": [
+      "Tiếp nối ngay sau chương 11: Lý Xuyên vừa mua Liễu Vân Đao ở chợ phía nam",
+      "Gia gia Lý Vạn Sơn và đại bá Lý Thiết vẫn ở Thanh Hà, an toàn nhưng chịu áp lực từ Hắc Cốt Bang",
+      "Hỗn Nguyên Đạo lục đã có sẵn, mọi tiến độ đao pháp phải thể hiện bằng độ thuần thục tăng dần",
+      "Không cho Lý Xuyên bộc lộ chiến lực quá mức trước người ngoài",
+      "Giữ chất lạnh, thực dụng, tập trung cày luyện và quan sát"
+    ],
+    "evaluation_focus": [
+      "Tiết tấu đầu chương có đủ nhanh, không sa vào tả cảnh dài",
+      "Quá trình cày đao pháp phải có cảm giác tích tiểu thành đại, rõ tiến bộ theo thời gian",
+      "Không lặp lại quá nhiều nội dung đã có ở chương 11 về Hắc Cốt Bang",
+      "Kết chương phải móc được sang chương 13 với Thẩm Yên Nhiên và võ quán",
+      "Giữ giọng kể ngôi ba hạn tri, bám sát suy nghĩ Lý Xuyên"
+    ],
+    "emotion_target": "Sảng khoái ngầm, chắc tay, đáng tin",
+    "payoff_points": [
+      "Giá rẻ của môn đao pháp phản chiếu ánh nhìn thực dụng của Lý Xuyên",
+      "Đao pháp cũ nhưng qua cày luyện trở thành lưỡi đao mới",
+      "Chứng minh kim thủ chỉ tăng tốc độ nhưng vẫn cần công phu thật",
+      "Đặt nền cho việc hắn sẽ dùng đao xử lý Hắc Cốt Bang"
+    ],
+    "hook_goal": "Mở đường cho sự xuất hiện của Thẩm Yên Nhiên ở chương 13 mà không làm lộ quá nhiều thực lực."
+  }
+}

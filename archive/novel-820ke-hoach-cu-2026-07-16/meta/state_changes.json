@@ -1,0 +1,498 @@
+[
+  {
+    "chapter": 1,
+    "entity": "Lý Xuyên",
+    "field": "identity_state",
+    "old_value": "Ý thức xuyên qua hỗn loạn, chưa xác lập lập trường",
+    "new_value": "Đã tiếp quản thân phận, tâm lý chuyển từ hoảng loạn sang lạnh lùng tỉnh táo",
+    "reason": "Tiếp nhận ký ức nguyên chủ và nhận ra hoàn cảnh gia đình."
+  },
+  {
+    "chapter": 1,
+    "entity": "Lý Xuyên",
+    "field": "goal",
+    "old_value": "Mơ hồ, lẫn lộn theo bản năng nguyên chủ",
+    "new_value": "Sống sót trong loạn thế, trả nợ gia đình, cắt đứt nghiệt duyên",
+    "reason": "Cú tỉnh ngộ khi nhìn thấy sự hy sinh của Lý Vạn Sơn và Lý Thiết."
+  },
+  {
+    "chapter": 2,
+    "entity": "Lý Xuyên",
+    "field": "mindset",
+    "old_value": "Tỉnh lại, còn đang xác nhận bản ngã và hoàn cảnh",
+    "new_value": "Từ tỉnh táo quan sát chuyển sang chủ động lập kế hoạch cắt đứt lợi dụng và khôi phục thân thể",
+    "reason": "Nhận ra hy sinh của gia đình và môi trường võ quán đầy nguy cơ"
+  },
+  {
+    "chapter": 2,
+    "entity": "Lý Xuyên",
+    "field": "physical_condition",
+    "old_value": "Cơ thể thiếu niên suy yếu, khí huyết mỏng manh",
+    "new_value": "Thân thể bắt đầu thích nghi với cường độ đứng tấn, khí huyết lưu thông hơn trước",
+    "reason": "Một ngày luyện thân thể và đứng tấn dưới sự ép buộc của Lý Vạn Sơn"
+  },
+  {
+    "chapter": 3,
+    "entity": "Lý Xuyên",
+    "field": "attitude_to_Liễu_Như_Yên",
+    "old_value": "chuẩn bị đối đầu trực diện khi nàng tự tìm tới",
+    "new_value": "hoàn toàn cắt đứt, không còn mềm lòng",
+    "reason": "Nhận ra nàng chỉ lợi dụng nguyên chủ và liên tục moi tài nguyên."
+  },
+  {
+    "chapter": 3,
+    "entity": "Lý Xuyên",
+    "field": "danger_awareness",
+    "old_value": "cảnh giác với Triệu Phong nhưng chưa có đụng độ công khai",
+    "new_value": "tăng, đã đưa Triệu Phong vào danh sách cần xử lý",
+    "reason": "Triệu Phong trực tiếp ra mặt gây hấn trước học đồ."
+  },
+  {
+    "chapter": 4,
+    "entity": "Lý Xuyên",
+    "field": "status",
+    "old_value": "Mới cảm nhận dấu hiệu Hỗn Nguyên Đạo lục sắp thức tỉnh",
+    "new_value": "Đã xác nhận Hỗn Nguyên Đạo lục thức tỉnh; bắt đầu có bảng độ thuần thục cho võ học cơ sở",
+    "reason": "Hoàn thành bước mở khóa kim thủ chỉ và kiểm nghiệm phản hồi thực tế"
+  },
+  {
+    "chapter": 4,
+    "entity": "Lý Xuyên",
+    "field": "Liệt Hổ Quyền",
+    "old_value": "chưa nhập môn",
+    "new_value": "Nhập môn (12/100)",
+    "reason": "Luyện quyền liên tục trong phòng và được Hỗn Nguyên Đạo lục ghi nhận"
+  },
+  {
+    "chapter": 4,
+    "entity": "Lý Xuyên",
+    "field": "Thổ nạp pháp cơ bản",
+    "old_value": "chưa nhập môn",
+    "new_value": "Nhập môn (3/100)",
+    "reason": "Thực hành hít thở đúng phương pháp và được hệ thống ghi nhận"
+  },
+  {
+    "chapter": 5,
+    "entity": "Lý Xuyên",
+    "field": "Liệt Hổ Quyền",
+    "old_value": "37/100",
+    "new_value": "68/100",
+    "reason": "Cày võ công cả ngày theo đúng nhịp độ Hỗn Nguyên Đạo lục."
+  },
+  {
+    "chapter": 5,
+    "entity": "Lý Xuyên",
+    "field": "Thổ nạp pháp cơ bản",
+    "old_value": "0/100 (ngầm xác nhận tăng chậm từ nền tảng ban đầu)",
+    "new_value": "12/100",
+    "reason": "Cuối ngày chuyển sang điều tức để phục hồi và tránh lộ tăng trưởng quá mạnh ở cả hai môn."
+  },
+  {
+    "chapter": 5,
+    "entity": "Lý Xuyên",
+    "field": "nhận thức về che giấu thực lực",
+    "old_value": "Mới ở mức ý thức chung về việc không được quá nổi bật",
+    "new_value": "Rõ ràng hơn; xác định phải giữ lại một phần khi đối mặt Triệu Phong",
+    "reason": "Quan sát phản ứng của võ quán và được Trương Bách Xuyên nhắc nhở."
+  },
+  {
+    "chapter": 5,
+    "entity": "Trương Bách Xuyên",
+    "field": "đánh giá về Lý Xuyên",
+    "old_value": "Chủ yếu quan sát hậu bối trong võ quán",
+    "new_value": "Xem là học đồ có tư chất tốt nhưng đang nóng vội, cần kềm lại",
+    "reason": "Thấy Lý Xuyên luyện cả ngày và biểu hiện thay đổi rõ rệt."
+  },
+  {
+    "chapter": 6,
+    "entity": "Lý Xuyên",
+    "field": "Liệt Hổ Quyền",
+    "old_value": "mốc trước chương 6 (tiếp nối luyện tập ngầm)",
+    "new_value": "68/100",
+    "reason": "Sau thời gian cày luyện và đối luyện, độ thuần thục tiếp tục tăng ổn định."
+  },
+  {
+    "chapter": 6,
+    "entity": "Lý Xuyên",
+    "field": "vai trái",
+    "old_value": "bình thường",
+    "new_value": "bị tụ huyết nhẹ, đau âm ỉ nhưng không thương tổn nặng",
+    "reason": "Chủ động nhận một phần lực từ Triệu Phong để che giấu đáy thực lực."
+  },
+  {
+    "chapter": 6,
+    "entity": "Triệu Phong",
+    "field": "nhận thức về Lý Xuyên",
+    "old_value": "chỉ coi thường và muốn dằn mặt",
+    "new_value": "xem Lý Xuyên là đối thủ cần tiếp tục áp chế",
+    "reason": "Lý Xuyên đỡ được đòn và giữ được bình tĩnh khiến Triệu Phong sinh nghi nhưng càng muốn ép tiếp."
+  },
+  {
+    "chapter": 6,
+    "entity": "Trương Bách Xuyên",
+    "field": "đánh giá về Lý Xuyên",
+    "old_value": "học đồ tiến bộ khá nhanh",
+    "new_value": "người biết kìm chế, có đầu óc, đáng theo dõi",
+    "reason": "Quan sát cách Lý Xuyên chịu đòn và giữ thế cho thấy hắn không chỉ có sức mà còn có tính toán."
+  },
+  {
+    "chapter": 7,
+    "entity": "Lý Xuyên",
+    "field": "body_state",
+    "old_value": "Còn ở giai đoạn cày quyền tích lũy, cơ thể bắt đầu chịu nổi cường độ cao hơn",
+    "new_value": "Luyện Bì sơ bộ hoàn thành; da thịt dày hơn, khí huyết mạnh hơn học đồ cùng tầng",
+    "reason": "Luyện Liệt Hổ Quyền và thổ nạp pháp cơ bản liên tục, lại có dược thiện và tiết chế hồi phục hợp lý"
+  },
+  {
+    "chapter": 7,
+    "entity": "Lý Xuyên",
+    "field": "Liệt Hổ Quyền",
+    "old_value": "Đại thành, 71/100",
+    "new_value": "Viên mãn / 100, đủ điều kiện dung hợp cùng cấp",
+    "reason": "Tích lũy cày luyện đạt ngưỡng tràn, mở khóa trạng thái viên mãn"
+  },
+  {
+    "chapter": 7,
+    "entity": "Lý Xuyên",
+    "field": "mood",
+    "old_value": "Chủ yếu nhẫn nhịn và quan sát sau khi bị Triệu Phong gây hấn",
+    "new_value": "Lạnh hơn, sát ý rõ hơn với Liễu Như Yên và Triệu Phong",
+    "reason": "Xác định được manh mối tài nguyên bị bòn rút và sổ nợ cũ cần thanh toán"
+  },
+  {
+    "chapter": 8,
+    "entity": "Lý Xuyên",
+    "field": "mental_state",
+    "old_value": "chỉ ghi nhận nợ cũ và xác nhận kẻ đứng sau",
+    "new_value": "điềm tĩnh, sát ý hơn, bắt đầu chuyển từ ghi sổ sang truy dấu",
+    "reason": "Hắn đã có đủ manh mối ban đầu để chuyển sang hành động."
+  },
+  {
+    "chapter": 8,
+    "entity": "Lý Xuyên",
+    "field": "artifact",
+    "old_value": "chưa có hệ thống đối chiếu rõ ràng",
+    "new_value": "sổ nợ cũ đã lập xong, phân loại tiền bạc/tài nguyên/nhân tình",
+    "reason": "Cần biến oán hận thành kế hoạch thanh toán có trật tự."
+  },
+  {
+    "chapter": 8,
+    "entity": "Lý Xuyên",
+    "field": "martial_progress",
+    "old_value": "Liệt Hổ Quyền: chưa rõ trạng thái cuối",
+    "new_value": "Liệt Hổ Quyền: viên mãn",
+    "reason": "Hệ thống Hỗn Nguyên Đạo lục đã xác nhận viên mãn."
+  },
+  {
+    "chapter": 9,
+    "entity": "Lý Xuyên",
+    "field": "tracking_skill",
+    "old_value": "Chỉ mới có ý thức truy ngược tài nguyên và manh mối, chưa từng áp dụng theo dấu trong thực địa.",
+    "new_value": "Đã hình thành tư duy theo dấu thực chiến ban đêm: đọc nhịp bước, đường lui, nhân chứng và bẫy phục kích.",
+    "reason": "Trực tiếp bám theo người Triệu gia và quan sát điểm hẹn giao dịch."
+  },
+  {
+    "chapter": 9,
+    "entity": "Lý Xuyên",
+    "field": "danger_awareness",
+    "old_value": "Biết Triệu gia có liên quan, nhưng chưa xác nhận mức độ nguy hiểm của mạng lưới.",
+    "new_value": "Cao hơn: xác nhận đối phương có thể phản truy và đã chuẩn bị chặn đường ở phía nam.",
+    "reason": "Nghe được đoạn bàn cách xử lý cái đuôi và bố trí người chặn đường."
+  },
+  {
+    "chapter": 9,
+    "entity": "Triệu gia",
+    "field": "status",
+    "old_value": "Mới chỉ là nguồn manh mối mơ hồ liên quan đến Triệu Phong.",
+    "new_value": "Dính vào giao dịch đen, có tổ chức canh gác và đường lui, nguy cơ trở thành đầu mối phản diện cấp thấp.",
+    "reason": "Chương này xác nhận Triệu gia đang tham gia một hoạt động bí mật có chuẩn bị đối phó người theo dõi."
+  },
+  {
+    "chapter": 10,
+    "entity": "Lý Xuyên",
+    "field": "kill_count",
+    "old_value": "0",
+    "new_value": "4 người chết trong một đêm phục kích",
+    "reason": "Tự vệ và diệt hậu họa sau khi đối phương chặn giết."
+  },
+  {
+    "chapter": 10,
+    "entity": "Lý Xuyên",
+    "field": "principle",
+    "old_value": "Đang hình thành sau khi theo dõi Triệu gia",
+    "new_value": "Đã ra tay thì diệt hậu họa, không lưu danh, không để nhân chứng",
+    "reason": "Rút ra từ trải nghiệm phục kích và dọn hiện trường."
+  },
+  {
+    "chapter": 10,
+    "entity": "Lý Xuyên",
+    "field": "investigation_target",
+    "old_value": "Triệu gia giao dịch bẩn ở hẻm tối",
+    "new_value": "Bến tàu / Bến Đông / Hắc Cốt Bang liên quan tiền bảo kê",
+    "reason": "Vật chứng và giấy tờ trên thi thể chỉ sang tuyến bến tàu."
+  },
+  {
+    "chapter": 11,
+    "entity": "Lý Xuyên",
+    "field": "target_priority",
+    "old_value": "Triệu gia tuyến ngầm chưa xác định rõ trọng tâm",
+    "new_value": "Bến Đông / Hắc Cốt Bang",
+    "reason": "Tận mắt chứng kiến bến tàu thu máu và đánh thương người nhà."
+  },
+  {
+    "chapter": 11,
+    "entity": "Lý Thiết",
+    "field": "injury_status",
+    "old_value": "Bị thương nhẹ nhưng chưa lộ rõ mức độ",
+    "new_value": "Bị tát sưng mặt, quấn vải tay trái, cần tránh bị tiếp tục ép công việc nặng",
+    "reason": "Bị Hắc Cốt Bang công khai đe nẹt và động tay ngay tại bến."
+  },
+  {
+    "chapter": 11,
+    "entity": "Bến Đông",
+    "field": "threat_level",
+    "old_value": "Manh mối tuyến ngầm liên quan gia đình",
+    "new_value": "Mục tiêu điều tra và phản kích của Lý Xuyên",
+    "reason": "Bến Đông xác nhận là điểm hút máu, chuyển hàng và xử lý nhân chứng của Hắc Cốt Bang."
+  },
+  {
+    "chapter": 12,
+    "entity": "Lý Xuyên",
+    "field": "weapon_mastery",
+    "old_value": "chưa học Liễu Vân Đao",
+    "new_value": "Liễu Vân Đao: sơ thành 53/300",
+    "reason": "Hỗn Nguyên Đạo lục tăng tốc cày đao pháp Phàm cấp cũ nát sau một đêm luyện tập."
+  },
+  {
+    "chapter": 12,
+    "entity": "Lý Xuyên",
+    "field": "combat_readiness",
+    "old_value": "chỉ dựa nhiều vào quyền pháp và thân thể nền tảng",
+    "new_value": "Có thêm một môn đao pháp phù hợp đánh lén, phản kích và phá gân",
+    "reason": "Môn đao mới khép kín lá bài tẩy cho giai đoạn đối phó Hắc Cốt Bang."
+  },
+  {
+    "chapter": 13,
+    "entity": "Lý Xuyên",
+    "field": "role_in_VanKim",
+    "old_value": "Học đồ võ quán đang âm thầm cày đao và chuẩn bị đường ra khỏi Thanh Hà",
+    "new_value": "Danh sách thử việc tuyến hộ hàng của Vạn Kim Thương Hội",
+    "reason": "Được Thẩm Yên Nhiên chọn sau khảo sát tại võ quán."
+  },
+  {
+    "chapter": 13,
+    "entity": "Lý Xuyên",
+    "field": "threat_exposure",
+    "old_value": "Còn ở mức địa bàn võ quán và bến tàu",
+    "new_value": "Tăng nhẹ",
+    "reason": "Bắt đầu bước vào tuyến làm ăn có liên quan thương hội và hắc bang."
+  },
+  {
+    "chapter": 13,
+    "entity": "Thẩm Yên Nhiên",
+    "field": "assessment_of_Li_Xuyen",
+    "old_value": "Biết đến qua thiếp mời và gián tiếp từ tuyến dược thiện",
+    "new_value": "Đánh giá cao sự bình tĩnh, đầu óc và tính thực dụng",
+    "reason": "Trực tiếp quan sát phần thử đao và cách hắn trả lời."
+  },
+  {
+    "chapter": 14,
+    "entity": "Lý Xuyên",
+    "field": "position",
+    "old_value": "Học đồ võ quán được Thẩm Yên Nhiên để mắt, chờ bước vào hậu viện",
+    "new_value": "Người của tuyến nội ứng hộ hàng Vạn Kim ở Thanh Hà, giữ thân phận không ghi tên thật",
+    "reason": "Hai bên ký giao ước bí mật và cấp tín vật tạm thời"
+  },
+  {
+    "chapter": 14,
+    "entity": "Thẩm Yên Nhiên",
+    "field": "risk_awareness",
+    "old_value": "Đang khảo sát và tuyển người cho tuyến hộ hàng",
+    "new_value": "Cảnh giác cao hơn trước tín hiệu dò tuyến từ bến Đông",
+    "reason": "Nhận tin có người lạ hỏi tuyến hàng và Hắc Cốt Bang bắt đầu lục lọi xe"
+  },
+  {
+    "chapter": 14,
+    "entity": "Hắc Cốt Bang",
+    "field": "attention_to_van_jin",
+    "old_value": "Mới chỉ là nguy cơ bị quan sát gián tiếp",
+    "new_value": "Bắt đầu đánh hơi tuyến hàng của Vạn Kim ở bến Đông",
+    "reason": "Tin báo ở cuối chương cho thấy chúng đổi ca gác và kiểm tra xe hàng"
+  },
+  {
+    "chapter": 15,
+    "entity": "Lý Xuyên",
+    "field": "status",
+    "old_value": "An toàn tại Thanh Hà Huyện, đang trên đà mở rộng từ học đồ sang võ giả thực chiến.",
+    "new_value": "Đã trực tiếp ra tay tại bến Đông nhưng vẫn giữ thân phận vô danh; bắt đầu bị Hắc Cốt Bang truy xét.",
+    "reason": "Hắn can thiệp vào bến hàng của Vạn Kim, giết người và thu manh mối liên quan Hắc Lang."
+  },
+  {
+    "chapter": 15,
+    "entity": "Hắc Cốt Bang",
+    "field": "pressure",
+    "old_value": "Mạng lưới bến tàu đang tăng cường kiểm soát tuyến hàng Vạn Kim.",
+    "new_value": "Bị tổn thất một nhánh ở bến Đông, hiện trường cháy dở, đầu mối bị cắt, sĩ khí dao động.",
+    "reason": "Lý Xuyên phá kho số ba và giết đầu mục áo xám, khiến kế hoạch lục soát thất bại."
+  },
+  {
+    "chapter": 15,
+    "entity": "Hắc Lang",
+    "field": "attention",
+    "old_value": "Còn ở trạng thái gián tiếp theo dõi tuyến hàng và chờ phản ứng.",
+    "new_value": "Đã nhận báo cáo về kẻ dùng đao vô danh; bắt đầu ra lệnh truy tra võ quán, ngõ Tề Gia và người của Vạn Kim.",
+    "reason": "Tin tức từ bến Đông buộc hắn phải đánh hơi và phản ứng."
+  },
+  {
+    "chapter": 16,
+    "entity": "Hắc Cốt Bang",
+    "field": "posture",
+    "old_value": "phản ứng sau khi mất một kho hàng ở bến Đông",
+    "new_value": "truy tra chủ động, chia nhóm lùng võ quán, bến tàu và tuyến hàng",
+    "reason": "Hắc Lang xác định có cao thủ lạ và cần bóp mầm họa trước khi lan rộng"
+  },
+  {
+    "chapter": 16,
+    "entity": "Lý Xuyên",
+    "field": "mindset",
+    "old_value": "đứng ở thế che giấu sau đòn đánh ở bến Đông",
+    "new_value": "chủ động chuẩn bị bẫy phản công thay vì chờ đối phương mò tới",
+    "reason": "Nhận ra Hắc Cốt Bang sẽ truy ngược đến võ quán và gia đình nếu không cắt sớm"
+  },
+  {
+    "chapter": 16,
+    "entity": "Bến Đông",
+    "field": "tension",
+    "old_value": "còn hỗn loạn nhưng chưa bị siết chặt",
+    "new_value": "bị Hắc Cốt Bang lùng sục, kiểm soát và tra hỏi trên diện rộng",
+    "reason": "Hậu quả trực tiếp từ việc kho hàng bị phá và người bị chém ở chương trước"
+  },
+  {
+    "chapter": 17,
+    "entity": "Lý Xuyên",
+    "field": "status",
+    "old_value": "Đang chuẩn bị phục kích Hắc Cốt Bang ở kho gạo bỏ hoang.",
+    "new_value": "An toàn, vừa tiêu diệt một nhánh truy tra của Hắc Cốt Bang và thu được chứng cứ liên quan Triệu gia.",
+    "reason": "Chủ động giăng bẫy, phản sát và rút lui an toàn."
+  },
+  {
+    "chapter": 17,
+    "entity": "Lý Xuyên",
+    "field": "power",
+    "old_value": "Đang ở giai đoạn tích lũy Bất Nhập Lưu, chuẩn bị dùng kho gạo làm bẫy.",
+    "new_value": "Đao pháp được thực chiến cọ xát thêm; khí huyết sau chém giết ngắn có tăng trưởng nhỏ theo Hỗn Nguyên Đạo lục.",
+    "reason": "Một trận đánh kín, nhanh, đủ để cày thêm độ thuần thục."
+  },
+  {
+    "chapter": 17,
+    "entity": "Hắc Cốt Bang",
+    "field": "sức mạnh tuyến truy tra ở bến Đông",
+    "old_value": "Đang siết truy tra võ quán, bến tàu và tuyến hàng của Vạn Kim.",
+    "new_value": "Bị mất một tổ dò hỏi và một kho hàng/điểm trung chuyển, đồng thời lộ thêm manh mối nội ứng liên quan Triệu gia.",
+    "reason": "Bị Lý Xuyên phục kích, đốt kho và thu tang vật."
+  },
+  {
+    "chapter": 17,
+    "entity": "Triệu gia",
+    "field": "mức độ liên đới",
+    "old_value": "Chỉ là đối tượng bị nghi ngờ gián tiếp từ các manh mối trước.",
+    "new_value": "Bị nhắc tên qua 'Triệu phủ ngoại viện' và 'Triệu nhị công tử cần thêm', trở thành đầu mối đáng nghi trong tuyến hàng sống.",
+    "reason": "Tang vật từ kho gạo xác nhận một phần liên hệ giữa Hắc Cốt Bang và Triệu gia."
+  },
+  {
+    "chapter": 18,
+    "entity": "Lý Xuyên",
+    "field": "position",
+    "old_value": "Đang điều tra tuyến hàng và chờ xác nhận mắt xích Triệu gia.",
+    "new_value": "Đã cầm được sổ đen của Hắc Cốt Bang, nắm mấu chốt để phục kích Hắc Lang tại bến Tây.",
+    "reason": "Sau cuộc phục kích kho lạnh cũ, hắn thu được chứng cứ đủ mạnh để chuyển sang tấn công."
+  },
+  {
+    "chapter": 18,
+    "entity": "Hắc Lang",
+    "field": "alertness",
+    "old_value": "Tăng dần sau vụ kho gạo nhưng vẫn còn chủ động truy tra.",
+    "new_value": "Cao, nhận ra có kẻ đang cắt tuyến hàng và truy vào mạng lưới chỉ huy.",
+    "reason": "Bị cướp sổ đen ngay tại điểm hẹn và mất quyền kiểm soát giao dịch."
+  },
+  {
+    "chapter": 18,
+    "entity": "Triệu phủ ngoại viện",
+    "field": "secrecy",
+    "old_value": "Chỉ là một đầu mối mờ trong sổ tay Hắc Cốt Bang.",
+    "new_value": "Bị lộ một phần dấu vết; vai trò trung chuyển hàng sống không còn hoàn toàn kín.",
+    "reason": "Lao thẳng vào quyển sổ đen và lời xác nhận từ nhân chứng bến tàu."
+  },
+  {
+    "chapter": 18,
+    "entity": "Hắc Cốt Bang",
+    "field": "control",
+    "old_value": "Còn giữ được ưu thế truy tra sau vụ kho gạo cháy.",
+    "new_value": "Mạng lưới chỉ huy bị giằng ra, phải chuyển điểm nhận sang bến Tây để tránh lộ thêm.",
+    "reason": "Sổ đen bị cướp, điểm hẹn kho lạnh cũ bị phá."
+  },
+  {
+    "chapter": 19,
+    "entity": "Hắc Lang",
+    "field": "status",
+    "old_value": "Còn sống nhưng thế lực suy giảm mạnh.",
+    "new_value": "Bị trọng thương và mất sổ đen tại bến Tây, quyền khống chế Hắc Cốt Bang suy yếu mạnh.",
+    "reason": "Bị Lý Xuyên phục kích, ép tách khỏi sổ đen và phải quay về cứu hàng."
+  },
+  {
+    "chapter": 19,
+    "entity": "Lý Xuyên",
+    "field": "objective",
+    "old_value": "Phục kích Hắc Lang, không ham danh mà chỉ đánh gãy mạng lưới chỉ huy và đoạt sổ đen.",
+    "new_value": "Đã cầm được sổ đen và khóa được manh mối dẫn vào hắc thị dưới mái chợ cũ phía tây nam.",
+    "reason": "Hoàn thành phục kích và giải mã phần quan trọng của sổ đen."
+  },
+  {
+    "chapter": 20,
+    "entity": "Lý Xuyên",
+    "field": "plan",
+    "old_value": "Vừa đoạt sổ đen Hắc Lang, đang dò đường vào hắc thị",
+    "new_value": "Chuẩn bị đột nhập hắc thị qua mái chợ cũ phía tây nam với tín vật mặt nạ xương đen",
+    "reason": "Từ quyển sổ đen xác nhận được đầu mối và điều kiện vào cửa."
+  },
+  {
+    "chapter": 20,
+    "entity": "Lý Xuyên",
+    "field": "resources",
+    "old_value": "Chỉ nắm sổ đen và tiền từ các chuyến giao hàng trước",
+    "new_value": "Có thêm tín vật đồng khắc cánh cửa xẻ đôi và bạc chuẩn bị cho giao dịch",
+    "reason": "Thẩm Yên Nhiên cung cấp tín vật và thông tin cần thiết."
+  },
+  {
+    "chapter": 20,
+    "entity": "Hắc Cốt Bang",
+    "field": "status",
+    "old_value": "Bị Lý Xuyên chặt gãy một phần nhưng còn đang lần dấu",
+    "new_value": "Mất nhịp truy tra, đường dây bị lộ thêm lớp hắc thị",
+    "reason": "Sổ đen bị đoạt và bị giải mã."
+  },
+  {
+    "chapter": 21,
+    "entity": "Lý Xuyên",
+    "field": "mood",
+    "old_value": "Cảnh giác, thăm dò",
+    "new_value": "Lạnh hơn, cảnh giác hơn sau khi tận mắt thấy quy tắc của hắc thị và dấu hiệu bị người theo dõi",
+    "reason": "Trải nghiệm trực tiếp sự vô nhân tính và phát hiện có người chú ý tới miếng đồng tín vật của hắn"
+  },
+  {
+    "chapter": 21,
+    "entity": "Lý Xuyên",
+    "field": "objective",
+    "old_value": "Vào hắc thị để quan sát và tìm kiếm hàng phù hợp",
+    "new_value": "Khóa chặt mục tiêu mua ba môn Phàm cấp tàn khuyết để cày luyện và thử dung hợp ở chương 22",
+    "reason": "Hắn đã xác nhận đúng nhóm bí kíp cần thiết xuất hiện ngay trong hắc thị"
+  },
+  {
+    "chapter": 21,
+    "entity": "Thẩm Yên Nhiên",
+    "field": "influence",
+    "old_value": "Đối tác thương hội ngầm",
+    "new_value": "Có kênh tín vật đủ sâu để tác động tới người quản sự hắc thị",
+    "reason": "Miếng đồng do nàng đưa khiến người trong hắc thị nhận ra tuyến nguồn gốc và dè chừng"
+  }
+]

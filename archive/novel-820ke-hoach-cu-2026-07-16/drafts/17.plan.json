@@ -1,0 +1,46 @@
+{
+  "chapter": 17,
+  "title": "Bẫy Trong Kho Gạo",
+  "goal": "Dẫn dụ và tiêu diệt một nhánh truy tra của Hắc Cốt Bang trong kho gạo bỏ hoang, thu được tang vật quan trọng để mở sang manh mối Triệu gia.",
+  "conflict": "Lý Xuyên cần nhử Hắc Cốt Bang vào kho gạo bỏ hoang, vừa diệt một đường dây truy tra vừa giữ kín thân phận và không kéo lửa về võ quán, gia đình hay Thẩm Yên Nhiên.",
+  "hook": "Trong tang vật của đường dây, Lý Xuyên phát hiện ký hiệu/phiếu hàng liên quan đến Triệu gia hoặc một đầu mối Triệu Phong.",
+  "emotion_arc": "Từ nhẫn nại quan sát và âm thầm chuẩn bị, chuyển sang lạnh lùng giăng bẫy, rồi bùng nổ sát phạt ngắn gọn, cuối cùng đọng lại cảm giác sạch sẽ, kín tiếng nhưng nguy hiểm.",
+  "notes": "Chương nên mở bằng chuẩn bị: độc dược rẻ, dầu hỏa, dây kẽm/bẫy đơn giản, bản đồ đường lui. Sau đó cảnh nhử người, cho nhóm Hắc Cốt Bang tìm vào kho, khóa cửa, phóng lửa/độc, chém nhanh. Nên có một tên cầm sổ/phiếu hàng để lấy ra chứng cứ. Kết thúc bằng việc đốt kho, rút sạch và nhận ra manh mối mới.",
+  "contract": {
+    "required_beats": [
+      "Chuẩn bị bẫy và đường lui tại kho gạo.",
+      "Dụ một toán Hắc Cốt Bang vào kho bằng danh nghĩa kiểm hàng hoặc dò tin.",
+      "Khóa đường thoát, dùng độc và lửa làm rối đội hình.",
+      "Lý Xuyên ra tay bằng đao pháp nhanh gọn, giết sạch đầu mục và xóa dấu vết.",
+      "Thu được sổ sách/tang vật chứa manh mối nối sang Triệu gia."
+    ],
+    "forbidden_moves": [
+      "Không để Trương Bách Xuyên hoặc Thẩm Yên Nhiên trực tiếp tham chiến.",
+      "Không để Lý Xuyên lộ toàn bộ thực lực hay dùng chiêu thức vượt quá giai đoạn hiện tại.",
+      "Không tạo tình tiết cứu người quá ủy mị hoặc lãng mạn hóa bạo lực.",
+      "Không để Hắc Lang trực tiếp xuất hiện ở kho gạo nếu chưa cần thiết; chỉ nên là tay chân/đường dây của hắn.",
+      "Không để kho gạo bị nổ tung kiểu quá lớn làm lộ quá nhiều."
+    ],
+    "continuity_checks": [
+      "Phải nối trực tiếp sau việc Hắc Cốt Bang siết truy tra ở chương 16 và địa điểm kho gạo bỏ hoang phía nam bến Đông đã được xác lập.",
+      "Lý Xuyên vẫn đang ở giai đoạn Bất Nhập Lưu/Luyện Bì, có đao pháp và khả năng dùng Hỗn Nguyên Đạo lục để cày độ thuần thục, nhưng chưa được làm như đã vào Nhập Lưu.",
+      "Không để lộ thân phận với Hắc Cốt Bang; sau trận phải xử lý thi thể, dấu vết, độc, lửa và nhân chứng.",
+      "Kho gạo phải là sân khấu chính; phải có bẫy, độc, lửa và đao pháp đúng outline, tiêu diệt một đường dây, không phải một trận đại chiến công khai.",
+      "Cần giữ liên hệ với manh mối ngõ Tề Gia / áo tơi / đao khách ngoài huyện, để chương 18 có thể nối sang Triệu gia hưởng lợi từ bảo kê."
+    ],
+    "evaluation_focus": [
+      "Nhịp truy sát có logic, không để kẻ địch ngu ngơ mà tự chui đầu quá dễ.",
+      "Hành động chiến đấu nhanh, rõ, có chiến thuật địa hình và độc lửa hỗ trợ.",
+      "Giữ giọng văn gãy gọn, hắc ám, tránh kéo dài miêu tả thừa.",
+      "Phải có chi tiết trả lời cho chương trước: Hắc Lang đang lùng võ quán và Lý Xuyên chủ động chuyển chiến trường.",
+      "Phải có hook cuối chương đủ mạnh để sang chương 18 với manh mối liên quan Triệu gia."
+    ],
+    "emotion_target": "Căng thẳng lạnh và sảng khoái diệt hậu họa",
+    "payoff_points": [
+      "Kho gạo bỏ hoang đã được chọn ở chương 16 được sử dụng đúng mục đích.",
+      "Hắc Cốt Bang bị tiêu diệt một đường dây truy tra, chứng minh Lý Xuyên chủ động chuyển chiến trường.",
+      "Tang vật cung cấp manh mối về Triệu gia cho chương 18."
+    ],
+    "hook_goal": "Tạo mồi nối trực tiếp sang chương 18: Triệu gia dính vào tiền bảo kê và tuyến hàng của Hắc Cốt Bang."
+  }
+}

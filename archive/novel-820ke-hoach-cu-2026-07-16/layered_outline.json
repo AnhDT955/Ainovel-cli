@@ -1,0 +1,639 @@
+[
+  {
+    "index": 1,
+    "title": "Thanh Hà Máu Lạnh",
+    "theme": "Chặt nghiệt duyên, dựng căn cơ trong một huyện nhỏ: Lý Xuyên chỉ nhận đúng một món nợ là gia đình, và cẩu đạo — điệu thấp, tích lũy, giấu lá bài tẩy — là cái giá phải trả để giữ được món nợ đó.",
+    "arcs": [
+      {
+        "index": 1,
+        "title": "Học Đồ Võ Quán Trong Thành Mưa Máu",
+        "goal": "Cắt đứt nghiệt duyên với Liễu Như Yên và nhận món nợ gia đình, phát hiện Hỗn Nguyên Đạo lục rồi chứng minh cày độ thuần thục là con đường khả thi. Kết cung: Lý Xuyên lần đầu giết người diệt hậu họa và xác lập nguyên tắc không lưu danh.",
+        "chapters": [
+          {
+            "chapter": 1,
+            "title": "Tỉnh Trong Tiếng Mưa Máu",
+            "core_event": "Lý Xuyên xuyên qua Đại Càn năm 289, tiếp nhận ký ức nguyên chủ và nhận ra gia đình đã vét sạch tiền bạc để hắn học võ.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 2,
+            "title": "Bát Cháo Của Gia Gia",
+            "core_event": "Lý Vạn Sơn và Lý Thiết âm thầm nhường ăn nhường thuốc, khiến Lý Xuyên xác lập mục tiêu sống sót và trả nợ tình thân.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 3,
+            "title": "Liễu Như Yên Đòi Đan",
+            "core_event": "Liễu Như Yên giả yếu đuối tới xin đan dược, Lý Xuyên lạnh lùng từ chối và cắt đứt quan hệ trước mặt học đồ võ quán.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 4,
+            "title": "Trang Đạo Lục Hiện",
+            "core_event": "Lý Xuyên phát hiện Hỗn Nguyên Đạo lục, thấy Liệt Hổ Quyền và thổ nạp pháp xuất hiện bảng độ thuần thục.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 5,
+            "title": "Một Ngày Can Quyền",
+            "core_event": "Hắn bí mật luyện Liệt Hổ Quyền tới kiệt sức, chứng minh chỉ cần cày là tiến bộ và bắt đầu che giấu tốc độ tăng trưởng.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 6,
+            "title": "Triệu Phong Ra Tay",
+            "core_event": "Triệu Phong mượn danh luận bàn để nhục mạ Lý Xuyên, nhưng Lý Xuyên cố ý chịu thiệt nhỏ để giữ lá bài tẩy.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 7,
+            "title": "Luyện Bì Thành",
+            "core_event": "Nhờ cày luyện và dược thiện ít ỏi, Lý Xuyên hoàn thành Luyện Bì sơ bộ, khí huyết vượt xa học đồ cùng tầng.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 8,
+            "title": "Sổ Nợ Cũ",
+            "core_event": "Lý Xuyên kiểm kê tài nguyên nguyên chủ từng đưa cho Liễu Như Yên, xác định Triệu Phong đứng sau bòn rút.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 9,
+            "title": "Đêm Theo Dấu",
+            "core_event": "Hắn theo dấu người Triệu gia tới hẻm tối, lần đầu học cách quan sát đường lui, nhân chứng và dấu vết.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 10,
+            "title": "Không Lưu Danh",
+            "core_event": "Lý Xuyên giết tay sai định hại mình, xử lý thi thể sạch sẽ và xác lập nguyên tắc đã ra tay thì diệt hậu họa.",
+            "hook": "",
+            "scenes": null
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "title": "Hắc Bang Đoạt Phố, Một Đao Không Lưu Danh",
+        "goal": "Dùng thân phận vô danh đối đầu Hắc Cốt Bang để giữ võ quán và bến tàu, đổi lấy đồng minh ngầm Thẩm Yên Nhiên. Kết cung: mạng lưới Hắc Cốt Bang gãy, sổ đen của chúng mở ra lối vào hắc thị.",
+        "chapters": [
+          {
+            "chapter": 11,
+            "title": "Bến Tàu Bị Thu Máu",
+            "core_event": "Hắc Cốt Bang tăng tiền bảo kê ở bến tàu, Lý Thiết bị đánh thương nhẹ, buộc Lý Xuyên chú ý đến thế giới ngầm.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 12,
+            "title": "Đao Pháp Rẻ Tiền",
+            "core_event": "Lý Xuyên mua một môn đao pháp Phàm cấp cũ, dùng Hỗn Nguyên Đạo lục cày đến nhập môn trong thời gian ngắn.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 13,
+            "title": "Thẩm Yên Nhiên Đến Võ Quán",
+            "core_event": "Thẩm Yên Nhiên khảo sát học đồ hộ hàng, Lý Xuyên che giấu thực lực nhưng để lộ vừa đủ sự đáng tin.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 14,
+            "title": "Giao Dịch Không Tên",
+            "core_event": "Lý Xuyên và Thẩm Yên Nhiên đạt thỏa thuận bí mật: nàng cung cấp dược thiện, bí kíp, tin tức; hắn bảo hộ trong bóng tối.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 15,
+            "title": "Một Đao Dưới Mưa",
+            "core_event": "Lý Xuyên dùng thân phận vô danh chém nhóm Hắc Cốt Bang buôn người, cứu hàng của Vạn Kim nhưng không nhận công.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 16,
+            "title": "Hắc Lang Đánh Hơi",
+            "core_event": "Hắc Lang phát hiện có cao thủ lạ phá địa bàn, phái người truy tra võ quán và bến tàu.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 17,
+            "title": "Bẫy Trong Kho Gạo",
+            "core_event": "Lý Xuyên đặt bẫy ở kho gạo bị Hắc Cốt Bang chiếm, dùng độc, lửa và đao pháp tiêu diệt một đường dây.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 18,
+            "title": "Triệu Gia Dính Máu",
+            "core_event": "Manh mối cho thấy Triệu gia hưởng lợi từ bảo kê, khiến thù võ quán nối với thù hắc bang.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 19,
+            "title": "Hắc Lang Gãy Xương",
+            "core_event": "Lý Xuyên phục kích Hắc Lang, không ham danh mà chỉ đánh gãy mạng lưới chỉ huy và đoạt sổ đen.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 20,
+            "title": "Cửa Hắc Thị Mở",
+            "core_event": "Từ sổ đen Hắc Cốt Bang, Lý Xuyên biết lối vào hắc thị và các giao dịch bí kíp bằng xương máu.",
+            "hook": "",
+            "scenes": null
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "title": "Hắc Thị Khai Môn, Xương Trắng Đổi Bí Kíp",
+        "goal": "Kiểm chứng quy tắc dung hợp võ học tại hắc thị, sống sót trước sát thủ Huyết Ảnh Các và phá ổ luyện máu. Kết cung: thấy đường lên Luyện Tủy, bố trí an toàn cho gia đình rồi rời Thanh Hà.",
+        "chapters": [
+          {
+            "chapter": 21,
+            "title": "Mặt Nạ Xương Đen",
+            "core_event": "Lý Xuyên đeo mặt nạ vào hắc thị, chứng kiến bí kíp, đan dược và nhân mạng được định giá lạnh lùng.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 22,
+            "title": "Ba Môn Phàm Cấp",
+            "core_event": "Hắn mua ba môn võ học Phàm cấp tàn khuyết để cày viên mãn và thử quy tắc dung hợp của Hỗn Nguyên Đạo lục.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 23,
+            "title": "Dung Hợp Lần Đầu",
+            "core_event": "Các võ học viên mãn dung hợp thành công, phẩm chất tăng lên và giúp Lý Xuyên củng cố Luyện Gân, Luyện Cốt.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 24,
+            "title": "Đồng Bài Theo Sau",
+            "core_event": "Huyết Ảnh Các phái sát thủ Đồng bài theo dấu giao dịch, Lý Xuyên giả làm con mồi để tìm người thuê.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 25,
+            "title": "Giết Sát Thủ",
+            "core_event": "Lý Xuyên phản sát Đồng bài bằng địa hình hẻm tối, thu ám khí và biết có người đang treo giá mạng mình.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 26,
+            "title": "Mùi Máu Dưới Hầm",
+            "core_event": "Tin tức từ Thẩm Yên Nhiên dẫn hắn tới một hầm luyện máu có dấu Huyết Liên Giáo.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 27,
+            "title": "Luyện Cốt Dưới Áp Lực",
+            "core_event": "Trước khi phá hầm máu, Lý Xuyên cày luyện đến Luyện Cốt vững chắc, chuẩn bị thân thể chịu đòn vượt cấp.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 28,
+            "title": "Ổ Máu Sụp Đổ",
+            "core_event": "Hắn phá ổ luyện máu, giết tà đồ, đốt chứng cứ bất lợi và giữ lại bí kíp có ích.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 29,
+            "title": "Đường Nhập Lưu",
+            "core_event": "Bí kíp thu được giúp Lý Xuyên thấy con đường Luyện Tủy và ngưng tụ nội khí, nhưng cũng lộ bóng thế lực lớn hơn.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 30,
+            "title": "Rời Thanh Hà",
+            "core_event": "Sau khi bố trí an toàn cho gia đình, Lý Xuyên chuẩn bị mở bản đồ tới phủ thành dưới thân phận sạch.",
+            "hook": "",
+            "scenes": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "title": "Vân Châu Dưới Áo Chính Đạo",
+    "theme": "Bản đồ mở sang phủ thành, nơi quan phủ và danh môn chính phái đều có máu dưới vạt áo. Chính đạo không đồng nghĩa với thiện, và ẩn mình giữa các thế lực lớn khó hơn giữa hắc bang.",
+    "arcs": [
+      {
+        "index": 1,
+        "title": "Phủ Thành Gió Tan Huyết Tán",
+        "goal": "Nhập phủ thành theo tuyến hàng Vạn Kim và nhìn ra quan phủ dung túng thế gia cướp hàng. Kết cung: Lý Xuyên vào Nhập Lưu và phá cuộc thanh tẩy võ giả tầng thấp mà không lộ mặt.",
+        "chapters": [
+          {
+            "chapter": 31,
+            "title": "Đường Vào Phủ Thành",
+            "core_event": "Lý Xuyên đi theo tuyến hàng Vạn Kim, quan sát cách phủ thành phân tầng võ giả và dân nghèo.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 32,
+            "title": "Tuyến Hàng Đổ Máu",
+            "core_event": "Đoàn hàng bị phục kích, hắn ra tay giới hạn để giữ mạng người cần thiết mà không lộ cảnh giới thật.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 33,
+            "title": "Quan Ấn Và Đao Ngầm",
+            "core_event": "Lý Xuyên phát hiện quan phủ dung túng thế gia cướp hàng, bắt đầu dùng sổ sách làm đao.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 34,
+            "title": "Nội Khí Thành",
+            "core_event": "Hắn hoàn thành Luyện Tủy, ngưng tụ nội khí và chính thức bước vào Nhập Lưu Cấp 9.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 35,
+            "title": "Gió Tan Huyết Tán",
+            "core_event": "Lý Xuyên phá âm mưu thanh tẩy võ giả tầng thấp, khiến quan phủ và thế gia nghi kỵ lẫn nhau.",
+            "hook": "",
+            "scenes": null
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "title": "Danh Môn Chính Phái, Dưới Áo Có Máu",
+        "goal": "Đối diện Thái Hư Kiếm Tông và Cửu Đỉnh Sơn để thấy mặt trái của chính đạo: trừ ma bị biến thành cướp công. Kết cung: giết trưởng lão làm ác, xóa sạch dấu vết, đẩy chính đạo vào nghi kỵ lẫn nhau.",
+        "chapters": [
+          {
+            "chapter": 36,
+            "title": "Kiếm Tông Thu Người",
+            "core_event": "Thái Hư Kiếm Tông tuyển tài, Lý Xuyên nhìn thấy thiên tài được nâng lên còn người nghèo bị giẫm xuống.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 37,
+            "title": "Cửu Đỉnh Luyện Thân",
+            "core_event": "Hắn tiếp xúc ngoại công Cửu Đỉnh Sơn, dùng để bổ khuyết nhục thân và tăng khả năng vượt cấp.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 38,
+            "title": "Trừ Ma Đoạt Công",
+            "core_event": "Một lần trừ ma bị chính đạo biến thành cướp công, khiến Lý Xuyên thu được chứng cứ máu dưới áo trắng.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 39,
+            "title": "Kiếm Quyền Dung Hợp",
+            "core_event": "Lý Xuyên dung hợp kiếm pháp, quyền pháp, luyện thể lên Huyền cấp sơ hình, tiến vào trung tam cấp Nhập Lưu.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 40,
+            "title": "Chính Đạo Tự Nghi",
+            "core_event": "Hắn giết trưởng lão làm ác rồi xóa dấu vết, khiến Thái Hư Kiếm Tông và Cửu Đỉnh Sơn nghi kỵ lẫn nhau.",
+            "hook": "",
+            "scenes": null
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "title": "Nhập Lưu Cấp 1, Đêm Dài Trước Thoát Phàm",
+        "goal": "Dựng ba thân phận giả để tách rời nguy hiểm khi Huyết Ảnh Các nâng cấp treo thưởng. Kết cung: đạt Địa cấp và cực hạn Cấp 1 Nhập Lưu nhưng ghìm lại không đột phá, ép nền móng dày thêm.",
+        "chapters": [
+          {
+            "chapter": 41,
+            "title": "Thượng Tam Cấp",
+            "core_event": "Lý Xuyên tiến vào thượng tam cấp Nhập Lưu, nhận ra công pháp hiện tại chưa đủ cho đạo cơ Thoát Phàm.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 42,
+            "title": "Ba Thân Phận Giả",
+            "core_event": "Hắn dựng ba thân phận để giao dịch, dụ sát thủ và tách rời nguy hiểm khỏi gia đình.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 43,
+            "title": "Ám Huyết Nhìn Sang",
+            "core_event": "Huyết Ảnh Các nâng cấp treo thưởng, cao thủ Bạc bài và manh mối Ám Huyết xuất hiện.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 44,
+            "title": "Địa Cấp Sơ Thành",
+            "core_event": "Lý Xuyên dung hợp công pháp lên Địa cấp, chân khí sâu và tinh thuần vượt xa đồng cảnh.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 45,
+            "title": "Trước Cửa Thoát Phàm",
+            "core_event": "Hắn đạt Cấp 1 Nhập Lưu cực hạn nhưng không đột phá ngay, tiếp tục ép nền móng đến không tì vết.",
+            "hook": "",
+            "scenes": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "title": "Siêu Phàm Không Treo Biển",
+    "theme": "Siêu phàm mà vẫn không treo biển: sức mạnh càng vượt cấp thì cái giá của việc lộ mặt càng đắt, nên Lý Xuyên xây mạng lưới ngầm thay vì dựng thánh địa phô trương.",
+    "arcs": [
+      {
+        "index": 1,
+        "title": "Thoát Phàm Chân Ý, Lập Quán Không Treo Biển",
+        "goal": "Đột phá Thoát Phàm trong che giấu và dựng mạng lưới điểm luyện võ ngầm không treo danh hiệu. Kết cung: chặt một nhánh Huyết Ảnh Các và đốt chiến quả thành tro để chân ý không lưu dấu.",
+        "chapters": [
+          {
+            "chapter": 46,
+            "title": "Thoát Phàm Không Tên",
+            "core_event": "Lý Xuyên đột phá Thoát Phàm, che giấu dị tượng và đổi thân phận trước khi các phe kịp phản ứng.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 47,
+            "title": "Quán Không Treo Biển",
+            "core_event": "Hắn lập các điểm luyện võ ngầm, thu người hữu dụng mà không treo danh hiệu hay lập môn phái công khai.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 48,
+            "title": "Lăng Không Một Đao",
+            "core_event": "Một trận phục kích buộc hắn dùng sức Thoát Phàm, nhưng hắn giết hết nhân chứng địch và ngụy tạo hiện trường.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 49,
+            "title": "Chặt Nhánh Sát Thủ",
+            "core_event": "Lý Xuyên lần ngược Huyết Ảnh Các, tiêu diệt một nhánh truy sát và lấy mạng lưới tình báo.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 50,
+            "title": "Chân Ý Dưới Tro",
+            "core_event": "Hắn củng cố chân ý Thoát Phàm, biến chiến quả thành tro bụi để không ai xác định thân phận.",
+            "hook": "",
+            "scenes": null
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "title": "Ma Giáo Nuôi Cổ, Chân Vũ Khai Mạch",
+        "goal": "Phá thuật nuôi cổ của Huyết Liên Giáo bằng cách học quy tắc độc mà không vượt ranh giới của chính mình. Kết cung: ngưng tụ Võ Đạo Chân Thân vào Chân Vũ Cảnh, đại tế đứt mạch và manh mối chỉ về Trấn Bắc Vương Chu Liệt.",
+        "chapters": [
+          {
+            "chapter": 51,
+            "title": "Huyện Nuôi Cổ",
+            "core_event": "Nhiều huyện bị biến thành bãi nuôi cổ, Lý Xuyên thấy dấu vết Huyết Liên gắn với quan phủ.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 52,
+            "title": "Lấy Độc Phản Độc",
+            "core_event": "Hắn học quy tắc độc cổ để phá thuật nuôi máu, giữ ranh giới không dùng phàm nhân luyện công.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 53,
+            "title": "Thiên Cấp Manh Nha",
+            "core_event": "Võ học dung hợp đến Thiên cấp sơ hình, chân nguyên của hắn bắt đầu vượt chuẩn Thoát Phàm.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 54,
+            "title": "Võ Đạo Chân Thân",
+            "core_event": "Lý Xuyên ngưng tụ Võ Đạo Chân Thân, bước vào Chân Vũ Cảnh với pháp tướng áp đảo.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 55,
+            "title": "Đại Tế Đứt Mạch",
+            "core_event": "Hắn phá đại tế Huyết Liên, nhưng chứng cứ chỉ về Trấn Bắc Vương Chu Liệt.",
+            "hook": "",
+            "scenes": null
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "title": "Chân Vũ Một Châu, Quan Phủ Và Đao Khách",
+        "goal": "Chống liên minh quan phủ - tông môn - đao khách đang ép hắn lộ mặt, lấy tin tức và thế lực đối địch làm vũ khí. Kết cung: liên minh một châu tan vỡ, cái tên vô danh trở thành điều cấm kỵ.",
+        "chapters": [
+          {
+            "chapter": 56,
+            "title": "Một Châu Nghe Gió",
+            "core_event": "Tin về cao thủ vô danh lan trong giới cao tầng, khiến thế gia và quan phủ bắt đầu thăm dò.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 57,
+            "title": "Quan Phủ Đưa Đao",
+            "core_event": "Quan phủ mượn đao khách và tông môn ép hắn lộ mặt, hắn dùng thế lực khác làm màn che.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 58,
+            "title": "Tin Tức Là Đao",
+            "core_event": "Mạng lưới quán ngầm và thương hội giúp Lý Xuyên khiến liên minh truy sát tự cắn nhau.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 59,
+            "title": "Chân Vũ Đè Một Châu",
+            "core_event": "Hắn nghiền ép các cao thủ Chân Vũ cùng cảnh, chứng minh căn cơ và độ thuần thục vượt xa đồng giai.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 60,
+            "title": "Cấm Kỵ Vô Danh",
+            "core_event": "Liên minh một châu tan vỡ, cái tên không tên của Lý Xuyên trở thành điều cấm kỵ trong cao tầng.",
+            "hook": "",
+            "scenes": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "title": "Thiên Hạ Thành Lò, Hỗn Nguyên Quy Nhất",
+    "theme": "Chu Liệt biến thiên hạ thành lò luyện người, buộc Lý Xuyên đối đầu cả hệ thống thay vì né tránh. Tập trả lời câu hỏi vô địch để làm gì — và câu trả lời không phải ngai vàng.",
+    "arcs": [
+      {
+        "index": 1,
+        "title": "Thân Vương Thu Võ, Thiên Hạ Thành Lò",
+        "goal": "Chặt hậu cần của lệnh thu võ giả và phơi ra sự thật chính - ma cùng một lò. Kết cung: một lò luyện lớn bị phá, phản loạn của Chu Liệt chuyển sang giai đoạn quyết liệt và thân vương phải lộ mặt.",
+        "chapters": [
+          {
+            "chapter": 61,
+            "title": "Lệnh Thu Võ",
+            "core_event": "Trấn Bắc Vương Chu Liệt ban lệnh thu võ giả, nhiều châu phủ thành nguồn tài nguyên chiến tranh.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 62,
+            "title": "Hậu Cần Máu",
+            "core_event": "Lý Xuyên chém các trụ cột vận chuyển người, đan dược và bí pháp của phe Chu Liệt.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 63,
+            "title": "Chính Ma Một Lò",
+            "core_event": "Hắn phát hiện Huyết Liên Giáo, Huyết Ảnh Các và một bộ phận chính đạo đều phục vụ lò máu.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 64,
+            "title": "Thân Vương Lộ Mặt",
+            "core_event": "Chu Liệt trực tiếp ra tay hoặc phái thân tín, buộc Lý Xuyên đối đầu hệ thống chiến tranh cấp thiên hạ.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 65,
+            "title": "Lò Thiên Hạ Nứt",
+            "core_event": "Một lò luyện lớn bị phá, phản loạn của Chu Liệt chuyển sang giai đoạn quyết chiến.",
+            "hook": "",
+            "scenes": null
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "title": "Võ Thánh Không Cúi Đầu",
+        "goal": "Bước vào Võ Thánh rồi từ chối cả ba phía vương quyền - chính đạo - ma đạo cùng ép cúi đầu. Kết cung: Chu Liệt bị dồn đường cùng, bí mật Hỗn Nguyên cấp và ngưỡng Lục Địa Thần Tiên lộ ra.",
+        "chapters": [
+          {
+            "chapter": 66,
+            "title": "Huyết Nhục Tái Sinh",
+            "core_event": "Lý Xuyên bước vào Võ Thánh, đạt năng lực tái sinh và sức sống vượt khỏi khống chế phàm tục.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 67,
+            "title": "Ba Phía Ép Cúi",
+            "core_event": "Vương quyền, chính đạo và ma đạo đồng thời đưa điều kiện, hứa lợi hoặc sát cục để ép hắn phục tùng.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 68,
+            "title": "Không Nhận Thiên Mệnh",
+            "core_event": "Hắn phá lời thề giả, chém kẻ cầm dây và khẳng định chỉ tin thực lực tự tay cày ra.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 69,
+            "title": "Võ Thánh Đạp Vương Quyền",
+            "core_event": "Lý Xuyên nghiền ép quân thế của Chu Liệt, nhưng vẫn ưu tiên chặt nguồn lực hơn phô trương danh tiếng.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 70,
+            "title": "Giới Hạn Võ Đạo",
+            "core_event": "Chu Liệt bị ép đường cùng, bí mật về Hỗn Nguyên cấp và ngưỡng Lục Địa Thần Tiên lộ ra.",
+            "hook": "",
+            "scenes": null
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "title": "Lục Địa Thần Tiên, Hỗn Nguyên Quy Nhất",
+        "goal": "Quy nhất toàn bộ võ học đã cày qua tầng cuối Hỗn Nguyên Đạo lục để dựng nội thế giới. Kết cung: thành Lục Địa Thần Tiên, thanh toán lò máu, và chọn làm bóng đen trên đầu kẻ cầm quyền thay vì tranh ngai vàng.",
+        "chapters": [
+          {
+            "chapter": 71,
+            "title": "Tử Kim Mở Trang",
+            "core_event": "Hỗn Nguyên Đạo lục mở tầng cuối, yêu cầu Lý Xuyên quy nhất mọi võ học đã cày đến cực hạn.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 72,
+            "title": "Nội Thế Giới",
+            "core_event": "Hắn xây lĩnh vực nội thế giới, biến căn cơ, chân thân, khí huyết và võ học thành một hệ thống hoàn chỉnh.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 73,
+            "title": "Thần Thoại Trên Đất",
+            "core_event": "Lý Xuyên bước vào Lục Địa Thần Tiên, trong lĩnh vực của mình hắn là tồn tại tuyệt đối.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 74,
+            "title": "Thanh Toán Lò Máu",
+            "core_event": "Ma giáo, sát thủ, thân vương và chính đạo mục ruỗng bị thanh toán trong trận cuối không cho hậu họa sống sót.",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 75,
+            "title": "Nhân Gian Vô Địch",
+            "core_event": "Lý Xuyên không tranh ngai vàng, chỉ để lại quy tắc lạnh lùng: ai biến thiên hạ thành lò máu thì chết.",
+            "hook": "",
+            "scenes": null
+          }
+        ]
+      }
+    ]
+  }
+]

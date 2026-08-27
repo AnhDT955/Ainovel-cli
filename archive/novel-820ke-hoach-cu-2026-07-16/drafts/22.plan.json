@@ -1,0 +1,45 @@
+{
+  "chapter": 22,
+  "title": "Ba Môn Phàm Cấp",
+  "goal": "Mua đủ ba môn Phàm cấp tàn khuyết phù hợp để cày viên mãn và chuẩn bị thử dung hợp của Hỗn Nguyên Đạo lục.",
+  "conflict": "Lý Xuyên phải chọn và mua được ba môn Phàm cấp tàn khuyết giữa hắc thị đầy mồi câu, đồng thời tránh để người đứng sau nhận ra ý đồ cày viên mãn và dung hợp của hắn.",
+  "hook": "Ngay khi ba môn bí kíp vào tay, Lý Xuyên phát hiện chúng không chỉ là hàng tàn khuyết mà còn khớp thành một cấu trúc có thể dung hợp.",
+  "emotion_arc": "Từ dè chừng, tính toán và thử giá trong mùi máu lạnh của hắc thị, chuyển sang cảm giác nắm được mồi ngon và quyết định dứt khoát sau khi xác nhận hàng thật; cuối chương chốt bằng sự tập trung lạnh của người sắp lao vào cày cuốc.",
+  "notes": "Giọng văn lạnh, tối, thương nhân hắc thị nói ít mà sắc. Có thể dùng một gian hàng, một lão chủ quầy, một kẻ quan sát phía sau. Tập trung vào quan sát, trả giá, kiểm hàng, quyết định. Kết chương ở thời điểm rời hắc thị hoặc về nơi an toàn với bí kíp trong tay.",
+  "contract": {
+    "required_beats": [
+      "Vào quầy bí kíp mồi câu do người đứng sau sắp đặt.",
+      "Quan sát và so sánh ba môn võ học Phàm cấp tàn khuyết.",
+      "Dùng cách thử giá hoặc thủ đoạn mua bán để làm đối phương tưởng hắn chỉ là khách thường.",
+      "Mua thành công cả ba môn.",
+      "Kết bằng ý nghĩ lập tức cày luyện và chạm vào ngưỡng viên mãn/dung hợp."
+    ],
+    "forbidden_moves": [
+      "Không cho Lý Xuyên trực tiếp ra tay giết người trong chương này.",
+      "Không để Hỗn Nguyên Đạo lục hiển lộ trước đám đông.",
+      "Không để nhân vật cũ như Hắc Lang hoặc Thẩm Yên Nhiên xuất hiện trực tiếp nếu không cần thiết.",
+      "Không mua công pháp hoàn chỉnh cấp cao ngoài mục tiêu ba môn Phàm cấp tàn khuyết."
+    ],
+    "continuity_checks": [
+      "Đúng bối cảnh hắc thị dưới mái chợ cũ phía tây nam, có mặt nạ xương đen và tín vật đồng của Thẩm Yên Nhiên.",
+      "Không làm lộ thực lực hoặc mục tiêu thật của Lý Xuyên; hắn chỉ biểu hiện như khách mua bí kíp bình thường.",
+      "Ba môn võ học phải là Phàm cấp tàn khuyết, có thể cày độ thuần thục bằng Hỗn Nguyên Đạo lục.",
+      "Giữ liên tục với phục bút fx_ch20_001 và fx_ch21_001 về quầy mồi câu, người đứng sau theo dõi phản ứng.",
+      "Không để dung hợp xảy ra trong chương này; chỉ kết thúc bằng việc mua xong và chuẩn bị quay về cày luyện."
+    ],
+    "evaluation_focus": [
+      "Tính hợp lý của quá trình mua bán và dò giá trong hắc thị",
+      "Cảm giác mưu tính của người đứng sau quầy mồi",
+      "Nhịp tiết lộ ba môn Phàm cấp tàn khuyết và lý do chọn chúng",
+      "Giữ đúng chất cẩu đạo, không khoe bài tẩy",
+      "Hồi kết mở cho chương 23 về việc viên mãn và dung hợp"
+    ],
+    "emotion_target": "Lạnh, căng, sảng khoái kiểu nhặt được đồ rẻ nhưng có giá trị thật",
+    "payoff_points": [
+      "Ba môn Phàm cấp tàn khuyết cuối cùng đã xuất hiện đúng kế hoạch.",
+      "Người đứng sau mồi câu đã cố tình thử phản ứng của hắn nhưng không thu được gì.",
+      "Lý Xuyên xác nhận phẩm chất và tính phù hợp của ba môn để đi tới viên mãn nhanh chóng."
+    ],
+    "hook_goal": "Tạo cảm giác phát hiện mảnh ghép định mệnh, đẩy sang chương 23 nơi dung hợp xảy ra."
+  }
+}

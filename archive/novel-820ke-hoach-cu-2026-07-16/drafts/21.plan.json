@@ -1,0 +1,47 @@
+{
+  "chapter": 21,
+  "title": "Mặt Nạ Xương Đen",
+  "goal": "Đưa Lý Xuyên vào hắc thị, cho hắn tận mắt thấy quy tắc giao dịch tàn khốc, xác lập nhu cầu mua ba môn võ học Phàm cấp tàn khuyết và chuẩn bị nền cho việc cày/dung hợp ở chương sau.",
+  "conflict": "Lý Xuyên phải bước vào hắc thị bằng mặt nạ xương đen, vừa mua được bí kíp và tin tức cần thiết, vừa giữ kín thân phận trước một nơi mọi giao dịch đều gắn với máu và mạng người.",
+  "hook": "Hắn phát hiện một gian hàng đang bán ba môn võ học Phàm cấp tàn khuyết với giá rẻ đến lạ, nhưng phía sau quầy có người nhận ra miếng đồng tín vật của Thẩm Yên Nhiên.",
+  "emotion_arc": "Từ dè chừng và áp lực của kẻ mới vào chợ đen, chuyển sang lạnh lẽo quan sát, rồi chốt bằng cảm giác thế giới này đúng là nơi chỉ có thực lực và tiền mới nói chuyện.",
+  "notes": "Không khí lạnh, mùi máu/thuốc/kim loại, mọi người đeo mặt nạ xương đen. Lý Xuyên giữ cảnh giác cao, quan sát quy tắc và các tuyến hàng. Có thể cho thấy hắn mua vài món phụ trợ nhưng giữ ngân lượng cho ba môn võ học. Nếu cần nhân vật hắc thị, chỉ dùng chủ quầy/giọng nói vô danh. Giữ nhịp chương như một chuyến thăm dò.",
+  "contract": {
+    "required_beats": [
+      "Đến chợ cũ và thực hiện nghi thức đổi đèn ba lần.",
+      "Bước xuống lối ngầm và đeo mặt nạ xương đen.",
+      "Quan sát ít nhất hai giao dịch tàn khốc để hiểu quy tắc hắc thị.",
+      "Gặp chủ quầy hoặc người quản sự kiểm tra tín vật.",
+      "Phát hiện một điểm thích hợp cho việc mua võ học tàn khuyết và chốt tâm thế mua."
+    ],
+    "forbidden_moves": [
+      "Không để Lý Xuyên mua ngay đúng thứ cần cho chương 22.",
+      "Không để lộ thân phận xuyên qua hay hệ thống Hỗn Nguyên Đạo lục với người ngoài.",
+      "Không biến hắc thị thành một phiên chợ vui vẻ hoặc quá hoa lệ.",
+      "Không cho nhân vật phụ mới nói quá nhiều hoặc kéo sang tuyến phụ dài."
+    ],
+    "continuity_checks": [
+      "Phải nối trực tiếp từ chương 20: tín vật bằng đồng, mặt nạ xương đen, đổi đèn ba lần, địa điểm mái chợ cũ phía tây nam.",
+      "Không để Lý Xuyên lộ cảnh giới thật hay thân phận với bất kỳ người nào trong hắc thị.",
+      "Giữ đúng phong cách cẩu đạo: quan sát, tính đường lui, không ham đồ rẻ mà hỏng việc.",
+      "Hắc thị phải có quy tắc lạnh lùng, giá cả vô nhân tính, bí kíp và đan dược được mặc cả bằng bạc, vật liệu hoặc mạng người.",
+      "Cần gieo/nhớ rằng Lý Xuyên đang tìm các võ học Phàm cấp tàn khuyết phục vụ chương 22.",
+      "Không làm Hắc Lang xuất hiện trực diện trong chương này, chỉ dùng dấu vết/hậu quả nếu cần."
+    ],
+    "evaluation_focus": [
+      "Mở cảnh đủ nhanh, không lan man, cho thấy lối vào hắc thị và nghi thức đổi đèn ba lần.",
+      "Thể hiện sự khác biệt giữa bề ngoài chợ cũ và không gian ngầm bên dưới.",
+      "Tạo ấn tượng về một thị trường đen có kỷ luật, có người kiểm soát, có luật sống chết.",
+      "Làm rõ nội tâm Lý Xuyên: tính toán, quan sát, không tham lam mù quáng.",
+      "Kết thúc bằng móc câu dẫn sang việc mua võ học ở chương 22."
+    ],
+    "emotion_target": "Lạnh, ngột ngạt, tò mò",
+    "payoff_points": [
+      "Khái niệm hắc thị dưới mái chợ cũ được xác nhận bằng hành động chứ không giải thích dài.",
+      "Miếng đồng của Thẩm Yên Nhiên chứng minh giá trị và mở cửa cho hắn.",
+      "Hắn nhận ra các bí kíp rách nát vẫn có giá trị trong mắt Hỗn Nguyên Đạo lục.",
+      "Gieo ba môn Phàm cấp tàn khuyết cho chương 22."
+    ],
+    "hook_goal": "Tạo cảm giác món hàng hắn cần đã xuất hiện, nhưng sẽ không dễ lấy."
+  }
+}

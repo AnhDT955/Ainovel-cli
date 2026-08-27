@@ -1,0 +1,43 @@
+{
+  "chapter": 1,
+  "title": "Tỉnh Trong Tiếng Mưa Máu",
+  "goal": "Mở màn đủ lực: cho độc giả thấy thế giới tàn khốc, thân phận nguyên chủ đáng ghét, gia đình đáng bảo vệ, và cú tỉnh ngộ khiến Lý Xuyên chọn cách sống hoàn toàn khác.",
+  "conflict": "Lý Xuyên vừa xuyên qua đã phải đối mặt với ký ức nguyên chủ mục nát, cơn đau thân xác và sự thật rằng cả gia đình đã vét sạch tiền bạc để nuôi hắn học võ; hắn phải nhanh chóng tiếp nhận thân phận, cắt đứt thói liếm cẩu cũ và xác lập mục tiêu sống sót trong loạn thế.",
+  "hook": "Kết chương bằng nhận thức lạnh lùng của Lý Xuyên: từ giờ hắn không còn là kẻ liếm cẩu kia nữa, và món nợ đầu tiên hắn phải trả là giữ cho gia đình sống sót.",
+  "emotion_arc": "Từ đau đớn hỗn loạn và xa lạ, chuyển sang lạnh lẽo tỉnh táo, rồi nặng trĩu biết ơn và quyết tâm giữ mạng, trả nợ thân tình.",
+  "notes": "Dài khoảng 3500-4500 từ. Mở đầu bằng cảnh tỉnh trong đau đớn, dùng ký ức xô vào nhau. Có thể dùng mưa và mùi máu để tạo tên chương. Cho thấy gia cảnh nghèo, tiền học võ là nợ máu của gia đình. Văn phong lạnh, không sến.",
+  "contract": {
+    "required_beats": [
+      "Tỉnh lại trong đau đớn và nhận ra bản thân xuyên qua",
+      "Tiếp nhận ký ức nguyên chủ về Liệt Hổ Võ Quán và Liễu Như Yên",
+      "Nhận ra gia đình đã dốc sạch tiền bạc cho việc học võ",
+      "Đưa ra kết luận sống còn và thái độ cắt đứt quá khứ"
+    ],
+    "forbidden_moves": [
+      "Không cho Liễu Như Yên trực tiếp xuất hiện nếu không cần thiết",
+      "Không để Lý Xuyên lộ vẻ anh hùng quang minh",
+      "Không triển khai Hỗn Nguyên Đạo lục thành bảng hoàn chỉnh trong chương này",
+      "Không có bước nhảy sức mạnh rõ ràng"
+    ],
+    "continuity_checks": [
+      "Bối cảnh đúng Đại Càn năm 289, Thanh Hà Huyện, Liệt Hổ Võ Quán",
+      "Nguyên chủ từng si mê Liễu Như Yên và làm hao hụt tài nguyên gia đình",
+      "Gia gia Lý Vạn Sơn và đại bá Lý Thiết là người hy sinh âm thầm",
+      "Không để Hỗn Nguyên Đạo lục biểu hiện quá sớm ngoài dấu hiệu mơ hồ trong linh hồn",
+      "Chưa xuất hiện chiến đấu lớn hay đột phá cảnh giới; trọng tâm là tiếp nhận ký ức và nhận thức thế giới"
+    ],
+    "evaluation_focus": [
+      "Không khí mở đầu phải đủ tối, dày áp lực loạn thế",
+      "Tâm lý chuyển biến của Lý Xuyên phải mạch lạc và hợp lý",
+      "Tình thân được khắc họa bằng chi tiết đời thường, không ủy mị",
+      "Giọng văn gãy gọn, có chất cẩu đạo, không sa vào giải thích hệ thống quá sớm"
+    ],
+    "emotion_target": "Tàn khốc, tỉnh ngộ, neo cảm xúc gia đình",
+    "payoff_points": [
+      "Nhận thức rõ nguyên chủ đã phụ lòng gia đình",
+      "Xác lập bản ngã mới của Lý Xuyên",
+      "Đặt nền cảm xúc cho tuyến gia đình ở chương 2"
+    ],
+    "hook_goal": "Tạo động lực đọc sang chương 2 để thấy gia đình hy sinh ra sao và Lý Xuyên sẽ đáp lại thế nào."
+  }
+}

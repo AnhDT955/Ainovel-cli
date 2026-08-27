@@ -1,0 +1,14 @@
+[
+  {
+    "id": "foreshadow-trieu-phong-target",
+    "description": "Triệu Phong sẽ để mắt tới Lý Xuyên sau vụ xung đột trước cổng nhà.",
+    "planted_at": 1,
+    "status": "advanced"
+  },
+  {
+    "id": "foreshadow-marrow-check",
+    "description": "Trương Bách Xuyên sẽ kiểm tra gốc luyện tủy và thái độ thay đổi của Lý Xuyên.",
+    "planted_at": 1,
+    "status": "advanced"
+  }
+]

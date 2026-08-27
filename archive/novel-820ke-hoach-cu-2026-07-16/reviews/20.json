@@ -1,0 +1,65 @@
+{
+  "chapter": 20,
+  "scope": "arc",
+  "issues": [],
+  "dimensions": [
+    {
+      "dimension": "consistency",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Khớp mạnh với thiết định: Hắc Cốt Bang, Hắc Lang, Thẩm Yên Nhiên, sổ đen và hắc thị đều nối mạch từ Thanh Hà sang tầng bí mật hơn."
+    },
+    {
+      "dimension": "character",
+      "score": 92,
+      "verdict": "pass",
+      "comment": "Lý Xuyên giữ đúng lõi nhân vật: kín tiếng, thực dụng, không ham danh, dùng lợi ích để kết giao và dùng đao để dọn hậu họa."
+    },
+    {
+      "dimension": "pacing",
+      "score": 86,
+      "verdict": "pass",
+      "comment": "Nhịp arc tốt: 11-14 dựng thế, 15-19 tăng áp, 20 chốt cửa mới. Tốc độ leo thang hợp lý cho một cung truyện chuyển tuyến."
+    },
+    {
+      "dimension": "continuity",
+      "score": 89,
+      "verdict": "pass",
+      "comment": "Chuỗi nhân quả rõ: bến tàu -\u003e đao pháp -\u003e hợp tác thương hội -\u003e diệt bang -\u003e sổ đen -\u003e hắc thị. Các móc nối không bị rời."
+    },
+    {
+      "dimension": "foreshadow",
+      "score": 84,
+      "verdict": "pass",
+      "comment": "Phục bút đủ dùng: sổ đen Hắc Cốt Bang và hắc thị tạo đường dây cho arc sau, đồng thời giữ bóng Huyết Liên Giáo ở xa mà vẫn có sức nặng."
+    },
+    {
+      "dimension": "hook",
+      "score": 88,
+      "verdict": "pass",
+      "comment": "Cung 2 có câu móc tốt ở cuối: từ sổ đen mở ra hắc thị và bí kíp bằng xương máu, đủ lực kéo người đọc sang cung 3."
+    },
+    {
+      "dimension": "aesthetic",
+      "score": 85,
+      "verdict": "pass",
+      "comment": "Aesthetic ở mức hợp chuẩn theo mô tả cung: có các nhan đề ngắn, sắc, tối như 'Một Đao Dưới Mưa', 'Hắc Lang Gãy Xương', 'Cửa Hắc Thị Mở'; riêng tiêu đề 20 đã nói thẳng tính trao đổi tàn khốc: 'xương máu'."
+    }
+  ],
+  "contract_status": "met",
+  "contract_notes": "Cung 2 bám đúng mục tiêu: mở rộng sang Hắc Cốt Bang, giới thiệu giao dịch với Thẩm Yên Nhiên, đẩy Lý Xuyên vào thế giới ngầm, và kết thúc bằng việc mở hắc thị. Trục sát phạt, ẩn danh, xử hậu họa được giữ ổn.",
+  "verdict": "accept",
+  "summary": "Cung 2 hoàn thành tốt vai trò chuyển pha từ ân oán võ quán sang thế giới ngầm Thanh Hà. Mạch truyện nhất quán với thiết định cẩu đạo, sát phạt và ẩn danh của Lý Xuyên; nhịp tăng áp hợp lý, kết ở điểm mở đủ mạnh để sang hắc thị. Không phát hiện lỗi lớn ở cấp cung, chỉ có dư địa làm sắc hơn vài nhịp truy đuổi và độ tương phản giữa hành động vô danh với mạng lưới lợi ích của Thẩm Yên Nhiên.",
+  "affected_chapters": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ]
+}

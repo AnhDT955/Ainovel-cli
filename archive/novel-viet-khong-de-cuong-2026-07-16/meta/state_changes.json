@@ -1,0 +1,154 @@
+[
+  {
+    "chapter": 1,
+    "entity": "Lý Xuyên",
+    "field": "tâm lý",
+    "old_value": "mơ hồ, lệ thuộc tình cảm, bỏ bê võ đạo",
+    "new_value": "tỉnh táo, sát phạt hơn, cắt bỏ sự si mê ngu xuẩn của nguyên chủ",
+    "reason": "Tiếp nhận ký ức hai đời và nhận ra cái giá của sự ngu xuẩn."
+  },
+  {
+    "chapter": 1,
+    "entity": "Lý Xuyên",
+    "field": "trạng thái kim thủ chỉ",
+    "old_value": "chưa kích hoạt hoặc chưa được nhận ra",
+    "new_value": "Hỗn Nguyên Đạo lục đã kích hoạt, mở đầu quá trình cày độ thuần thục",
+    "reason": "Sau khi điều tức và luyện quyền, đạo thư hiện ra trong thức hải."
+  },
+  {
+    "chapter": 1,
+    "entity": "Lý Xuyên",
+    "field": "độ nguy hiểm trước mắt",
+    "old_value": "một học đồ bị xem thường",
+    "new_value": "cao hơn, đã bị Triệu gia và võ quán để ý",
+    "reason": "Hắn công khai phản kháng đệ tử võ quán và cự tuyệt mệnh lệnh."
+  },
+  {
+    "chapter": 1,
+    "entity": "Lý Vạn Sơn",
+    "field": "niềm tin vào Lý Xuyên",
+    "old_value": "lo lắng vì cháu trai sa vào Liễu Như Yên",
+    "new_value": "tăng rõ rệt",
+    "reason": "Lý Xuyên thẳng thắn thừa nhận sai lầm và từ chối lãng phí tài nguyên."
+  },
+  {
+    "chapter": 2,
+    "entity": "Lý Xuyên",
+    "field": "độ thuần thục Quyền pháp cơ sở",
+    "old_value": "0/100",
+    "new_value": "21/100",
+    "reason": "Cày luyện liên tục bằng Hỗn Nguyên Đạo lục trong buổi sáng."
+  },
+  {
+    "chapter": 2,
+    "entity": "Lý Xuyên",
+    "field": "đánh giá tư chất",
+    "old_value": "bị xem như học đồ thường, tương lai mờ nhạt",
+    "new_value": "Có Luyện Tủy chi tướng, căn cốt chưa hỏng",
+    "reason": "Viên ngọc kiểm tra gốc luyện tủy phản ứng mạnh."
+  },
+  {
+    "chapter": 2,
+    "entity": "Lý Xuyên",
+    "field": "vị trí trong võ quán",
+    "old_value": "học đồ bình thường",
+    "new_value": "được Trương Bách Xuyên trực tiếp để mắt và bồi dưỡng riêng",
+    "reason": "Kiểm tra gốc luyện tủy cho kết quả tốt."
+  },
+  {
+    "chapter": 2,
+    "entity": "Triệu Phong",
+    "field": "đánh giá về Lý Xuyên",
+    "old_value": "phế vật có thể tùy ý chèn ép",
+    "new_value": "xem như mối đe dọa cần kiềm chế",
+    "reason": "Lý Xuyên thể hiện thực lực và tư chất khác hẳn trước đây."
+  },
+  {
+    "chapter": 3,
+    "entity": "Lý Xuyên",
+    "field": "độ thuần thục Quyền pháp cơ sở",
+    "old_value": "21/100",
+    "new_value": "26/100",
+    "reason": "Cày luyện liên tục bằng Hỗn Nguyên Đạo lục và bài đứng tấn."
+  },
+  {
+    "chapter": 3,
+    "entity": "Lý Xuyên",
+    "field": "đánh giá của Trương Bách Xuyên",
+    "old_value": "được trực tiếp để mắt sau kiểm tra gốc luyện tủy",
+    "new_value": "được coi là hạt giống đáng bồi dưỡng và có thể chịu khổ",
+    "reason": "Thể hiện khả năng chịu đựng và thái độ không kiêu."
+  },
+  {
+    "chapter": 3,
+    "entity": "Liệt Hổ Võ Quán",
+    "field": "trạng thái an toàn",
+    "old_value": "đang trong không khí bất ổn do tin quan phủ kiểm tra",
+    "new_value": "bị siết quản chế vì manh mối bến tàu và ký hiệu sọ nứt",
+    "reason": "Xuất hiện tấm thẻ gỗ từ bến tàu liên quan người mất tích."
+  },
+  {
+    "chapter": 4,
+    "entity": "Liệt Hổ Võ Quán",
+    "field": "trạng thái quản chế",
+    "old_value": "bị siết quản chế vì ký hiệu sọ nứt và tin phu khuân vác mất tích",
+    "new_value": "siết chặt hơn do vật chứng bến tàu và manh mối đường dây bắt người",
+    "reason": "Vật chứng mới xác nhận vụ mất tích không còn là tin đồn lẻ tẻ."
+  },
+  {
+    "chapter": 4,
+    "entity": "Lý Xuyên",
+    "field": "độ thuần thục Quyền pháp cơ sở",
+    "old_value": "26/100",
+    "new_value": "tiếp tục tăng trong quá trình luyện tập và đứng tấn",
+    "reason": "Cày luyện liên tục dưới sự giám sát của Trương Bách Xuyên."
+  },
+  {
+    "chapter": 5,
+    "entity": "Lý Xuyên",
+    "field": "độ thuần thục Quyền pháp cơ sở",
+    "old_value": "26/100",
+    "new_value": "33/100",
+    "reason": "Cày luyện buổi sớm trong võ quán trước khi ra ngoài điều tra."
+  },
+  {
+    "chapter": 5,
+    "entity": "Liệt Hổ Võ Quán",
+    "field": "trạng thái quản chế",
+    "old_value": "siết chặt hơn do vật chứng bến tàu và manh mối đường dây bắt người",
+    "new_value": "tiếp tục bị siết chặt trong lúc quan phủ kiểm tra bến tàu",
+    "reason": "Quan phủ điều người đến bến tàu đúng lúc Lý Xuyên đang truy dấu."
+  },
+  {
+    "chapter": 5,
+    "entity": "Bến tàu Thanh Hà",
+    "field": "mức độ khả nghi",
+    "old_value": "đang bị nghi là đầu mối của đường dây bắt người",
+    "new_value": "cao hơn; xác nhận có giam giữ người sống và chuyển hàng bí mật",
+    "reason": "Lý Xuyên trực tiếp thấy người sống bị trói trong kho và nghe lời nhắc về kiểm hàng."
+  },
+  {
+    "chapter": 6,
+    "entity": "Lý Xuyên",
+    "field": "mang_theo",
+    "old_value": "Không có vật chứng mới",
+    "new_value": "Tờ danh sách tuyến hàng qua đêm và thẻ gỗ khắc 'Tây hà'",
+    "reason": "Thu hồi từ kho phía tây để lần theo đầu mối lớn hơn"
+  },
+  {
+    "chapter": 6,
+    "entity": "Lý Xuyên",
+    "field": "ẩn_nhân_thân",
+    "old_value": "Ẩn giấu tương đối tốt khi chỉ lướt qua bến tàu",
+    "new_value": "Còn giữ được, nhưng bến tàu đã ghi nhận có kẻ xông vào",
+    "reason": "Bị truy bắt khi đột nhập kho và buộc phải gây hỗn loạn để rút lui"
+  },
+  {
+    "chapter": 6,
+    "entity": "Hắc Cốt Bang",
+    "field": "cảnh_giác",
+    "old_value": "Tự tin kiểm soát khu kho và người sống bị giam",
+    "new_value": "Cao độ, bến tàu và tuyến chuyển hàng bị động",
+    "reason": "Lý Xuyên cướp vật chứng và phóng hỏa cầu gỗ"
+  }
+]

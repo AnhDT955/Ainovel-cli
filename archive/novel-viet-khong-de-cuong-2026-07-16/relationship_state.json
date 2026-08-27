@@ -1,0 +1,38 @@
+[
+  {
+    "character_a": "Lý Xuyên",
+    "character_b": "Lý Vạn Sơn",
+    "relation": "Lý Vạn Sơn càng tin cháu trai đã tỉnh ngộ và có thể tự bảo vệ gia đình.",
+    "chapter": 2
+  },
+  {
+    "character_a": "Lý Xuyên",
+    "character_b": "Lý Thiết",
+    "relation": "Lý Thiết lo lắng hơn vì Lý Xuyên tự mình ra bến tàu nhưng vẫn tin cháu biết giữ chừng mực.",
+    "chapter": 5
+  },
+  {
+    "character_a": "Lý Xuyên",
+    "character_b": "Liễu Như Yên",
+    "relation": "Liễu Như Yên càng khó chịu vì Lý Xuyên hoàn toàn không còn bám víu nàng.",
+    "chapter": 3
+  },
+  {
+    "character_a": "Lý Xuyên",
+    "character_b": "Triệu Phong",
+    "relation": "Mâu thuẫn tăng mạnh; Triệu Phong chính thức bị Lý Xuyên xem là mắt xích đáng giết trong vụ bến tàu.",
+    "chapter": 6
+  },
+  {
+    "character_a": "Lý Xuyên",
+    "character_b": "Trương Bách Xuyên",
+    "relation": "Trương Bách Xuyên càng thấy Lý Xuyên biết nghe lệnh, giữ đầu óc lạnh và đủ lá gan bám manh mối.",
+    "chapter": 5
+  },
+  {
+    "character_a": "Lý Xuyên",
+    "character_b": "Hắc Cốt Bang",
+    "relation": "Quan hệ chuyển sang đối địch trực tiếp sau khi Lý Xuyên chạm vào kho giam người và vật chứng.",
+    "chapter": 6
+  }
+]

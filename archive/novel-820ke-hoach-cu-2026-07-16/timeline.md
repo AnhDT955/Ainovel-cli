@@ -1,0 +1,101 @@
+# Dòng thời gian
+
+- **Chương 1 [Đêm mưa, đầu chương]**：Tỉnh lại trong đau đớn sau khi xuyên qua và tiếp nhận ký ức nguyên chủ（Lý Xuyên）
+- **Chương 1 [Sau khi tỉnh lại]**：Gặp gia gia và đại bá mang bát cháo nghèo vào phòng（Lý Xuyên、Lý Vạn Sơn、Lý Thiết）
+- **Chương 1 [Cuối chương]**：Xác lập quyết tâm mới: không lãng phí tài nguyên gia đình, ưu tiên sống sót và bảo vệ người thân（Lý Xuyên）
+- **Chương 2 [Sáng sớm]**：Lý Vạn Sơn và Lý Thiết mang cháo, thuốc vào phòng; Lý Xuyên nhận ra sự hy sinh của gia đình（Lý Xuyên、Lý Vạn Sơn、Lý Thiết）
+- **Chương 2 [Sau bữa sáng]**：Lý Xuyên tuyên bố không tiếp tục lãng phí tài nguyên gia đình và muốn phụ việc nhà（Lý Xuyên、Lý Vạn Sơn、Lý Thiết）
+- **Chương 2 [Buổi sáng đến chiều]**：Lý Vạn Sơn bắt Lý Xuyên đứng tấn để ép khôi phục thân thể（Lý Xuyên、Lý Vạn Sơn）
+- **Chương 2 [Giữa trưa]**：Lý Xuyên nghe chuyện Hắc Cốt Bang ở bến tàu, ghi nhớ mầm họa ngầm của huyện（Lý Xuyên、Lý Thiết）
+- **Chương 2 [Đêm]**：Liễu Như Yên gõ cửa gọi Lý Xuyên giữa đêm, chặn lại ở ngưỡng xung đột chương sau（Lý Xuyên、Lý Vạn Sơn、Lý Thiết、Liễu Như Yên）
+- **Chương 3 [Ban ngày, tại Liệt Hổ Võ Quán]**：Liễu Như Yên đến sân viện xin đan dược và bị Lý Xuyên thẳng thừng từ chối, rồi công khai cắt đứt quan hệ.（Lý Xuyên、Liễu Như Yên、Trần Lỗi、Chu Đào）
+- **Chương 3 [Ngay sau đó, tại sân viện]**：Triệu Phong xuất hiện, mượn cớ luận bàn để chèn ép, nhưng Lý Xuyên không mắc bẫy.（Lý Xuyên、Triệu Phong、học đồ võ quán）
+- **Chương 3 [Chạng vạng, trong phòng riêng]**：Lý Xuyên trở về phòng, lật quyền phổ Liệt Hổ Quyền và cảm nhận sự rung động của kim thủ chỉ.（Lý Xuyên）
+- **Chương 4 [Đêm muộn, sau khi Triệu Phong rời đi]**：Khóa cửa phòng, gọi Hỗn Nguyên Đạo lục trong ý thức và quan sát quyển tử kim lục bìa mở trang đầu（Lý Xuyên）
+- **Chương 4 [Đêm muộn]**：Bảng độ thuần thục hiện ra, ghi nhận Liệt Hổ Quyền và thổ nạp pháp cơ bản（Lý Xuyên）
+- **Chương 4 [Đêm muộn]**：Thử luyện Liệt Hổ Quyền liên tục trong phòng, xác nhận độ thuần thục tăng theo mỗi lượt（Lý Xuyên）
+- **Chương 4 [Đêm muộn]**：Chuyển sang luyện thổ nạp pháp cơ bản và nhận thấy khí huyết vận hành mượt hơn（Lý Xuyên）
+- **Chương 4 [Trước lúc nghỉ đêm]**：Phát hiện cảnh báo về khâu dung hợp nền móng và linh hồn đồng bộ quá nhanh（Lý Xuyên）
+- **Chương 5 [Sáng - chiều cùng ngày]**：Từ sáng sớm đến chiều tối, Lý Xuyên liên tục luyện Liệt Hổ Quyền trong sân sau.（Lý Xuyên）
+- **Chương 5 [Giữa buổi sáng]**：Hai học đồ đi ngang châm chọc chuyện Liễu Như Yên, bị Lý Xuyên đáp trả lạnh nhạt rồi bỏ đi.（Lý Xuyên、Trần Lỗi、Chu Đào）
+- **Chương 5 [Giữa trưa - đầu chiều]**：Hắn ăn qua loa bữa trưa, tiếp tục luyện quyền và điều tức bằng thổ nạp pháp cơ bản.（Lý Xuyên）
+- **Chương 5 [Hoàng hôn]**：Trương Bách Xuyên quan sát hắn luyện cả buổi, nhắc ngày mai đối luyện phải biết nhịn để giữ mạng.（Lý Xuyên、Trương Bách Xuyên）
+- **Chương 5 [Đêm]**：Trong phòng, Lý Xuyên kiểm tra Hỗn Nguyên Đạo lục và quyết định giữ lại một phần thực lực cho ngày mai.（Lý Xuyên）
+- **Chương 6 [Sáng sớm]**：Triệu Phong bước vào sân võ quán, mượn cớ chỉ điểm để công khai gây sức ép lên Lý Xuyên.（Lý Xuyên、Triệu Phong、Trần Lỗi、Chu Đào、Trương Bách Xuyên）
+- **Chương 6 [Ngay sau đó]**：Hai người đối luyện trước toàn bộ học đồ; Lý Xuyên cố ý chịu thiệt nhỏ để giữ bí mật thực lực.（Lý Xuyên、Triệu Phong）
+- **Chương 6 [Giữa buổi]**：Trương Bách Xuyên can thiệp, dừng trận ở mức vừa đủ và nhắc Lý Xuyên phải biết nhịn đúng lúc.（Lý Xuyên、Trương Bách Xuyên）
+- **Chương 6 [Sau đối luyện]**：Lý Xuyên về phòng, xử lý tụ huyết vai trái, kiểm tra độ thuần thục và củng cố kế hoạch cày luyện tiếp.（Lý Xuyên）
+- **Chương 7 [sáng]**：Cày quyền và thổ nạp liên tục để hoàn thành Luyện Bì sơ bộ（Lý Xuyên）
+- **Chương 7 [sáng muộn]**：Lý Thiết mang củi đến sân, nhắc chuyện gia gia hỏi xương hầm（Lý Xuyên、Lý Thiết）
+- **Chương 7 [giữa sáng]**：Trần Lỗi và Chu Đào đến khiêu khích nhưng bị Lý Xuyên đẩy lùi（Lý Xuyên、Trần Lỗi、Chu Đào）
+- **Chương 7 [trưa]**：Ăn sáng đạm bạc cùng gia đình, nhận ra sự hy sinh âm thầm của người nhà（Lý Xuyên、Lý Vạn Sơn、Lý Thiết）
+- **Chương 7 [chiều]**：Đi ra chợ hỏi thăm dấu vết tài nguyên và lần ra manh mối Liễu Như Yên đi cùng nam nhân họ Triệu（Lý Xuyên）
+- **Chương 7 [xế chiều]**：Trương Bách Xuyên nhìn ra khí huyết dày hơn và nhắc Lý Xuyên giữ chừng mực（Lý Xuyên、Trương Bách Xuyên）
+- **Chương 7 [đêm]**：Đêm về, Lý Xuyên kiểm sổ nợ cũ và quyết ý thanh toán quá khứ（Lý Xuyên）
+- **Chương 8 [Đêm]**：Kiểm kê đồ vật nguyên chủ từng đưa cho Liễu Như Yên và bắt đầu ghép manh mối（Lý Xuyên）
+- **Chương 8 [Đêm]**：Lý Thiết trở về từ bến tàu, nhắc chuyện xương ống rẻ để ninh canh（Lý Xuyên、Lý Thiết）
+- **Chương 8 [Đêm]**：Lập sổ nợ cũ và xác nhận Liệt Hổ Quyền viên mãn（Lý Xuyên）
+- **Chương 8 [Đêm muộn]**：Thấy người Triệu gia đi ngang đầu ngõ và rời nhà theo dấu（Lý Xuyên）
+- **Chương 9 [Đêm Thanh Hà Huyện, sau khi trời tối]**：Rời nhà theo dấu một người Triệu gia vừa xuất hiện ở đầu ngõ.（Lý Xuyên）
+- **Chương 9 [Đêm Thanh Hà Huyện, trên đường nam]**：Quan sát mục tiêu đổi nhịp bước, quay đầu và đi vào khu kho bãi gần bờ sông.（Lý Xuyên、Triệu gia）
+- **Chương 9 [Đêm Thanh Hà Huyện, tại khu kho bãi]**：Phát hiện một hẻm tối có cửa sau, hai người canh và cấu trúc đường lui ba hướng.（Lý Xuyên、Triệu gia、nhóm giao dịch bí mật）
+- **Chương 9 [Đêm Thanh Hà Huyện, ngay trong hẻm]**：Nghe được trao đổi về lô hàng, đổi chỗ, né truy xét và 'xử lý cái đuôi'.（Lý Xuyên、Triệu gia、nhóm giao dịch bí mật）
+- **Chương 9 [Kết đêm]**：Ghi nhớ sơ đồ hẻm, người chặn phía nam và rút lui an toàn để chuẩn bị bước kế tiếp.（Lý Xuyên）
+- **Chương 10 [Đêm muộn]**：Rời khu kho bãi và chủ động vòng lại kiểm tra dấu hiệu phục kích.（Lý Xuyên）
+- **Chương 10 [Ngay sau đó]**：Bị một tên đoản đao phục kích trong ngõ hẹp, phản kích và giết chết hắn.（Lý Xuyên）
+- **Chương 10 [Liền sau đó]**：Tiêu diệt tiếp ba kẻ chặn hậu/chốt hẻm bằng côn ngắn, đao dài và dây xích.（Lý Xuyên）
+- **Chương 10 [Đêm cùng ngày]**：Khám xét thi thể, lấy thẻ gỗ, tờ giấy và mảnh giấy ghi 'Bến Đông'.（Lý Xuyên）
+- **Chương 10 [Rạng sáng]**：Trở về nhà, xác nhận Lý Thiết bị bến Đông tăng tiền bảo kê và bắt đầu bị nhắm tới.（Lý Xuyên、Lý Thiết）
+- **Chương 10 [Trước khi ngủ]**：Đốt giấy, đặt ra nguyên tắc không lưu danh và quyết định sáng mai đến bến tàu.（Lý Xuyên）
+- **Chương 11 [chiều ngày hiện tại]**：Lý Xuyên tới bến Đông, chứng kiến Hắc Cốt Bang tăng tiền bảo kê và đánh Lý Thiết（Lý Xuyên、Lý Thiết、Hắc Cốt Bang）
+- **Chương 11 [chiều tối cùng ngày]**：Hắn quan sát kho hàng, lều canh, lối sau và các mắt xích vận chuyển bí mật của bến Đông（Lý Xuyên、Hắc Cốt Bang）
+- **Chương 11 [đêm cùng ngày]**：Hắn đưa Lý Thiết về nhà, suy nghĩ cách cắt nguồn ép để bảo vệ gia đình（Lý Xuyên、Lý Thiết、Lý Vạn Sơn）
+- **Chương 11 [sáng hôm sau]**：Sáng hôm sau hắn ra chợ phía nam và mua quyển Liễu Vân Đao giá rẻ（Lý Xuyên）
+- **Chương 12 [Đêm]**：Mua quyển Liễu Vân Đao tàn bản giá rẻ ở chợ phía nam（Lý Xuyên）
+- **Chương 12 [Đêm khuya]**：Luyện đao trong sân sau, cày nhập môn rồi sơ thành bằng Hỗn Nguyên Đạo lục（Lý Xuyên）
+- **Chương 12 [Đêm khuya]**：Người của Thẩm Yên Nhiên mang dược thiện và thiếp mời tới nhà（Thẩm Yên Nhiên、Lý Xuyên）
+- **Chương 12 [Cuối đêm]**：Nhận thiếp, xác nhận sáng hôm sau phải tới võ quán xem khảo sát học đồ hộ hàng（Lý Xuyên）
+- **Chương 12 [Trước khi ngủ]**：Điều tức, chuẩn bị bước sang chương mới với thanh đao đã khác（Lý Xuyên）
+- **Chương 13 [Chiều]**：Thẩm Yên Nhiên đến võ quán, giới thiệu nhu cầu tuyển người hộ hàng và bắt đầu khảo sát thực lực học đồ.（Thẩm Yên Nhiên、Trương Bách Xuyên、Lý Xuyên）
+- **Chương 13 [Chiều muộn]**：Lý Xuyên qua ba chiêu thử đao, thể hiện nền tảng đủ tốt để lọt vào mắt thương hội.（Lý Xuyên、Lục thúc、Thẩm Yên Nhiên）
+- **Chương 13 [Chiều muộn]**：Thẩm Yên Nhiên ghi tên Lý Xuyên vào danh sách thử việc và hẹn gặp tại hậu viện võ quán sau ba ngày.（Lý Xuyên、Thẩm Yên Nhiên）
+- **Chương 13 [Hoàng hôn]**：Trương Bách Xuyên nhắc nhở Lý Xuyên phải cẩn trọng vì Hắc Cốt Bang và các thế lực liên quan có thể đang theo dõi.（Lý Xuyên、Trương Bách Xuyên）
+- **Chương 13 [Tối]**：Lý Xuyên báo tin được chọn thử việc; gia đình nhận ra một tuyến mới đã mở ra cho tương lai của nhà họ Lý.（Lý Xuyên、Lý Vạn Sơn、Lý Thiết）
+- **Chương 13 [Đêm]**：Lý Xuyên tự xét lại lợi hại, chốt ý định đi tuyến hộ hàng để tích lũy tài nguyên và mở đường rời Thanh Hà.（Lý Xuyên）
+- **Chương 14 [Sáng sớm, ba ngày sau khảo sát]**：Lý Xuyên được gọi vào hậu viện thủy tạ để gặp riêng Thẩm Yên Nhiên（Lý Xuyên、Lục thúc、Thẩm Yên Nhiên）
+- **Chương 14 [Cùng buổi sáng]**：Hai bên trao đổi điều kiện, xác lập giao ước hộ hàng bí mật（Lý Xuyên、Thẩm Yên Nhiên）
+- **Chương 14 [Trong cuộc gặp]**：Thẩm Yên Nhiên tiết lộ manh mối người lạ hỏi tuyến hàng ở bến Đông（Lý Xuyên、Thẩm Yên Nhiên）
+- **Chương 14 [Ngay sau khi Lý Xuyên rời hậu viện]**：Tin báo Hắc Cốt Bang đổi ca gác và lục lọi xe hàng tại bến Đông（Lý Xuyên、Lục thúc、Thẩm Yên Nhiên）
+- **Chương 15 [Chiều mưa, trước khi trời tối]**：Nhận tin khẩn về việc Hắc Cốt Bang chặn xe hàng và có dấu hiệu buôn người ở bến Đông.（Lý Xuyên）
+- **Chương 15 [Hoàng hôn trong mưa]**：Trà trộn vào bến Đông, quan sát hiện trường và xác định kho số ba là điểm nhốt người.（Lý Xuyên、Hắc Cốt Bang）
+- **Chương 15 [Giữa cơn mưa lớn]**：Xông vào kho số ba, chém chết đầu mục áo xám và phá đội hình truy soát.（Lý Xuyên、Hắc Cốt Bang）
+- **Chương 15 [Ngay sau giao chiến]**：Giải cứu phu xe, thiếu niên và một phần hàng hóa, đồng thời thu mảnh thư chứa manh mối tuyến ngoài huyện.（Lý Xuyên、Vạn Kim Thương Hội）
+- **Chương 15 [Đêm khuya]**：Nhận báo cáo từ bến tàu và ra lệnh truy tra võ quán, ngõ Tề Gia, Vạn Kim và đám học đồ.（Hắc Lang）
+- **Chương 16 [Sáng sớm]**：Hắc Lang nhận báo cáo về đao khách lạ ở bến Đông và ra lệnh truy tra võ quán, bến tàu, tuyến hàng.（Hắc Lang、Hắc Cốt Bang）
+- **Chương 16 [Buổi sáng đến trưa]**：Đám tay chân chia nhóm lùng sục, chặn lối, ép người khai manh mối về kho số ba và thẻ gỗ đen.（Hắc Cốt Bang、phu khuân vác bến Đông）
+- **Chương 16 [Giữa trưa]**：Trương Bách Xuyên cảnh báo Lý Xuyên về việc Hắc Lang đã động thật và có thể sớm vòng về võ quán.（Lý Xuyên、Trương Bách Xuyên）
+- **Chương 16 [Chiều]**：Lý Xuyên giữ vẻ bình thường trước mặt đại bá, không để gia đình biết áp lực đang tới gần.（Lý Xuyên、Lý Thiết）
+- **Chương 16 [Tối]**：Hắn xác định kho gạo bỏ hoang phía nam bến Đông là nơi đặt bẫy và chuẩn bị chủ động phản công.（Lý Xuyên）
+- **Chương 17 [Tối]**：Chuẩn bị kho gạo bỏ hoang làm trận địa phục kích với độc phấn, dây gai, dầu hỏa và điểm chặn đường lui.（Lý Xuyên）
+- **Chương 17 [Đêm đầu canh hai]**：Một tổ bốn tên Hắc Cốt Bang đi vào kho và bị nhốt trong bẫy chật hẹp.（Lý Xuyên、Hắc Cốt Bang）
+- **Chương 17 [Đêm đầu canh hai]**：Lý Xuyên ra tay giết sạch đầu mối, thu phiếu hàng và sổ tay liên quan Triệu gia.（Lý Xuyên、Hắc Cốt Bang）
+- **Chương 17 [Đêm muộn]**：Hắn đốt kho, xóa dấu vết và rút lui qua mương cạn, trở về nhà an toàn.（Lý Xuyên）
+- **Chương 17 [Sáng hôm sau]**：Sáng hôm sau, tin kho cháy và mảnh sổ dính tro lan ra, khiến Hắc Lang biết tuyến truy tra bị cắt và Triệu gia bị đặt vào tầm ngắm.（Hắc Lang、Hắc Cốt Bang、Triệu gia）
+- **Chương 18 [Sáng]**：Sáng sớm, Lý Xuyên hỏi Lý Thiết về Triệu phủ ngoại viện và nhận được đầu mối phu khuân vác từng nghe tiếng người trong xe.（Lý Xuyên、Lý Thiết）
+- **Chương 18 [Giữa sáng]**：Lý Xuyên tới bến Đông, gặp Lão Tưởng và xác nhận xe kín của Triệu phủ ngoại viện có liên quan đến hàng sống.（Lý Xuyên、Lão Tưởng）
+- **Chương 18 [Chiều]**：Tại quầy trà, Thẩm Yên Nhiên cung cấp mốc giờ chuyến hàng lớn và tin Hắc Lang sẽ đích thân tới nhận sổ đen.（Lý Xuyên、Thẩm Yên Nhiên）
+- **Chương 18 [Canh ba]**：Đêm canh ba, Lý Xuyên phục kích kho lạnh cũ ở ngõ Tề Gia, phá cuộc giao nhận giữa Hắc Cốt Bang và Triệu gia.（Lý Xuyên、Hắc Lang、Triệu phủ ngoại viện）
+- **Chương 18 [Canh ba]**：Lý Xuyên cướp được sổ đen, khiến Hắc Lang phải chọn cứu hàng thay vì truy sát đến cùng.（Lý Xuyên、Hắc Lang）
+- **Chương 19 [Rạng sáng]**：Phục kích đoàn xe Hắc Lang tại bến Tây trước bình minh và khai hỏa bẫy đầu tiên.（Lý Xuyên、Hắc Lang、Hắc Cốt Bang）
+- **Chương 19 [Sau giao chiến đầu]**：Giao thủ trực diện, Hắc Lang bị áp chế và mất quyền giữ sổ đen.（Lý Xuyên、Hắc Lang）
+- **Chương 19 [Trước khi rời bến Tây]**：Mở sổ đen, ghi nhớ manh mối Hắc Thị Thập Thượng và cửa vào cũ đổi đèn ba lần.（Lý Xuyên）
+- **Chương 19 [Kết cuộc]**：Quay về cứu hàng sống và bỏ lỡ cơ hội truy đuổi Lý Xuyên.（Hắc Lang）
+- **Chương 20 [Đêm muộn, sau khi cất sổ đen]**：Đọc sổ đen Hắc Lang và xác định đầu mối hắc thị（Lý Xuyên）
+- **Chương 20 [Cùng đêm, trước khi tắt đèn]**：Trao đổi ngắn về các chuyến hàng lạ ở bến Tây, Lý Thiết nhắc con giữ cẩn thận（Lý Xuyên、Lý Thiết）
+- **Chương 20 [Nửa đêm, tại tiểu viện võ quán]**：Nhận tín vật đồng và nghe giải thích quy tắc mở cửa hắc thị（Lý Xuyên、Thẩm Yên Nhiên）
+- **Chương 20 [Cuối đêm]**：Đánh dấu mục tiêu mua sắm, chuẩn bị bạc và điều tức trước khi vào hắc thị（Lý Xuyên）
+- **Chương 21 [Đêm xuống]**：Đổi đèn ba lần, mở cửa vào hắc thị dưới mái chợ cũ phía tây nam.（Lý Xuyên）
+- **Chương 21 [Ngay sau khi vào hầm ngầm]**：Quan sát các giao dịch tàn khốc, chứng kiến mạng người bị định giá.（Lý Xuyên）
+- **Chương 21 [Giữa canh đêm]**：Miếng đồng tín vật được kiểm tra, cho thấy tuyến Vạn Kim có ảnh hưởng sâu trong hắc thị.（Lý Xuyên、Thẩm Yên Nhiên）
+- **Chương 21 [Nửa sau chương]**：Kiểm tra và xác nhận giá trị của các bí kíp Phàm cấp tàn khuyết.（Lý Xuyên）
+- **Chương 21 [Cuối chương]**：Phát hiện quầy bí kíp bày đúng ba môn Phàm cấp tàn khuyết, nhưng có dấu hiệu là mồi câu.（Lý Xuyên）

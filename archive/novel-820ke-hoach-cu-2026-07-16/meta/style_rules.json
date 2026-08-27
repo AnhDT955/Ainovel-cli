@@ -1,0 +1,45 @@
+{
+  "volume": 1,
+  "arc": 2,
+  "prose": [
+    "Ngôi ba hạn tri bám sát Lý Xuyên",
+    "Miêu tả hành động nhanh, dứt khoát, rõ hậu quả",
+    "Giữ giọng lạnh, thực dụng, không ủy mị",
+    "Mỗi trận đánh phải có chuẩn bị, đường lui và dọn dấu vết",
+    "Tăng cảm giác cày cuốc: từng bước mạnh lên thấy rõ"
+  ],
+  "dialogue": [
+    {
+      "name": "Lý Xuyên",
+      "rules": [
+        "Nói ít, ngắn, lạnh",
+        "Ưu tiên hỏi-đáp trực diện",
+        "Không giải thích lòng vòng"
+      ]
+    },
+    {
+      "name": "Thẩm Yên Nhiên",
+      "rules": [
+        "Thông minh, sắc sảo",
+        "Trao đổi bằng lợi ích",
+        "Giữ ý tứ, không lấn ranh"
+      ]
+    },
+    {
+      "name": "Hắc Lang",
+      "rules": [
+        "Hung hãn, áp chế",
+        "Đe dọa bằng quyền lực",
+        "Lời ngắn, độc, nặng sát khí"
+      ]
+    }
+  ],
+  "taboos": [
+    "Không biến nhân vật chính thành thánh mẫu",
+    "Không để Lý Xuyên khoe sức mạnh vô cớ",
+    "Không xử lý địch bằng may mắn trống rỗng",
+    "Không viết tình cảm sướt mướt, lê thê",
+    "Không bỏ qua hậu quả sau khi giết người"
+  ],
+  "updated_at": "2026-07-16T00:57:50+07:00"
+}

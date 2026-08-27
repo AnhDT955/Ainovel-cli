@@ -1,0 +1,43 @@
+{
+  "chapter": 16,
+  "title": "Hắc Lang Đánh Hơi",
+  "goal": "Khắc họa Hắc Lang bắt đầu đánh hơi được mối nguy mới và tung người truy tra võ quán, bến tàu, đồng thời cho Lý Xuyên nhận rõ vòng vây đang khép lại để chủ động đặt bẫy ở chương sau.",
+  "conflict": "Hắc Lang đã ngửi thấy mùi của kẻ phá địa bàn ở bến Đông; Lý Xuyên phải vừa tránh lộ thân phận, vừa quan sát phản ứng truy tra của Hắc Cốt Bang để chuẩn bị cho cú ra tay tiếp theo.",
+  "hook": "Lý Xuyên phát hiện một toán người Hắc Cốt Bang đã âm thầm vào kho gạo bỏ hoang hắn định dùng làm bẫy.",
+  "emotion_arc": "Từ bình lặng cảnh giác sang sát khí ngầm, rồi kết bằng cảm giác chiếc lưới đang siết chặt trước một phản đòn đã được tính sẵn.",
+  "notes": "Có thể mở đầu bằng tin tức từ Thẩm Yên Nhiên hoặc Trương Bách Xuyên về việc Hắc Cốt Bang lục tung bến Đông. Cần có một đoạn Hắc Lang quan sát, nhận ra đối thủ là đao khách lão luyện chứ không phải tay mơ. Sau đó chuyển sang Lý Xuyên ở võ quán/hậu viện/sân nhà, suy tính cách phá truy tra. Cuối chương nên để hắn chọn kho gạo hoang hoặc địa điểm phù hợp để đặt bẫy cho chương 17. Giữ giọng lạnh, gãy, sát.",
+  "contract": {
+    "required_beats": [
+      "Mở đầu bằng hậu quả sau đêm ở bến Đông và mệnh lệnh truy tra của Hắc Lang.",
+      "Đưa ra ít nhất một cảnh do thám/điều tra của Hắc Cốt Bang với chi tiết thực dụng.",
+      "Cho thấy Lý Xuyên dùng tin tức để tránh lộ và đánh giá thế cục.",
+      "Kết bằng việc hắn chọn hoặc phát hiện nơi đặt bẫy cho chương sau."
+    ],
+    "forbidden_moves": [
+      "Không cho Lý Xuyên công khai diệt toàn bộ Hắc Cốt Bang ở chương này.",
+      "Không để hắn đụng độ trực diện Hắc Lang.",
+      "Không kéo sang hắc thị hay mở bản đồ quá sớm.",
+      "Không làm mất bí mật thân phận vô danh ở bến Đông."
+    ],
+    "continuity_checks": [
+      "Không để Hắc Lang biết ngay danh tính Lý Xuyên.",
+      "Giữ việc Lý Xuyên từng ra tay ở bến Đông vẫn còn là một bí ẩn đối với Hắc Cốt Bang và Thẩm Yên Nhiên.",
+      "Duy trì Lý Xuyên đang ở giai đoạn tích lũy, chưa công khai leo cảnh giới.",
+      "Bảo toàn tuyến liên lạc với Thẩm Yên Nhiên và Trương Bách Xuyên.",
+      "Đảm bảo Hắc Cốt Bang phản ứng bằng truy tra, do thám, gia tăng áp lực lên võ quán và bến tàu."
+    ],
+    "evaluation_focus": [
+      "Nhịp truy tra của Hắc Cốt Bang phải cụ thể, có chiến thuật và áp lực thực tế.",
+      "Lý Xuyên phải thể hiện sự bình tĩnh, tính toán và không để lộ thực lực.",
+      "Cảnh gia đình/võ quán nên ngắn nhưng tạo cảm giác hậu phương đang bị bóng tối chạm tới.",
+      "Hook cuối cần đẩy sang hành động/chủ động của chương 17."
+    ],
+    "emotion_target": "Căng thẳng, lạnh và đe dọa sát bên",
+    "payoff_points": [
+      "Hắc Lang chính thức coi bến Đông là đột biến cần bóp chết.",
+      "Lý Xuyên hiểu đối phương sẽ đánh từ võ quán và bến tàu.",
+      "Khẳng định phong cách của hắn: không bị động chờ địch mà tìm điểm yếu để phản công."
+    ],
+    "hook_goal": "Tạo cảm giác địch đã tiến vào sân, buộc nhân vật chính ra tay trước khi bị động."
+  }
+}

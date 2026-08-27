@@ -1,0 +1,83 @@
+{
+  "chapter": 10,
+  "scope": "arc",
+  "issues": [
+    {
+      "type": "pacing",
+      "severity": "warning",
+      "description": "Tốc độ mở đầu có xu hướng dàn nền khá kỹ, làm arc 1 tiến triển hơi chậm nếu so với kỳ vọng sảng khoái của vô địch lưu.",
+      "evidence": "Các chương 1-10 chủ yếu dùng để xuyên qua, giới thiệu gia đình, cắt quan hệ với Liễu Như Yên, mở Hỗn Nguyên Đạo lục và luyện nền tảng trước khi có cú nổ lớn đầu tiên.",
+      "suggestion": "Tăng độ cô đặc cho các đoạn nhập môn và sớm cho một chiến quả rõ hơn trong vài chương kế tiếp để đẩy nhịp."
+    },
+    {
+      "type": "hook",
+      "severity": "warning",
+      "description": "Chương 10 hiện kết ở pha hành động đang leo thang, cảm giác như một đoạn chuyển cảnh hơn là một nhịp kết hoàn chỉnh của đơn chương.",
+      "evidence": "Nội dung dừng ở đoạn theo dấu và phục kích: 'Lý Xuyên không dừng. ...' rồi tiếp tục xung đột, nhưng chưa có một nhịp chốt đầy đủ trong phần đọc được.",
+      "suggestion": "Ở bản hoàn chỉnh, nên đảm bảo chương 10 có điểm rơi kết thúc rõ: kết quả phục kích, xử lý thi thể, hoặc manh mối tiếp theo."
+    }
+  ],
+  "dimensions": [
+    {
+      "dimension": "consistency",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Duy trì đúng khung dark wuxia, cẩu đạo, sát phạt; nhân vật chính hành xử nhất quán với mô tả nền tảng."
+    },
+    {
+      "dimension": "character",
+      "score": 89,
+      "verdict": "pass",
+      "comment": "Lý Xuyên được khắc họa ổn định: lạnh, thực dụng, không si mê, biết tính đường lui và xử lý hậu họa."
+    },
+    {
+      "dimension": "pacing",
+      "score": 78,
+      "verdict": "warning",
+      "comment": "Nhịp mở đầu chậm nhưng có chủ đích, chuyển từ xuyên qua -\u003e gia đình -\u003e Liễu Như Yên -\u003e kim thủ chỉ -\u003e cày luyện -\u003e xung đột đầu tiên, phù hợp xây nền."
+    },
+    {
+      "dimension": "continuity",
+      "score": 86,
+      "verdict": "pass",
+      "comment": "Mạch nhân quả rõ ràng, ký ức nguyên chủ, món nợ gia đình và manh mối Triệu gia được nối tương đối mượt."
+    },
+    {
+      "dimension": "foreshadow",
+      "score": 84,
+      "verdict": "pass",
+      "comment": "Phục bút Hỗn Nguyên Đạo lục, Triệu Phong, và nguyên tắc 'đã ra tay thì diệt hậu họa' đã cắm khá đúng lúc."
+    },
+    {
+      "dimension": "hook",
+      "score": 85,
+      "verdict": "pass",
+      "comment": "Hook ở cuối các chương đủ giữ người đọc: xuyên qua, gặp Liễu Như Yên, nhận kim thủ chỉ, tăng tiến, đụng Triệu Phong, phục kích chương 10."
+    },
+    {
+      "dimension": "aesthetic",
+      "score": 87,
+      "verdict": "pass",
+      "comment": "Aesthetic ổn, ví dụ nguyên văn như 'Mưa rơi xuống mái ngói cũ, tiếng nước gõ lộp bộp như ai đang dùng móng tay cào lên nắp quan tài.' và 'Cháo rất loãng, hạt gạo ít đến đáng thương' tạo được màu sắc lạnh, nghèo, bẩn."
+    }
+  ],
+  "contract_status": "partial",
+  "contract_misses": [
+    "Arc 1 chưa hoàn tất theo đề cương (mới đến chương 10/35)."
+  ],
+  "contract_notes": "10 chương đầu bám rất sát requirement: xuyên không, cắt Liễu Như Yên, phát hiện Hỗn Nguyên Đạo lục, bắt đầu cày độ thuần thục, đặt nền cho thù địch và nguyên tắc diệt hậu họa. Tuy nhiên đây mới là phần mở đầu, chưa thể coi là hoàn tất cam kết cung truyện.",
+  "verdict": "polish",
+  "summary": "10 chương đầu hoàn thành tốt nhiệm vụ mở arc: dựng thế giới mạt thế, khắc hình nhân vật chính, cắm kim thủ chỉ và thiết lập nguyên tắc hành động. Chất lượng nền ổn, giọng văn lạnh và nhất quán; điểm yếu chính là nhịp mở đầu còn nặng xây nền, cần sớm tăng độ bùng nổ để giữ sảng khoái dài hơi.",
+  "affected_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "chapter": 15,
+  "title": "Một Đao Dưới Mưa",
+  "goal": "Chặn nhóm Hắc Cốt Bang đang cướp/soát hàng ở bến Đông, cứu tuyến hàng của Vạn Kim, thu thêm manh mối về đao khách ngoài huyện và cách Hắc Cốt Bang liên hệ với thế lực lớn hơn",
+  "conflict": "Lý Xuyên phải quyết định có ra tay chặn nhóm Hắc Cốt Bang đang lục soát bến Đông hay chỉ giữ vai trò nội ứng bí mật cho Vạn Kim; nếu chậm, tuyến hàng sẽ bị cắt, nếu lộ mặt, võ quán và gia đình sẽ gặp nguy.",
+  "hook": "Một dấu hiệu cho thấy Hắc Lang đã ngửi thấy mùi của cao thủ lạ, và bến Đông chỉ là màn mở đầu",
+  "emotion_arc": "Từ căng thẳng, quan sát lạnh lẽo, đến bùng nổ sát phạt ngắn gọn rồi khép lại bằng sự ngột ngạt của hậu quả chưa dứt",
+  "notes": "Nhịp chương: nhận tin - đến bến - quan sát - xác định bẫy - ra tay chớp nhoáng - xóa dấu - rút lui. Có thể để Lý Xuyên dùng thân phận phụ việc bến tàu hoặc người khuân hàng che mắt. Cần tạo cảm giác mưa/đêm lạnh để hợp title 'Một Đao Dưới Mưa'.",
+  "contract": {
+    "required_beats": [
+      "Tin khẩn từ bến Đông đến Liệt Hổ Võ Quán",
+      "Lý Xuyên dùng tín vật Vạn Kim để hợp thức hóa việc ra bến",
+      "Hắn quan sát cách Hắc Cốt Bang kiểm hàng và nhận ra có nhóm buôn người trà trộn",
+      "Mưa rơi che tiếng động, tạo cơ hội ra tay",
+      "Lý Xuyên chém gọn đầu mối chỉ huy tại hiện trường, cứu người và giữ hàng",
+      "Thu hồi vật chứng có thể truy ra tuyến ngoại huyện",
+      "Che giấu dấu vết, để hiện trường giống bị nội loạn hoặc bị kẻ khác cắt ngang"
+    ],
+    "forbidden_moves": [
+      "Không cho Lý Xuyên cứu người bằng cách bộc lộ thân phận thật",
+      "Không để hắn nhận thưởng công khai",
+      "Không cho Hắc Lang xuất hiện trực diện trong trận này",
+      "Không viết thành đại chiến nhiều phe quá sớm",
+      "Không để Thẩm Yên Nhiên trở thành người trực tiếp chỉ huy trận chém giết"
+    ],
+    "continuity_checks": [
+      "Giữ thân phận của Lý Xuyên vẫn vô danh với Hắc Cốt Bang và đa số người ngoài",
+      "Liên kết sự kiện ngay sau cuối chương 14 tại bến Đông",
+      "Không để Thẩm Yên Nhiên xuất hiện trực tiếp trong pha chém giết nếu không cần thiết",
+      "Duy trì tính cách thực dụng: cứu hàng nhưng không tranh công",
+      "Dùng Liễu Vân Đao đã cày đến sơ thành làm võ kỹ chính, chưa vượt quá sức hiện tại",
+      "Phản ứng của Hắc Cốt Bang phải hợp với việc họ đang lục soát xe hàng và nghi ngờ có cao thủ",
+      "Phải mở hook dẫn sang việc Hắc Lang bắt đầu đánh hơi ở chương 16"
+    ],
+    "evaluation_focus": [
+      "Hành động phải rõ, nhanh, không loãng",
+      "Tâm lý Lý Xuyên phải giữ cẩu đạo và tính toán đường lui",
+      "Đối đầu phải có chiến thuật, không chỉ chém trực diện",
+      "Xử lý hậu quả và dấu vết sau giao chiến phải hợp logic",
+      "Không lộ lực quá mức với người của Vạn Kim"
+    ],
+    "emotion_target": "ngột ngạt và sảng khoái",
+    "payoff_points": [
+      "Hồi đáp cho nghi ngờ ở chương 14 về người hỏi tuyến hàng",
+      "Cho thấy Vạn Kim đã không chọn nhầm người",
+      "Mở mầm cho truy tra võ quán và bến tàu ở chương 16"
+    ],
+    "hook_goal": "khiến độc giả thấy cuộc va chạm này sẽ kéo Hắc Lang và võ quán vào vòng truy tra"
+  }
+}

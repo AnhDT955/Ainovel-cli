@@ -1,0 +1,63 @@
+{
+  "schema": 2,
+  "updated_at": "2026-07-16T22:04:24.5544037+07:00",
+  "overall": {
+    "input": 1112298,
+    "output": 81648,
+    "cache_read": 506368,
+    "cache_write": 0,
+    "cost_usd": 1.5936673499999996,
+    "saved_usd": 0.45930240000000033,
+    "cache_capable": true
+  },
+  "per_agent": {
+    "architect": {
+      "input": 85527,
+      "output": 19131,
+      "cache_read": 30720,
+      "cache_write": 0,
+      "cost_usd": 0.863325,
+      "saved_usd": 0.13824,
+      "cache_capable": true
+    },
+    "coordinator": {
+      "input": 204860,
+      "output": 5545,
+      "cache_read": 67072,
+      "cache_write": 0,
+      "cost_usd": 0.13332390000000002,
+      "saved_usd": 0.045273600000000004,
+      "cache_capable": true
+    },
+    "writer": {
+      "input": 821911,
+      "output": 56972,
+      "cache_read": 408576,
+      "cache_write": 0,
+      "cost_usd": 0.5970184500000001,
+      "saved_usd": 0.2757888000000001,
+      "cache_capable": true
+    }
+  },
+  "per_model": {
+    "openai/gpt-5.4-mini": {
+      "input": 1026771,
+      "output": 62517,
+      "cache_read": 475648,
+      "cache_write": 0,
+      "cost_usd": 0.73034235,
+      "saved_usd": 0.32106240000000014,
+      "cache_capable": true
+    },
+    "openai/gpt-5.5": {
+      "input": 85527,
+      "output": 19131,
+      "cache_read": 30720,
+      "cache_write": 0,
+      "cost_usd": 0.863325,
+      "saved_usd": 0.13824,
+      "cache_capable": true
+    }
+  },
+  "missing_assistant_usage": 0
+}

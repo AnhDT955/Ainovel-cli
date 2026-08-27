@@ -1,0 +1,44 @@
+{
+  "chapter": 19,
+  "title": "Hắc Lang Gãy Xương",
+  "goal": "Phục kích Hắc Lang, cắt đứt lực lượng hộ vệ và thu được phần lõi thông tin trong sổ đen để mở đường sang hắc thị.",
+  "conflict": "Lý Xuyên phải phục kích Hắc Lang để cắt đứt mạng lưới chỉ huy Hắc Cốt Bang trước khi đối phương kịp dùng sổ đen và tuyến hàng sống phản công, đồng thời tránh lộ thân phận trước võ quán và Triệu gia.",
+  "hook": "Trong sổ đen, Lý Xuyên phát hiện một dấu hiệu chỉ vào một cánh cửa giao dịch bí mật còn sâu hơn Hắc Cốt Bang, mở thẳng vào hắc thị.",
+  "emotion_arc": "Từ lạnh lẽo quan sát, sang căng thẳng phục kích, rồi kết thúc bằng cảm giác dứt khoát khi chặt gãy một mắt xích lớn của bóng tối.",
+  "notes": "Bối cảnh nên là bến Tây/kho bến cũ trước bình minh; có thể dùng sương, đèn dầu, tàu hàng, xe thùng để tăng cảm giác ngầm. Hắc Lang nên mang theo người thân tín, sổ đen và một kiện hàng che mắt. Lý Xuyên ưu tiên diệt tay chân, đoạt sổ, bẻ gãy liên lạc, ép Hắc Lang lộ đường lui. Kết chương cần một mẩu dữ liệu khiến chương 20 có lý do hợp pháp bước vào hắc thị.",
+  "contract": {
+    "required_beats": [
+      "Lý Xuyên phân tích vị trí phục kích và nhịp tuần của Hắc Lang",
+      "Hắn dựng bẫy/ẩn nấp, chờ đoàn người tới bến Tây",
+      "Đòn đầu tiên cắt đứt tay chân và xe hàng, gây hỗn loạn",
+      "Lý Xuyên đánh trực diện Hắc Lang, buộc hắn bỏ mạng lưới để chạy",
+      "Hắn thu sổ đen và phát hiện manh mối tới hắc thị"
+    ],
+    "forbidden_moves": [
+      "Không cho Lý Xuyên công khai thân phận với võ quán hoặc quan phủ",
+      "Không để Hắc Lang chết hoặc tan bang ngay trong một nhát nếu chưa hợp lý",
+      "Không đưa Triệu Phong xuất hiện trực diện ở hiện trường",
+      "Không để nhân vật chính cứu người vô điều kiện làm loãng mục tiêu chính"
+    ],
+    "continuity_checks": [
+      "Phải nối trực tiếp từ chapter 18: Lý Xuyên đã đoạt được sổ đen và biết Hắc Lang sẽ chuyển sang bến Tây trước bình minh.",
+      "Không để Lý Xuyên ham công khai danh tiếng; mục tiêu là đánh gãy chỉ huy, cướp dữ liệu, xóa dấu.",
+      "Sổ đen phải được khai thác như bằng chứng và chìa khóa sang hắc thị ở chương 20.",
+      "Giữ mức độ thực lực hợp lý: Lý Xuyên đủ áp chế tay sai và tạo thế đối với Hắc Lang, nhưng không thể lộ toàn bộ sức mạnh quá sớm.",
+      "Tránh làm Hắc Lang chết ngay nếu còn cần hắn/cấu trúc bang làm chất liệu; có thể để hắn trọng thương, mất quyền khống chế và bị buộc rút lui."
+    ],
+    "evaluation_focus": [
+      "Mức độ hợp lý của phục kích và đường lui",
+      "Tính nhất quán với sổ đen và tuyến Hắc Cốt Bang",
+      "Nhịp hành động nhanh, rõ, không sa đà",
+      "Cảm giác Lý Xuyên giữ bí mật và diệt hậu họa"
+    ],
+    "emotion_target": "Sảng khoái lạnh, sát phạt quyết đoán, cảm giác nhân vật chính luôn đi trước một bước.",
+    "payoff_points": [
+      "Xác nhận Lý Xuyên đã đọc được cấu trúc sổ đen và truy ra mắt xích sâu hơn",
+      "Trả quả cho các chương 16-18: truy tra, kho cháy, kho lạnh, giao dịch bẩn",
+      "Đẩy Hắc Lang từ kẻ săn thành kẻ bị săn"
+    ],
+    "hook_goal": "Tạo tò mò về hắc thị và tầng giao dịch phía sau Hắc Cốt Bang."
+  }
+}

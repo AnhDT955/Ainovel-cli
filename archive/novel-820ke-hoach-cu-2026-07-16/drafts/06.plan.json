@@ -1,0 +1,46 @@
+{
+  "chapter": 6,
+  "title": "Triệu Phong Ra Tay",
+  "goal": "Thiết lập xung đột trực tiếp đầu tiên với Triệu Phong, cho thấy Lý Xuyên đã biết nhịn đúng lúc, đồng thời khiến Triệu Phong càng xem thường và sinh ý định ra tay tiếp.",
+  "conflict": "Triệu Phong mượn danh luận bàn trước mặt học đồ để dằn mặt và thử phản ứng của Lý Xuyên; Lý Xuyên phải giữ thể diện tối thiểu, cố ý chịu thiệt nhỏ, đồng thời che giấu tốc độ tăng trưởng và lá bài tẩy thật sự.",
+  "hook": "Triệu Phong để lại lời hẹn đối luyện hoặc thách thức tiếp theo, đồng thời Lý Xuyên nhận ra đối phương đã bị mình dẫn vào nhịp tính toán.",
+  "emotion_arc": "Từ bị áp bức, châm chọc và căng tức đến bình tĩnh nhẫn xuống, rồi kết bằng cảm giác âm thầm nắm đằng chuôi và chờ phản kích ở tương lai gần.",
+  "notes": "Chương nên có một cuộc đối luyện công khai trong sân võ quán; Triệu Phong dùng quyền cước hoặc kình lực để ép, Lý Xuyên chỉ đáp trả bằng lực vừa đủ làm lệch thế, giả vờ chật vật, có thể cố ý để lộ một sơ hở nhỏ nhằm khiến đối phương chủ quan hơn. Kết thúc bằng sự quan sát của Trương Bách Xuyên hoặc ánh mắt lạnh của Triệu Phong.",
+  "contract": {
+    "required_beats": [
+      "Sáng hoặc buổi luyện trong sân võ quán, không khí căng từ đầu",
+      "Triệu Phong chủ động gây chuyện và ép luận bàn",
+      "Lý Xuyên dùng lời lẽ ít ỏi, thái độ bình tĩnh, không cúi đầu",
+      "Đối luyện diễn ra, có người xem, có áp lực thể diện",
+      "Lý Xuyên chịu một đòn/thiệt nhỏ có tính toán, nhưng không lộ hết nền tảng",
+      "Triệu Phong càng khinh thường hoặc tưởng mình nắm thế chủ động",
+      "Kết chương bằng quyết tâm âm thầm của Lý Xuyên và một mầm họa tiếp theo"
+    ],
+    "forbidden_moves": [
+      "Không được để Lý Xuyên đánh bại Triệu Phong ngay trong chương này",
+      "Không được để Triệu Phong chết hoặc bị trọng thương nặng",
+      "Không được để Lý Xuyên công khai bí mật Hỗn Nguyên Đạo lục",
+      "Không được cho Liễu Như Yên quay lại chiếm trung tâm"
+    ],
+    "continuity_checks": [
+      "Phải nối tiếp việc Lý Xuyên đã chuẩn bị chịu thiệt nhỏ để giữ bài tẩy ở chương 5",
+      "Triệu Phong cần thể hiện địa vị và ác ý, nhưng không được để lộ quá sớm sự kinh hoảng hay thua thiệt rõ ràng",
+      "Không cho Lý Xuyên bộc lộ toàn bộ thực lực hoặc đột phá lớn trong chương này",
+      "Giữ ngôi kể hạn tri bám sát suy nghĩ thực dụng của Lý Xuyên",
+      "Các nhân vật xuất hiện phù hợp bối cảnh võ quán: Trương Bách Xuyên có thể quan sát hoặc chặn lại sau cùng"
+    ],
+    "evaluation_focus": [
+      "Tính hợp lý của việc nhẫn chịu để giữ lá bài tẩy",
+      "Cường độ nhục mạ và áp lực của Triệu Phong",
+      "Không khí võ quán và phản ứng đám học đồ",
+      "Nội tâm tính toán đường lui, hậu quả và đối sách của Lý Xuyên"
+    ],
+    "emotion_target": "Lạnh, nghẹn, nhịn, rồi sảng khoái kín",
+    "payoff_points": [
+      "Trả lời cho sự chuẩn bị chịu thiệt nhỏ ở chương 5",
+      "Xác lập Triệu Phong là đối thủ đầu tiên thực sự gây áp lực",
+      "Làm rõ Lý Xuyên không phải kẻ nóng đầu mà là người biết chọn lúc lùi một bước"
+    ],
+    "hook_goal": "Tạo cảm giác Triệu Phong đã bước vào danh sách kẻ phải xử lý, nhưng chưa đến lúc lật bài."
+  }
+}

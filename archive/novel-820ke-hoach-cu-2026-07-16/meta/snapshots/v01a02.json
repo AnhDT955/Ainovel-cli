@@ -1,0 +1,47 @@
+[
+  {
+    "volume": 1,
+    "arc": 2,
+    "name": "Lý Xuyên",
+    "status": "An toàn, thế lực và thực lực đều đang tăng nhưng vẫn che giấu bài tẩy.",
+    "power": "Đã hoàn thành Luyện Bì sơ bộ, luyện đao pháp nhập môn, bắt đầu dùng bẫy, độc, lửa và phản kích có chuẩn bị; danh sách địch thủ bị thu gọn bằng các đòn vô danh.",
+    "motivation": "Bảo vệ gia đình, giữ tuyến làm ăn với Thẩm Yên Nhiên, đồng thời từng bước bóc thế lực ngầm ở Thanh Hà và mở đường lên phủ thành.",
+    "relations": "Cắt đứt hoàn toàn với Liễu Như Yên và Triệu Phong; quan hệ hợp tác bí mật với Thẩm Yên Nhiên được củng cố; tiếp tục bảo hộ Lý Vạn Sơn và Lý Thiết."
+  },
+  {
+    "volume": 1,
+    "arc": 2,
+    "name": "Lý Vạn Sơn",
+    "status": "Còn sống, sức khỏe vẫn suy yếu theo tuổi tác.",
+    "power": "Không thay đổi lớn, vẫn là trụ cột tinh thần và người giữ nhịp gia đình.",
+    "motivation": "Giữ mái nhà, làm lụng kiếm tiền thuốc men, bớt gánh nặng cho cháu trai.",
+    "relations": "Tin cậy và phụ thuộc vào Lý Xuyên nhiều hơn trước."
+  },
+  {
+    "volume": 1,
+    "arc": 2,
+    "name": "Lý Thiết",
+    "status": "Còn sống, từng bị Hắc Cốt Bang đánh thương nhẹ.",
+    "power": "Không thay đổi lớn, nhưng chịu đựng tốt hơn nhờ có Lý Xuyên chống lưng.",
+    "motivation": "Làm việc kiếm sống, lo dược thiện và thuốc men cho gia đình, tránh bị hắc bang và quan phủ bóc lột.",
+    "relations": "Gắn bó chặt với Lý Xuyên, trở thành một phần của lớp vỏ an toàn cho gia đình."
+  },
+  {
+    "volume": 1,
+    "arc": 2,
+    "name": "Thẩm Yên Nhiên",
+    "status": "An toàn, tiếp tục mở rộng ảnh hưởng.",
+    "power": "Mạng lưới thương hội và khả năng điều phối tài nguyên, tin tức được tăng cường nhờ hợp tác với Lý Xuyên.",
+    "motivation": "Mở rộng thương hội, giữ tuyến hàng an toàn và lấy thêm thông tin, tài nguyên.",
+    "relations": "Quan hệ hợp tác bí mật, có ranh giới rõ ràng với Lý Xuyên trở nên vững hơn."
+  },
+  {
+    "volume": 1,
+    "arc": 2,
+    "name": "Hắc Lang",
+    "status": "Còn sống nhưng thế lực suy giảm mạnh.",
+    "power": "Mất nhiều tay chân, mạng lưới Hắc Cốt Bang bị đánh gãy nặng, quyền kiểm soát suy yếu rõ rệt.",
+    "motivation": "Giữ địa bàn, thu tiền bảo kê, duy trì buôn người và áp chế mọi lực cản ở bến tàu, kho gạo, hẻm tối.",
+    "relations": "Thù địch trực diện với Lý Xuyên, nhưng chỉ nắm được bóng dáng chứ chưa xác định được hắn."
+  }
+]

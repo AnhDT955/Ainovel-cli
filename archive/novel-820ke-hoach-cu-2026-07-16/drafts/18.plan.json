@@ -1,0 +1,46 @@
+{
+  "chapter": 18,
+  "title": "Triệu Gia Dính Máu",
+  "goal": "Lý Xuyên dùng chứng cứ từ sổ tay, phiếu hàng và tuyến ngõ Tề Gia để xác định Triệu phủ ngoại viện là điểm nối then chốt, từ đó xây kế hoạch đánh vào Hắc Lang và Triệu gia ở hai tầng khác nhau.",
+  "conflict": "Lý Xuyên xác nhận Triệu gia đang dính vào tuyến hàng sống và bảo kê của Hắc Cốt Bang, nhưng phải tránh lộ thân phận khi dùng chứng cứ đâm ngược vào Triệu Phong.",
+  "hook": "Lý Xuyên lần ra lịch chuyển hàng và vị trí người giao nhận, phát hiện đêm nay Hắc Lang sẽ tự tới một điểm hẹn kín để nhận sổ đen, buộc hắn chuẩn bị phục kích.",
+  "emotion_arc": "Từ lạnh lẽo nghi ngờ sang sắc bén xác nhận, rồi kết bằng cảm giác con mồi đã ngửi thấy mùi máu của kẻ săn.",
+  "notes": "Chương này nên chủ yếu là điều tra, đối chiếu, theo dấu và đào sâu thêm mối nối giữa Triệu Phong và Hắc Cốt Bang. Có thể dùng Thẩm Yên Nhiên hoặc Lục thúc để hợp thức hóa việc lấy tin, nhưng không lấn át Lý Xuyên. Cần đưa ra manh mối đủ để chương 19 phục kích Hắc Lang hợp lý.",
+  "contract": {
+    "required_beats": [
+      "Xem lại chứng cứ từ chương 17",
+      "Đi tìm nguồn đối chiếu thứ hai về Triệu phủ ngoại viện",
+      "Nối chứng cứ với bến Đông và ngõ Tề Gia",
+      "Lập kế hoạch nhử hoặc chặn Hắc Lang",
+      "Kết bằng móc câu dẫn vào phục kích"
+    ],
+    "forbidden_moves": [
+      "Không để Lý Xuyên công khai đánh Triệu Phong ngay trong chương này",
+      "Không để Trương Bách Xuyên can dự quá sâu vào cuộc điều tra",
+      "Không cho Hắc Lang chết hoặc bị bắt",
+      "Không lộ toàn bộ mạng lưới Hắc Cốt Bang chỉ bằng một manh mối"
+    ],
+    "continuity_checks": [
+      "Phải kế thừa sổ tay, phiếu hàng, dòng 'Triệu nhị công tử cần thêm' từ chương 17.",
+      "Không để Lý Xuyên hành động ẩu khi chưa đủ chứng cứ; ưu tiên kiểm chứng tuyến Triệu phủ ngoại viện.",
+      "Giữ nhịp cẩu đạo: điều tra kín, không trực diện công khai với Triệu gia ở Thanh Hà lúc này.",
+      "Duy trì tình trạng Hắc Lang đã biết có kẻ phá tuyến nhưng chưa xác định được Lý Xuyên.",
+      "Kết chương cần nối sang phục kích Hắc Lang ở chương 19 bằng việc Lý Xuyên nắm được lịch trình và mắt xích chỉ huy."
+    ],
+    "evaluation_focus": [
+      "Logic điều tra và chứng cứ phải chặt",
+      "Tuyến Triệu gia cần hiện ra như một mắt xích bẩn chứ không lộ toàn bộ âm mưu",
+      "Giữ hình tượng Lý Xuyên điệu thấp nhưng quyết đoán",
+      "Tăng áp lực xung đột giữa võ quán, Hắc Cốt Bang và Triệu gia",
+      "Hook cuối phải đẩy sang cuộc phục kích Hắc Lang"
+    ],
+    "emotion_target": "Căng và lạnh",
+    "payoff_points": [
+      "Xác nhận Triệu phủ ngoại viện là nơi nhận hàng sống",
+      "Xác nhận Triệu nhị công tử chính là Triệu Phong hoặc mắt xích trực tiếp",
+      "Lý Xuyên chỉnh hợp tuyến bến Đông - ngõ Tề Gia - Triệu phủ ngoại viện",
+      "Kết chương bằng việc chốt địa điểm/giờ hẹn cho Hắc Lang"
+    ],
+    "hook_goal": "Tạo cảm giác đường dây đã bị khóa chặt và cuộc săn Hắc Lang sắp bắt đầu."
+  }
+}

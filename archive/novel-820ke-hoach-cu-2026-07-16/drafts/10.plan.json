@@ -1,0 +1,48 @@
+{
+  "chapter": 10,
+  "title": "Không Lưu Danh",
+  "goal": "Cho Lý Xuyên hoàn tất lần ra tay đầu tiên sau khi theo dấu: giết gọn một tay sai/đối thủ trong bóng tối, đoạt manh mối, xóa sạch hiện trường, và tự đặt ra nguyên tắc sinh tồn mới.",
+  "conflict": "Lý Xuyên vừa lần ra giao dịch bẩn của Triệu gia, phải đối mặt với một tay sai hoặc kẻ bám đuôi định phản giết hắn. Hắn cần ra tay gọn, diệt sạch nhân chứng và xử lý thi thể, đồng thời khẳng định nguyên tắc đã động thủ thì không lưu hậu họa.",
+  "hook": "Trong vật chứng thu được hoặc lời khai cuối cùng, Lý Xuyên phát hiện manh mối dẫn tới bến tàu và Hắc Cốt Bang.",
+  "emotion_arc": "Từ cảnh giác nén chặt -\u003e sát ý lạnh -\u003e ra tay dứt khoát -\u003e bình tĩnh thu dọn -\u003e ý thức luật sinh tồn được khắc sâu hơn.",
+  "notes": "Tên chương: Không Lưu Danh. Nên dùng không gian đêm tối, ngõ hẻm, kho bãi, hoặc một cuộc phục kích ngược. Kẻ địch có thể là tay chân Triệu gia hoặc người bám đuôi từ chương 9. Cần một cảnh giết nhanh, xử lý sạch, rồi lộ ra dấu vết liên hệ tới bến tàu/chuyến hàng/thu tiền bảo kê. Không cần quá nhiều nhân vật mới.",
+  "contract": {
+    "required_beats": [
+      "Lý Xuyên chủ động quay lại/đi vòng để xác định đối phương có đuôi hay không",
+      "Bắt gặp một kẻ định chặn giết hoặc bám theo hắn",
+      "Ra tay cực nhanh, chém/đánh chết đối thủ trước khi đối phương kịp cầu cứu",
+      "Khám xét thi thể, lấy ra vật chứng như thẻ gỗ, sổ con, dấu hiệu bến tàu hoặc tiền bảo kê",
+      "Xử lý thi thể sạch sẽ: kéo vào chỗ khuất, xóa máu, ngụy trang dấu vết",
+      "Kết thúc bằng việc hắn xác lập nguyên tắc 'đã ra tay thì diệt hậu họa'"
+    ],
+    "forbidden_moves": [
+      "Không cho Lý Xuyên công khai đại sát tứ phương gây chú ý lớn",
+      "Không để hắn lộ Hỗn Nguyên Đạo lục",
+      "Không cho xuất hiện thế lực ngoài dự kiến ở mức phá vỡ nhịp arc",
+      "Không để hắn tha mạng cho người đáng giết chỉ vì mềm lòng"
+    ],
+    "continuity_checks": [
+      "Phải nối trực tiếp sau chương 9: Lý Xuyên đã biết Triệu gia có chốt phục kích và có người chặn phía nam.",
+      "Chỉ ở phạm vi Thanh Hà Huyện, chưa mở rộng bản đồ lớn.",
+      "Lý Xuyên hiện vẫn ở giai đoạn Bất Nhập Lưu/Luyện Bì sơ bộ, nhưng khí huyết và thực chiến vượt xa học đồ thường.",
+      "Giữ giọng lạnh, thực dụng, không để hắn bộc lộ quá nhiều suy nghĩ ủy mị.",
+      "Không để Triệu gia lộ quá sớm toàn bộ mạng lưới; chương này chỉ là một mắt xích và xác lập nguyên tắc.",
+      "Phải xử lý thi thể, dấu vết, nhân chứng theo đúng cẩu đạo."
+    ],
+    "evaluation_focus": [
+      "Nhịp ra tay có dứt khoát và hợp lý không",
+      "Cách xử lý hiện trường và dấu vết có đủ sạch không",
+      "Nguyên tắc 'đã ra tay thì diệt hậu họa' có được khắc họa rõ",
+      "Có giữ đúng tính cách cẩu đạo của Lý Xuyên không",
+      "Có nối mượt sang chương 11 về bến tàu và Hắc Cốt Bang không"
+    ],
+    "emotion_target": "Lạnh, sảng khoái, gọn gàng, sát phạt",
+    "payoff_points": [
+      "Xác nhận cảnh báo ở chương 9 là thật: đã có phục kích hoặc truy giết ngược",
+      "Thể hiện kỹ năng quan sát, đường lui và tâm lý không hoảng của Lý Xuyên",
+      "Lần đầu chính thức giết người để tự vệ và thanh toán hậu họa",
+      "Bắc cầu sang tuyến bến tàu bị thu máu ở chương 11"
+    ],
+    "hook_goal": "Tạo cảm giác hắn đã cắt được một đầu dây nhưng còn một mạng lưới lớn hơn phía sau."
+  }
+}

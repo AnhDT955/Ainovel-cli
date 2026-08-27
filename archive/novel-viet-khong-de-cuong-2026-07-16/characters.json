@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Lý Xuyên",
+    "role": "Nhân vật chính",
+    "description": "Người xuyên qua Đại Càn Vương Triều năm thứ 289, kế thừa thân thể có căn cốt cực giai và ngộ tính tuyệt hảo nhưng bị nguyên chủ liếm cẩu làm lỡ tiền đồ. Sở hữu Hỗn Nguyên Đạo lục, đi cẩu đạo, sát phạt quyết đoán, bảo vệ gia đình, từ Bất Nhập Lưu tới Lục Địa Thần Tiên/Võ Đạo Thần Thoại.",
+    "arc": "",
+    "traits": null
+  },
+  {
+    "name": "Lý Vạn Sơn",
+    "role": "Gia gia của Lý Xuyên",
+    "description": "Cựu binh tàn tật từ chiến trường xưa, dồn tiền trợ cấp dưỡng lão cho Lý Xuyên học võ. Là điểm neo tình cảm và nguyên nhân khiến Lý Xuyên căm ghét sự ngu muội của nguyên chủ.",
+    "arc": "",
+    "traits": null
+  },
+  {
+    "name": "Lý Thiết",
+    "role": "Đại bá của Lý Xuyên",
+    "description": "Phu khuân vác ở bến tàu, tính hiền lành, nai lưng làm lụng để cung cấp tiền thuốc men và dược thiện cho Lý Xuyên. Dễ bị Hắc Cốt Bang và bến tàu bóc lột.",
+    "arc": "",
+    "traits": null
+  },
+  {
+    "name": "Liễu Như Yên",
+    "role": "Nữ đệ tử trà xanh tại Liệt Hổ Võ Quán",
+    "description": "Sư muội tâm cơ thâm độc, lợi dụng nguyên chủ để đào mỏ đan dược và tài nguyên, sau đó phũ phàng vứt bỏ để bám kẻ có gia thế hơn.",
+    "arc": "",
+    "traits": null
+  },
+  {
+    "name": "Triệu Phong",
+    "role": "Cừu địch đầu tiên của Lý Xuyên, nhị thiếu gia Triệu gia",
+    "description": "Sư huynh trong Liệt Hổ Võ Quán, kẻ đứng sau xúi giục Liễu Như Yên, thường chèn ép và khinh miệt Lý Xuyên. Đại diện đặc quyền cấp huyện.",
+    "arc": "",
+    "traits": null
+  },
+  {
+    "name": "Trương Bách Xuyên",
+    "role": "Quán chủ Liệt Hổ Võ Quán, Cấp 6 Nhập Lưu",
+    "description": "Ngoài cứng trong mềm, thực tế nhưng còn ranh giới đạo đức võ giả. Đào tạo võ giả bình dân trong môi trường khắc nghiệt.",
+    "arc": "",
+    "traits": null
+  },
+  {
+    "name": "Thẩm Yên Nhiên",
+    "role": "Đại tiểu thư Vạn Kim Thương Hội",
+    "description": "Nữ nhân thông minh, quyết đoán, về sau trở thành đối tác làm ăn bí mật của Lý Xuyên, cung cấp tài nguyên đổi lấy bảo hộ trong bóng tối.",
+    "arc": "",
+    "traits": null
+  },
+  {
+    "name": "Hắc Lang",
+    "role": "Bang chủ Hắc Cốt Bang",
+    "description": "Kẻ máu lạnh tàn sát bình dân để tranh địa bàn. Phản diện chính Thanh Hà Huyện, gắn với bảo kê, buôn người, tống tiền.",
+    "arc": "",
+    "traits": null
+  },
+  {
+    "name": "Trấn Bắc Vương Chu Liệt",
+    "role": "Thân vương phản diện lớn",
+    "description": "Thân vương dã tâm bừng bừng, nắm giữ kỵ binh cường hãn. Nuôi dưỡng Ma giáo và Sát thủ các để dấy binh tạo phản, coi mạng người như cỏ rác, biến thiên hạ thành lò luyện đan.",
+    "arc": "",
+    "traits": null
+  },
+  {
+    "name": "Huyết Ảnh Các",
+    "role": "Tổ chức sát thủ thần bí và nguy hiểm nhất Đại Càn",
+    "description": "Mạng lưới tình báo rộng khắp, nhận tiền cướp mạng không cần biết lý do. Sát thủ chia cấp Đồng, Bạc, Vàng và Ám Huyết, bám rễ sâu vào triều đình lẫn giang hồ.",
+    "arc": "",
+    "traits": null
+  },
+  {
+    "name": "Hắc Cốt Bang",
+    "role": "Băng đảng ác bá Thanh Hà Huyện",
+    "description": "Cai quản thế giới ngầm tại Thanh Hà Huyện, chuyên thu tiền bảo kê, buôn người và tống tiền.",
+    "arc": "",
+    "traits": null
+  },
+  {
+    "name": "Huyết Liên Giáo",
+    "role": "Ma giáo cổ xưa",
+    "description": "Chuyên dùng máu tươi và sinh mạng phàm nhân để luyện cổ, luyện công. Về sau cấu kết với Trấn Bắc Vương Chu Liệt.",
+    "arc": "",
+    "traits": null
+  },
+  {
+    "name": "Thái Hư Kiếm Tông",
+    "role": "Danh môn chính phái sử kiếm lớn nhất thiên hạ",
+    "description": "Đặc biệt đề cao tư chất, ngoài mặt quang minh nhưng nội bộ phân tầng, tranh tài nguyên và lợi ích.",
+    "arc": "",
+    "traits": null
+  },
+  {
+    "name": "Cửu Đỉnh Sơn",
+    "role": "Tông môn chuyên luyện thể và ngoại công",
+    "description": "Nắm bí pháp luyện thể, coi trọng nhục thân và ý chí. Nội bộ cứng rắn, thực dụng, không hoàn toàn chính nghĩa.",
+    "arc": "",
+    "traits": null
+  },
+  {
+    "name": "Vạn Kim Thương Hội",
+    "role": "Thương hội lớn",
+    "description": "Nguồn tài nguyên, tin tức, tuyến vận chuyển và vỏ bọc giao dịch. Thẩm Yên Nhiên là đầu mối quan trọng.",
+    "arc": "",
+    "traits": null
+  },
+  {
+    "name": "Liệt Hổ Võ Quán",
+    "role": "Võ quán bình dân tại Thanh Hà Huyện",
+    "description": "Nơi Lý Xuyên bái nhập, đào tạo võ giả bình dân, cũng là nơi hắn từng bị bòn rút tài nguyên lúc ban đầu.",
+    "arc": "",
+    "traits": null
+  }
+]

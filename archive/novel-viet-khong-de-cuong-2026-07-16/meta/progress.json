@@ -1,0 +1,41 @@
+{
+  "novel_name": "Loạn Thế Võ Đạo: Ta Dựa Vào Độ Thuần Thục Can Thành Vô Địch",
+  "phase": "writing",
+  "current_chapter": 7,
+  "total_chapters": 0,
+  "completed_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "total_word_count": 87891,
+  "chapter_word_counts": {
+    "1": 19956,
+    "2": 29843,
+    "3": 7530,
+    "4": 6887,
+    "5": 12204,
+    "6": 11471
+  },
+  "in_progress_chapter": 7,
+  "flow": "writing",
+  "strand_history": [
+    "quest",
+    "quest",
+    "quest",
+    "quest",
+    "quest",
+    "quest"
+  ],
+  "hook_history": [
+    "crisis",
+    "mystery",
+    "mystery",
+    "mystery",
+    "mystery",
+    "crisis"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "chapter": 4,
+  "title": "Trang Đạo Lục Hiện",
+  "goal": "Khắc họa Hỗn Nguyên Đạo lục hiện diện, tạo nền cho nhịp cày độ thuần thục từ chương 5 trở đi, đồng thời củng cố tinh thần cẩu đạo của nhân vật chính.",
+  "conflict": "Lý Xuyên phải xác nhận Hỗn Nguyên Đạo lục thức tỉnh, hiểu quy tắc độ thuần thục và chọn cách luyện công kín đáo để không lộ tốc độ tăng trưởng.",
+  "hook": "Bảng độ thuần thục lần đầu hiện ra, Liệt Hổ Quyền và thổ nạp pháp đều được ghi vào, nhưng Lý Xuyên phát hiện một chi tiết khiến hắn càng muốn giấu kín tốc độ luyện tập.",
+  "emotion_arc": "Từ nghi hoặc lạnh lẽo -\u003e chấn động kiềm nén -\u003e mừng rỡ tỉnh táo -\u003e cảnh giác tính toán -\u003e quyết tâm cày cuốc",
+  "notes": "Chương này nên có không khí phòng nhỏ ban đêm, ngón tay chạm quyển phổ, linh quang hiện lên, rồi chuyển sang thử luyện hơi thở và quyền cơ bản. Nhấn mạnh hắn lập tức nghĩ đến gia gia và đại bá, vì thực lực tăng nhanh sẽ kéo theo nguy hiểm nếu lộ. Kết chương bằng bảng độ thuần thục và một dấu hiệu bất thường khiến hắn đề phòng.",
+  "contract": {
+    "required_beats": [
+      "Mở đầu tiếp nối trực tiếp cảnh cuối chương 3",
+      "Hỗn Nguyên Đạo lục thức tỉnh và để lộ bảng",
+      "Lý Xuyên thử luyện quyền và thổ nạp để xác nhận hiệu quả",
+      "Hắn suy tính cách che giấu tốc độ tiến bộ",
+      "Kết bằng móc câu về một chi tiết bất thường của bảng hoặc phản ứng của linh hồn"
+    ],
+    "forbidden_moves": [
+      "Không cho Lý Xuyên lập tức vô địch hoặc tăng vọt quá mức",
+      "Không cho hắn khoe hệ thống với người khác",
+      "Không cho xuất hiện đánh nhau lớn",
+      "Không cho đổi bối cảnh ra khỏi phòng/quanh võ quán quá nhiều"
+    ],
+    "continuity_checks": [
+      "Bám sau cảnh cuối chương 3: hắn đang ở phòng, cầm quyền phổ Liệt Hổ Quyền",
+      "Không để Liễu Như Yên hay Triệu Phong xuất hiện trực tiếp trong chương này",
+      "Hỗn Nguyên Đạo lục phải là kim thủ chỉ theo linh hồn, không phải vật ngoài thân",
+      "Chỉ mở ra bảng độ thuần thục cho các võ học hắn đang tiếp xúc: Liệt Hổ Quyền và thổ nạp pháp",
+      "Giữ nhịp khám phá ban đầu, chưa đột phá cảnh giới lớn trong chương này"
+    ],
+    "evaluation_focus": [
+      "Hệ thống hiển hiện có logic rõ ràng và không quá phô trương",
+      "Tâm lý Lý Xuyên phải lạnh, thực dụng, không ngây thơ",
+      "Cảnh giới/thuần thục/phẩm cấp phải dùng đúng khái niệm đã thiết lập",
+      "Tiết tấu khám phá không được lê thê hoặc giải thích thừa"
+    ],
+    "emotion_target": "Sảng khoái âm thầm, cảm giác hệ thống kích hoạt đúng chất cày cuốc",
+    "payoff_points": [
+      "Phục bút Hỗn Nguyên Đạo lục từ chương 3 được xác nhận",
+      "Liệt Hổ Quyền xuất hiện trên bảng độ thuần thục",
+      "Thổ nạp pháp cũng xuất hiện như công pháp nền tảng",
+      "Lý Xuyên xác lập nguyên tắc che giấu tiến độ"
+    ],
+    "hook_goal": "Tạo tò mò về thuộc tính/giới hạn ban đầu của bảng và động lực cày tiếp ngay trong chương sau."
+  }
+}

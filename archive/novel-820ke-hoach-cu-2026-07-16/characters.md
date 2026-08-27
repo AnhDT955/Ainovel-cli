@@ -1,0 +1,38 @@
+# Hồ sơ nhân vật
+
+## Lý Xuyên（）
+
+Người xuyên không tiếp quản thân thể thiếu niên có căn cốt cực giai tại Thanh Hà Huyện. Hắn lạnh lùng, thực dụng, đi theo cẩu đạo, trân trọng hy sinh của gia đình nhưng không ủy mị. Sở hữu Hỗn Nguyên Đạo lục, hắn cày độ thuần thục để âm thầm tích lũy, không khoe thực lực; nếu đã kết thù thì đánh phủ đầu và diệt sạch hậu họa.
+
+## Lý Vạn Sơn（）
+
+Gia gia của Lý Xuyên, cựu binh tàn tật từ chiến trường xưa. Ông cứng rắn, ít lời, đã dồn tiền trợ cấp dưỡng lão để cho cháu học võ. Ông là gốc rễ tình thân và ký ức về sự tàn khốc của loạn thế, khiến Lý Xuyên hiểu rằng thất bại sẽ kéo cả nhà xuống bùn máu.
+
+## Lý Thiết（）
+
+Đại bá của Lý Xuyên, phu khuân vác ở bến tàu. Tính hiền lành, chịu khổ, nhẫn nhịn trước quan phủ và hắc bang để kiếm tiền thuốc men, dược thiện cho cháu. Ông đại diện cho tầng đáy bị nghiền ép và là người Lý Xuyên nhất định phải bảo vệ.
+
+## Liễu Như Yên（）
+
+Nữ đệ tử trà xanh tại Liệt Hổ Võ Quán, sư muội mà nguyên chủ từng si mê. Nàng tâm cơ, giỏi giả yếu đuối, lợi dụng nguyên chủ để moi đan dược và tài nguyên rồi bám lấy kẻ có gia thế hơn. Vai trò của nàng là vết nhơ quá khứ bị Lý Xuyên dứt khoát chặt đứt.
+
+## Triệu Phong（）
+
+Nhị thiếu gia Triệu gia, sư huynh trong Liệt Hổ Võ Quán và cừu địch đầu tiên của Lý Xuyên. Hắn kiêu ngạo, ác độc, ỷ thế gia tộc, đứng sau xúi giục Liễu Như Yên và chèn ép Lý Xuyên. Hắn là phép thử đầu tiên cho nguyên tắc sát phạt quyết đoán của nhân vật chính.
+
+## Trương Bách Xuyên（）
+
+Quán chủ Liệt Hổ Võ Quán, võ giả Cấp 6 Nhập Lưu. Ông ngoài cứng trong mềm, thực tế, coi trọng lợi ích võ quán nhưng vẫn còn ranh giới đạo đức của võ giả. Ông là người truyền võ tầng đầu, thước đo sức mạnh ban đầu và cầu nối để Lý Xuyên bước ra khỏi huyện thành.
+
+## Thẩm Yên Nhiên（）
+
+Đại tiểu thư Vạn Kim Thương Hội, thông minh, quyết đoán, giỏi giao dịch và nắm tin tức. Nàng trở thành đối tác làm ăn bí mật của Lý Xuyên: cung cấp tài nguyên, đan dược, bí kíp, đường dây; đổi lại được hắn âm thầm bảo hộ. Quan hệ dựa trên lợi ích, tín nhiệm và ranh giới rõ ràng.
+
+## Hắc Lang（）
+
+Bang chủ Hắc Cốt Bang tại Thanh Hà Huyện. Hắn máu lạnh, đa nghi, tàn bạo, chuyên thu tiền bảo kê, buôn người, tống tiền và tàn sát bình dân để tranh địa bàn. Hắn là phản diện chủ chốt của tuyến hắc bang, buộc Lý Xuyên phải học cách giết không lưu danh.
+
+## Chu Liệt（）
+
+Trấn Bắc Vương của Đại Càn, thân vương nắm kỵ binh cường hãn và dã tâm tạo phản. Hắn âm thầm nuôi dưỡng Ma giáo và sát thủ, coi mạng người như cỏ rác, muốn biến thiên hạ thành lò luyện đan và chiến tranh. Hắn là phản diện cấp cao đối đầu với Lý Xuyên ở giai đoạn thiên hạ đại loạn.
+
