@@ -7,8 +7,8 @@
   "providers": {
     "openai": {
       "type": "openai",
-      "api_key": "sk-709b0e4429f88a66-gjiazd-3e391f87",
-      "base_url": "https://rahff2y.abc-tunnel.us/v1",
+      "api_key": "",
+      "base_url": "",
       "models": [
         "gpt-5.6-luna"
       ]
